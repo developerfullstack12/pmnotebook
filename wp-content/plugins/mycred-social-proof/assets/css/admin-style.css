@@ -1,0 +1,11 @@
+select.mycred_ref option {
+    padding: 7px;
+    border-bottom: solid 1px #c3c3c3;
+    margin: 5px;
+    border-radius: 7px;
+    box-shadow: 0px 0px 4px #CCC;
+}
+
+input#msp-btn {
+    margin: 10px 0px;
+}

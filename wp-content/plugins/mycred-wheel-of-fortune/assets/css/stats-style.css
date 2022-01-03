@@ -1,0 +1,62 @@
+.fortunewheel-stats-wrapper {
+    display: inline-block;
+    width: 100%;
+}
+
+.os-fortunewheel-count {
+    width: 16%;
+    float: left;
+    text-align: center;
+    margin: 10px 5px;
+    padding: 10px;
+    background-color: #f8f8f8;
+    height: 90px;
+    box-shadow: 0px 2px 2px #CCC;
+    opacity: 1;
+}
+
+.os-fortunewheel-count .os-num-counter {
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.os-fortunewheel-count .os-num-label {
+    font-weight: bold;
+    font-size: 12px;
+    margin: 10px;
+}
+
+.c100.small {
+    margin: 18px;
+    
+}
+
+.c100 > span {
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.cl-orange, .cl-orange:hover, .cl-orange span, .cl-orange .bar, .cl-orange .fill {
+    border-color: #FFAB4A !important;
+    color: #FFAB4A !important;
+}
+
+.cl-yellow, .cl-yellow:hover, .cl-yellow span, .cl-yellow .bar, .cl-yellow .fill {
+    border-color: #4DC26B !important;
+    color: #4DC26B !important;
+}
+
+.cl-blue, .cl-blue:hover, .cl-blue span, .cl-blue .bar, .cl-blue .fill {
+    border-color: #0098B7 !important;
+    color: #0098B7 !important;
+}
+
+.cl-red, .cl-red:hover, .cl-red span, .cl-red .bar, .cl-red .fill {
+    border-color: #EB5A46 !important;
+    color: #EB5A46 !important;
+}
+
+.cl-green,.cl-green:hover, .cl-green span, .cl-green .bar, .cl-green .fill {
+    border-color: #519839 !important;
+    color: #519839 !important;
+}

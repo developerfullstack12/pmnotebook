@@ -1,0 +1,671 @@
+
+
+@font-face { 
+	font-family: 'Quadrit'; 
+	src: url('Quadrit.ttf'); 
+}
+#mypacman_page{
+	position: relative;
+}
+.pacman_body { 
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	width: 100%;
+	height: 100%;
+	min-width: 550px;
+    min-height: 690px;
+}
+
+.pacman_body { 
+	position: relative;
+}
+
+
+#pacman_score, #pacman_highscore  { 
+	display: inline;
+	margin: 0px;
+	padding: 0px;
+	width: 200px;
+}
+#pacman_highscore { 
+	left: 180px;
+}
+#pacman_score h2, #pacman_score span, #pacman_highscore h2, #pacman_highscore span { 
+	display: block;
+	text-transform: uppercase;
+	font-weight: normal;
+	letter-spacing: 2px;
+	font-size: 16px;
+	height: 21px;
+	margin: 0px;
+	padding: 0px;
+	text-align: right;
+	padding-right: 15px;
+}
+#pacman_score span, #pacman_highscore span { 
+	padding-right: 0px;
+}
+#pacman_highscore span { 
+	padding-right: 40px;
+}
+#pacman_message { 
+	position: absolute;
+	display: inline;
+	left: 0;
+	margin: 0px;
+	padding: 0px;
+	width: 100%;
+	height: 30px;
+	text-transform: uppercase;
+	font-weight: normal;
+	letter-spacing: 2px;
+	font-size: 25px;
+	color: #fff200;
+	text-align: center;
+}
+#pacman_message.red { 
+	color: red;
+}
+
+span.combo, span.fruits { 
+	position: absolute;
+	letter-spacing: 1.5px;
+	font-size: 14px;
+	color: #89dfff;
+	font-weight: normal;
+}
+
+#pacman_panel, #pacman_home { 
+	width: 550px;
+	height: 690px;
+	margin: auto;
+	left: 0px;
+	right: 0px;
+	position: absolute;
+	padding: 5px 10px 10px 10px;
+	background-color: #000;
+}			
+#pacman_board, #canvas-board, #canvas-paths, #canvas-fruits, #canvas-pacman, #canvas-bubbles, #canvas-ghost-blinky, #canvas-ghost-pinky, #canvas-ghost-inky, #canvas-ghost-clyde { 
+	width: 100%;
+	 height: 93%; 
+	/* height: auto; */
+	position: absolute;
+}
+#canvas-paths { 
+	display: none;
+}
+#pacman_board {  
+	position: relative;
+}
+
+#canvas-lifes, #canvas-level-fruits { 
+	height: 30px;
+	 bottom:1%;
+	position: absolute;
+	z-index: 111111; 
+}
+#canvas-lifes { 
+	width: 120px;
+	left: 20px;
+}
+#canvas-level-fruits { 
+	width: 265px;
+	right: 20px;
+}
+
+#pacman_control { 
+	position: absolute;
+	margin: auto;
+	left: 0px;
+	right: 0px;
+	bottom: -145px;
+	width: 100%;
+	height: 140px;
+	background-color: #666;
+	opacity: 0.7;
+	display: none;
+}
+#control-up, #control-down, #control-up-second, #control-down-second, #control-left, #control-right, #control-up-big, #control-down-big, #control-left-big, #control-right-big { 
+	position: absolute;
+	margin: auto;
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+	background-size: 64px;
+	cursor: pointer;
+	width: 64px;
+	height: 64px;
+	padding: 5px;
+}
+#control-up { 
+	top: 0px;
+	left: 70px;
+	background-image: url('../img/move-up.png');
+}
+#control-down { 
+	bottom: 0px;
+	right: 70px;
+	background-image: url('../img/move-down.png');
+}
+#control-up-second { 
+	top: 0px;
+	right: 70px;
+	background-image: url('../img/move-up.png');
+}
+#control-down-second{ 
+	bottom: 0px;
+	left: 70px;
+	background-image: url('../img/move-down.png');
+}
+#control-left { 
+	bottom: 0px;
+	top: 0px;
+	left: 0px;
+	background-image: url('../img/move-left.png');
+}
+#control-right { 
+	bottom: 0px;
+	top: 0px;
+	right: 0px;
+	background-image: url('../img/move-right.png');
+}
+
+#control-up-big, #control-down-big, #control-left-big, #control-right-big { 
+	position: absolute;
+	opacity: 0.2;
+	margin: auto;
+	padding: 0px;
+	display: none;
+	background-size: 98px;
+	z-index: 999999;
+}
+#control-up-big { 
+	bottom: 10px;
+	left: 0px;
+	right: 0px;
+	width: 125px;
+	height: 125px;
+	background-image: url('../img/move-up-big.png');
+}
+#control-down-big { 
+	bottom: -120px;
+	left: 0px;
+	right: 0px;
+	width: 125px;
+	height: 125px;
+	background-image: url('../img/move-down-big.png');
+}
+#control-left-big { 
+	left: 80px;
+	bottom: -90px;
+	width: 125px;
+	height: 175px;
+	background-image: url('../img/move-left-big.png');
+}
+#control-right-big { 
+	right: 80px;
+	bottom: -90px;
+	width: 125px;
+	height: 175px;
+	background-image: url('../img/move-right-big.png');
+}
+
+
+
+#mypacman_page h1 { 
+	/*margin: 0px 0px 74px 0px;*/
+	padding-bottom: 74px;
+	font-size: 24px;
+	letter-spacing: 3px;
+	color: #fff;
+	text-transform: uppercase;
+	font-style: normal;
+}
+#mypacman_page h3 { 
+	margin: 0px;
+	padding: 0px;
+	font-size: 20px;
+	letter-spacing: 2px;
+	color: #fff;
+	text-transform: uppercase;
+	font-style: normal;
+}
+
+
+.pacman_sound img { 
+	height: 22px !important;
+}
+#pacman_home .pacman_sound { 
+	bottom: 0px;
+	right: 5px;
+}
+
+
+.github { 
+	position: absolute;
+	bottom: 0px;
+	left: 5px;
+}
+
+.putchu { 
+	position: absolute;
+	top: 450px;
+	left: 130px;
+	background-color: #4c6441;
+	padding: 10px 25px 40px 95px;
+	text-transform: uppercase;
+}
+.putchu img { 
+	position: absolute; 
+	bottom: -5px;
+	left: 5px;
+}
+#pacman_panel .putchu { 
+	top: 0px;
+	right: 5px;	
+	left: auto;
+	font-size: 16px;
+	padding: 10px 25px 30px 65px;
+}
+
+.help-button { 
+	text-align: center;
+	margin: auto;
+	font-size: 14px;
+	font-weight: bold;
+	text-transform: lowercase;
+	letter-spacing: 0.5px;
+	cursor: pointer;
+	color: #78abf7;
+	transition: color 1.5s;
+}
+.help-button.yo { 
+	color: #333;
+}
+
+
+#pacman_help h2 { 
+	margin: 0px 0px 10px 0px;
+	color: #d43b3b;
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 26px;
+}
+#pacman_help { 
+	position: absolute;
+	width: 420px;
+	height: 320px;
+	top: 100px;
+	left: 0px;
+	right: 0px;
+	margin: auto;
+	padding-top: 15px;
+	text-align: center;
+	z-index: 999999;
+	background-color: #222;
+	border: solid 1px #193fff;
+	text-transform: uppercase;
+	opacity: 0.9;
+	display: none;
+	cursor: pointer;
+}
+#pacman_help table tr td { 
+	font-size: 16px;
+	letter-spacing: 1px;
+	background-color: transparent;
+}
+#pacman_help table tr td:first-child { 
+	color: #f4c030;
+	font-weight: bold;
+	text-align: right;
+}
+#pacman_help table tr td:last-child { 
+	text-align: left;
+}
+
+#pacman_id_sound { 
+	position: absolute;
+}
+
+.ui-mobile {
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	-webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+
+
+
+@media screen and (min-height:1200px), screen and (min-device-height : 1200px) { 
+	#pacman_panel, #pacman_home { 
+		zoom: 135%;
+	}
+}
+
+@media screen and (max-width:1024px), screen and (min-device-width : 768px) and (max-device-width : 1024px) { 
+	#pacman_home .help-button,  #pacman_home .github { 
+		display: none;
+	}
+	#pacman_panel, #pacman_home { 
+		zoom: 105%;
+	}
+	#pacman_control{
+		display:inline;
+	}
+	#canvas-lifes, #canvas-level-fruits { 
+		bottom:.5%;
+   }
+}
+@media screen and (max-height:699px), screen and (min-device-height : 480px) and (max-device-height : 699px) and (-webkit-device-pixel-ratio: 3) { 
+ 
+	#pacman_panel, #pacman_home { 
+		zoom: 60%;
+	}
+	#pacman_home .help-button, #pacman_home .github{ 
+		display: none;
+	}
+	
+	#mypacman_page{
+		height: 60vh !important;
+	}
+	#mypacman_page{
+		height: 60vh !important;
+	}
+
+	#pacman_message {
+		top: 55%;
+		width: 100%;
+		left: 0;
+	}
+	#canvas-lifes, #canvas-level-fruits { 
+		bottom:.5%;
+   }
+}
+@media screen and (max-height:799px), screen and (min-device-height : 700px) and (max-device-height : 799px) and (-webkit-device-pixel-ratio: 3) { 
+ 
+	#pacman_panel, #pacman_home { 
+		zoom: 60%;
+	}
+	#pacman_home .help-button, #pacman_home .github{ 
+		display: none;
+	}
+	
+	#mypacman_page{
+		height: 70vh !important;
+	}
+	#mypacman_page{
+		height: 70vh !important;
+	}
+
+	#pacman_message {
+		top: 55%;
+		width: 100%;
+		left: 0;
+	}
+	#canvas-lifes, #canvas-level-fruits { 
+		bottom:.5%;
+   }
+}
+
+@media screen and (max-height:799px) and (max-width:600px), screen and (min-device-height : 700px) and (max-device-height : 799px) and (-webkit-device-pixel-ratio: 3) { 
+ 
+	#pacman_panel, #pacman_home { 
+		zoom: 60%;
+	}
+	#pacman_home .help-button, #pacman_home .github{ 
+		display: none;
+	}
+	
+	#mypacman_page{
+		height: 60vh !important;
+	}
+	#mypacman_page{
+		height: 60vh !important;
+	}
+
+	#pacman_message {
+		top: 55%;
+		width: 100%;
+		left: 0;
+	}
+	#canvas-lifes, #canvas-level-fruits { 
+		bottom:.5%;
+   }
+}
+
+@media screen and (max-height:900px), screen and (min-device-height : 800px) and (max-device-height : 900px) and (-webkit-device-pixel-ratio: 3) { 
+	#canvas-lifes, #canvas-level-fruits { 
+		bottom:.5%;
+   }
+	#pacman_panel, #pacman_home { 
+		zoom: 60%;
+	}
+	#pacman_home .help-button, #pacman_home .github{ 
+		display: none;
+	}
+	
+	
+}
+
+
+
+
+@media screen and (max-width: 600px) {
+    #mypacman_page h1 { 
+	    font-size: 28px!important;
+	}   
+	#mypacman_page #presentation-character-blinky, #mypacman_page #presentation-name-blinky, #mypacman_page #presentation-character-pinky, #mypacman_page #presentation-name-pinky,
+	#mypacman_page #presentation-character-inky,#mypacman_page #presentation-name-inky, #mypacman_page #presentation-character-clyde, #mypacman_page #presentation-name-clyde {
+		font-size: 15px!important;
+	}
+	#pacman_help h2{
+		font-size:18px;
+	}
+	#pacman_help table tr td {
+		font-size: 12px;
+	}
+	#pacman_help {
+	width: 100%;
+	height: auto;
+	}
+	#mypacman_page #pacman_toolbar .help-sound{
+		width: 25%;
+	}
+	#pacman_panel #pacman_toolbar .pacman_sound img{
+		margin-top: 0;
+		margin-top: 10px;
+	}
+}
+
+
+
+@media screen and (max-width: 340px){ 
+	
+	#mypacman_page{
+		height: 40vh !important;
+	}
+	
+}
+
+@media screen and (max-height:900px) and (max-width: 399px), screen and (min-device-height : 800px) and (max-device-height : 900px)  and (-webkit-device-pixel-ratio: 3) { 
+	
+	#mypacman_page{
+		height: 48vh !important;
+	}
+	
+}
+
+@media screen and (max-height:900px) and (min-width: 400px) and (max-width: 600px), screen and (min-device-height : 800px) and (max-device-height : 900px)  and (-webkit-device-pixel-ratio: 3) { 
+	
+	#mypacman_page{
+		height: 51vh !important;
+	}
+	
+}
+
+
+
+
+@media screen and (max-height:480px), screen and (min-device-height : 320px) and (max-device-height : 480px) { 
+	#canvas-lifes, #canvas-level-fruits { 
+		bottom:.5%;
+   }
+	#pacman_panel, #pacman_home { 
+		zoom: 55%;
+	}
+	h1, #canvas-panel-title-pacman, #control-up-second, #control-down-second, #pacman_home .help-button, #pacman_home .github { 
+		display: none;
+	}
+	#pacman_score, #pacman_highscore { 
+		top: 0px;
+	}
+	#pacman_panel { 
+		padding-top: 50px;
+	}
+	
+	#pacman_control { 
+		bottom: 50px;
+		width: 550px;
+		height: 55px;
+	}
+	#control-up, #control-down, #control-left, #control-right { 
+		top: 0px;
+		bottom: 0px;
+		background-size: 48px;
+		width: 48px;
+		height: 48px;
+		padding: 5px;
+		display:none;
+	}
+	#pacman_message { 
+		top: 55%;
+			width: 100%;
+			left: 0;
+	}
+	
+}
+
+
+/* custom css */
+#canvas-panel-title-pacman
+{
+	display:none;
+}
+#pacman_score span, #pacman_highscore span
+{
+	display:inline;
+}
+
+#pacman_panel, #pacman_home { 
+	width: 100%;
+	height:100%;
+	background-color:transparent;
+	padding: 5px 20px 20px 20px;
+}
+
+#canvas-home-title-pacman
+{
+	display:none;
+}
+#pacman_home h1:before, #pacman_home h2:before, #pacman_panel h1:before, #pacman_panel h2:before
+{
+	    background: transparent;
+}
+
+#pacman_score, #pacman_highscore
+{
+	color:#FFF;
+}
+#pacman_score h2, #pacman_highscore h2
+{
+	display: inline-block;
+}
+.pacman_sound:focus
+{
+	outline:none;
+}
+#pacman_panel h1:before, #pacman_panel h2:before
+{
+	margin:5px 0;
+}
+#pacman_home h1
+{
+	font-size:58px;
+}
+.pacman_game
+{
+    position: absolute; /* relative */
+    width: 100%; /* 590px */
+    /* height: 720px; */
+	right: 0;
+    top: 50px;
+    bottom: 0;
+}
+
+#pacman_panel h1:before
+{
+	display:none;
+}
+#pacman_panel h1
+{
+	margin-top:0px;
+}
+
+#pacman_message
+{
+	top:55%;
+}
+
+#mypacman_page {
+ /*   overflow-y: hidden; */
+	
+}
+
+#pacman_help table tr td:last-child {
+    text-align: left;
+    color: #fff;
+}
+
+.pacman_preview{
+	position:relative;
+}
+
+.pacman_preview .pacman_preview_img{
+	margin: 0 auto;
+    display: block;
+}
+.pacman_preview .pacman_preview_btn{
+	position:absolute;
+	top: 20%;
+    left: 40%;
+}
+.pacman_preview .pacman_preview_img{
+	cursor:pointer;
+}
+.modal-backdrop
+{
+    opacity:0.5 !important;
+}
+#mypacman_page{
+	background-color: rgba(0,0,0,0.8);
+}
+
+#pacman_help h2:before{
+	display:none;
+}
+
+
+@media screen and (min-width:1650px){ 
+	#mypacman_page{
+		height: 610px !important;
+	}
+
+}
+/* custom css ends */
+
+
+#pacman_board .js-files-error{
+	color:#FFF;
+	text-align:center;
+}

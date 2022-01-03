@@ -1,0 +1,44 @@
+2021-12-27T05:55:47+00:00 CRITICAL Uncaught Error: Call to undefined function educavo_wc_add_to_cart_icon() in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/woocommerce/product-slider.php:881
+Stack trace:
+#0 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/controls-stack.php(2154): Rsaddon_Elementor_Pro_Product_Slider_Widget->render()
+#1 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(581): Elementor\Controls_Stack->render_by_mode()
+#2 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(722): Elementor\Widget_Base->render_content()
+#3 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(450): Elementor\Widget_Base->print_content()
+#4 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(744): Elementor\Element_Base->print_element()
+#5 /home/dr6wz5k775ei/public_html/PMnotebo in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/woocommerce/product-slider.php on line 881
+
+2021-12-27T11:58:02+00:00 CRITICAL Uncaught Error: Call to undefined function fortunewheel_crb_get_i18n_suffix() in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/mycred-wheel-of-fortune/inc/classes/class-fortunewheel-coupon-request.php:215
+Stack trace:
+#0 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-includes/class-wp-hook.php(303): mycred_fortunewheel_Coupon_Request->mycred_fortunewheel_coupon_request_callback('')
+#1 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-admin/admin-ajax.php(187): do_action('wp_ajax_fortune...')
+#4 {main}
+  thrown in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/mycred-wheel-of-fortune/inc/classes/class-fortunewheel-coupon-request.php on line 215
+
+2021-12-27T12:02:13+00:00 CRITICAL Uncaught Error: Call to undefined function fortunewheel_crb_get_i18n_suffix() in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/mycred-wheel-of-fortune/inc/classes/class-fortunewheel-coupon-request.php:215
+Stack trace:
+#0 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-includes/class-wp-hook.php(303): mycred_fortunewheel_Coupon_Request->mycred_fortunewheel_coupon_request_callback('')
+#1 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-admin/admin-ajax.php(187): do_action('wp_ajax_fortune...')
+#4 {main}
+  thrown in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/mycred-wheel-of-fortune/inc/classes/class-fortunewheel-coupon-request.php on line 215
+
+2021-12-27T12:56:54+00:00 CRITICAL Uncaught Error: Call to undefined function fortunewheel_crb_get_i18n_suffix() in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/mycred-wheel-of-fortune/inc/classes/class-fortunewheel-coupon-request.php:215
+Stack trace:
+#0 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-includes/class-wp-hook.php(303): mycred_fortunewheel_Coupon_Request->mycred_fortunewheel_coupon_request_callback('')
+#1 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-admin/admin-ajax.php(187): do_action('wp_ajax_fortune...')
+#4 {main}
+  thrown in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/mycred-wheel-of-fortune/inc/classes/class-fortunewheel-coupon-request.php on line 215
+
+2021-12-27T13:33:14+00:00 CRITICAL Cannot redeclare bbp_get_logout_link() (previously declared in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-forums/common/template.php:2703) in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/themes/buddyboss-theme/functions.php on line 139
+
+2021-12-27T13:33:31+00:00 CRITICAL Cannot redeclare bbp_get_logout_link() (previously declared in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-forums/common/template.php:2703) in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/themes/buddyboss-theme/functions.php on line 139
+
+2021-12-27T13:33:38+00:00 CRITICAL Cannot redeclare bbp_get_logout_link() (previously declared in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-forums/common/template.php:2703) in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/themes/buddyboss-theme/functions.php on line 139
+
+2021-12-27T13:33:41+00:00 CRITICAL Cannot redeclare bbp_get_logout_link() (previously declared in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-forums/common/template.php:2703) in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/themes/buddyboss-theme/functions.php on line 139
+

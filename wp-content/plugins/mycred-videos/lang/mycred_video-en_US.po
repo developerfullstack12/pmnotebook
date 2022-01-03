@@ -1,0 +1,107 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: myCRED Video Add-on\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-03-05 02:51+0000\n"
+"PO-Revision-Date: 2017-03-05 02:51+0000\n"
+"Last-Translator: Gabriel Merovingi <gabriel.s@merovingi.com>\n"
+"Language-Team: English (United States)\n"
+"Language: en-US\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: mycred-videos.php:176
+msgid "%plural% for viewing Videos (Premium)"
+msgstr ""
+
+#: mycred-videos.php:177
+msgid "Award or deduct points from users for viewing YouTube or Vimeo videos."
+msgstr ""
+
+#: mycred-videos.php:265
+msgid "More information about this plugin"
+msgstr ""
+
+#: mycred-videos.php:267
+msgid "View details"
+msgstr ""
+
+#: includes/mycred-video-pro-hook.php:383
+msgid "Amount to award for viewing videos."
+msgstr ""
+
+#: includes/mycred-video-pro-hook.php:386
+msgid "Log Template"
+msgstr ""
+
+#: includes/mycred-video-pro-hook.php:390
+msgid "Available template tags: General"
+msgstr ""
+
+#: includes/mycred-video-pro-hook.php:393
+msgid "Award Logic"
+msgstr ""
+
+#: includes/mycred-video-pro-hook.php:394
+msgid "Select when %_plural% should be awarded or deducted."
+msgstr ""
+
+#: includes/mycred-video-pro-hook.php:396
+msgid "Play - As soon as video starts playing."
+msgstr ""
+
+#: includes/mycred-video-pro-hook.php:397
+msgid "Full - First when the entire video has played."
+msgstr ""
+
+#: includes/mycred-video-pro-hook.php:398
+msgid "Interval - For each x number of seconds watched."
+msgstr ""
+
+#: includes/mycred-video-pro-hook.php:401
+msgid "Interval"
+msgstr ""
+
+#: includes/mycred-video-pro-hook.php:403
+msgid "Number of seconds"
+msgstr ""
+
+#: includes/mycred-video-pro-hook.php:410
+msgid "Leniency"
+msgstr ""
+
+#: includes/mycred-video-pro-hook.php:412
+msgid ""
+"The maximum percentage a users view of a movie can differ from the actual "
+"length."
+msgstr ""
+
+#: includes/mycred-video-pro-hook.php:415
+msgid ""
+"Do not set this value to zero! A lot of thing can happen while a user "
+"watches a movie and sometimes a few seconds can drop of the counter due to "
+"buffering or play back errors."
+msgstr ""
+
+#: includes/mycred-video-pro-hook.php:419
+msgid "Update Notice"
+msgstr ""
+
+#: includes/mycred-video-pro-hook.php:423
+msgid ""
+"If set, this notice is shown under the video once the user has received "
+"%plural%."
+msgstr ""
+
+#: includes/mycred-shortcodes.php:43
+msgid "A video ID is required for this shortcode"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Replaced the built-in myCRED video hook with a premium version that suppots "
+"YouTube and Vimeo videos."
+msgstr ""

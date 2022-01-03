@@ -1,0 +1,2297 @@
+
+---Downloaded files---
+The import files for: Educavo LearnDash Demo Import were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://www.3iservices.in/PMnotebooks
+Data file = /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/uploads/2021/11/demo-content-import-file_2021-11-01__07-15-47.xml
+Widget file = /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/uploads/2021/11/demo-widgets-import-file_2021-11-01__07-15-47.json
+Customizer file = not defined!
+Redux files:
+educavo_option -> /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/uploads/2021/11/demo-redux-import-file_0-2021-11-01__07-15-47.json 
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ld_topic_category Advance
+[WARNING] Failed to import ld_course_category Artificial Intelligence
+[WARNING] Failed to import ld_topic_category Basic
+[WARNING] Failed to import ld_course_category Business Studies
+[WARNING] Failed to import ld_course_category Civil Engineering
+[WARNING] Failed to import ld_course_category Computer Engineering
+[WARNING] Failed to import ld_course_category Computer Science
+[WARNING] Failed to import ld_course_category Freelancer
+[WARNING] Failed to import ld_topic_category Fundamental
+[WARNING] Failed to import ld_topic_category General
+[WARNING] Failed to import ld_course_category General Education
+[WARNING] Failed to import ld_course_category High School
+[WARNING] Failed to import ld_course_category Lawyer Course
+[WARNING] Failed to import ld_course_category Life Course
+[WARNING] Failed to import ld_course_category Online Education
+[WARNING] Failed to import ld_course_category Pre School
+[WARNING] Failed to import ld_topic_category Promotion
+[WARNING] Failed to import ld_course_category Recipes
+[WARNING] Failed to import ld_topic_category Science
+[WARNING] Failed to import ld_topic_category Startup
+[WARNING] Failed to import ld_course_category UI/UX
+[WARNING] Failed to import ld_course_category Web Development
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ld_topic_category Advance
+[WARNING] Failed to import ld_course_category Artificial Intelligence
+[WARNING] Failed to import ld_topic_category Basic
+[WARNING] Failed to import ld_course_category Business Studies
+[WARNING] Failed to import ld_course_category Civil Engineering
+[WARNING] Failed to import ld_course_category Computer Engineering
+[WARNING] Failed to import ld_course_category Computer Science
+[WARNING] Failed to import ld_course_category Freelancer
+[WARNING] Failed to import ld_topic_category Fundamental
+[WARNING] Failed to import ld_topic_category General
+[WARNING] Failed to import ld_course_category General Education
+[WARNING] Failed to import ld_course_category High School
+[WARNING] Failed to import ld_course_category Lawyer Course
+[WARNING] Failed to import ld_course_category Life Course
+[WARNING] Failed to import ld_course_category Online Education
+[WARNING] Failed to import ld_course_category Pre School
+[WARNING] Failed to import ld_topic_category Promotion
+[WARNING] Failed to import ld_course_category Recipes
+[WARNING] Failed to import ld_topic_category Science
+[WARNING] Failed to import ld_topic_category Startup
+[WARNING] Failed to import ld_course_category UI/UX
+[WARNING] Failed to import ld_course_category Web Development
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ld_topic_category Advance
+[WARNING] Failed to import ld_course_category Artificial Intelligence
+[WARNING] Failed to import ld_topic_category Basic
+[WARNING] Failed to import ld_course_category Business Studies
+[WARNING] Failed to import ld_course_category Civil Engineering
+[WARNING] Failed to import ld_course_category Computer Engineering
+[WARNING] Failed to import ld_course_category Computer Science
+[WARNING] Failed to import ld_course_category Freelancer
+[WARNING] Failed to import ld_topic_category Fundamental
+[WARNING] Failed to import ld_topic_category General
+[WARNING] Failed to import ld_course_category General Education
+[WARNING] Failed to import ld_course_category High School
+[WARNING] Failed to import ld_course_category Lawyer Course
+[WARNING] Failed to import ld_course_category Life Course
+[WARNING] Failed to import ld_course_category Online Education
+[WARNING] Failed to import ld_course_category Pre School
+[WARNING] Failed to import ld_topic_category Promotion
+[WARNING] Failed to import ld_course_category Recipes
+[WARNING] Failed to import ld_topic_category Science
+[WARNING] Failed to import ld_topic_category Startup
+[WARNING] Failed to import ld_course_category UI/UX
+[WARNING] Failed to import ld_course_category Web Development
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ld_topic_category Advance
+[WARNING] Failed to import ld_course_category Artificial Intelligence
+[WARNING] Failed to import ld_topic_category Basic
+[WARNING] Failed to import ld_course_category Business Studies
+[WARNING] Failed to import ld_course_category Civil Engineering
+[WARNING] Failed to import ld_course_category Computer Engineering
+[WARNING] Failed to import ld_course_category Computer Science
+[WARNING] Failed to import ld_course_category Freelancer
+[WARNING] Failed to import ld_topic_category Fundamental
+[WARNING] Failed to import ld_topic_category General
+[WARNING] Failed to import ld_course_category General Education
+[WARNING] Failed to import ld_course_category High School
+[WARNING] Failed to import ld_course_category Lawyer Course
+[WARNING] Failed to import ld_course_category Life Course
+[WARNING] Failed to import ld_course_category Online Education
+[WARNING] Failed to import ld_course_category Pre School
+[WARNING] Failed to import ld_topic_category Promotion
+[WARNING] Failed to import ld_course_category Recipes
+[WARNING] Failed to import ld_topic_category Science
+[WARNING] Failed to import ld_topic_category Startup
+[WARNING] Failed to import ld_course_category UI/UX
+[WARNING] Failed to import ld_course_category Web Development
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ld_topic_category Advance
+[WARNING] Failed to import ld_course_category Artificial Intelligence
+[WARNING] Failed to import ld_topic_category Basic
+[WARNING] Failed to import ld_course_category Business Studies
+[WARNING] Failed to import ld_course_category Civil Engineering
+[WARNING] Failed to import ld_course_category Computer Engineering
+[WARNING] Failed to import ld_course_category Computer Science
+[WARNING] Failed to import ld_course_category Freelancer
+[WARNING] Failed to import ld_topic_category Fundamental
+[WARNING] Failed to import ld_topic_category General
+[WARNING] Failed to import ld_course_category General Education
+[WARNING] Failed to import ld_course_category High School
+[WARNING] Failed to import ld_course_category Lawyer Course
+[WARNING] Failed to import ld_course_category Life Course
+[WARNING] Failed to import ld_course_category Online Education
+[WARNING] Failed to import ld_course_category Pre School
+[WARNING] Failed to import ld_topic_category Promotion
+[WARNING] Failed to import ld_course_category Recipes
+[WARNING] Failed to import ld_topic_category Science
+[WARNING] Failed to import ld_topic_category Startup
+[WARNING] Failed to import ld_course_category UI/UX
+[WARNING] Failed to import ld_course_category Web Development
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ld_topic_category Advance
+[WARNING] Failed to import ld_course_category Artificial Intelligence
+[WARNING] Failed to import ld_topic_category Basic
+[WARNING] Failed to import ld_course_category Business Studies
+[WARNING] Failed to import ld_course_category Civil Engineering
+[WARNING] Failed to import ld_course_category Computer Engineering
+[WARNING] Failed to import ld_course_category Computer Science
+[WARNING] Failed to import ld_course_category Freelancer
+[WARNING] Failed to import ld_topic_category Fundamental
+[WARNING] Failed to import ld_topic_category General
+[WARNING] Failed to import ld_course_category General Education
+[WARNING] Failed to import ld_course_category High School
+[WARNING] Failed to import ld_course_category Lawyer Course
+[WARNING] Failed to import ld_course_category Life Course
+[WARNING] Failed to import ld_course_category Online Education
+[WARNING] Failed to import ld_course_category Pre School
+[WARNING] Failed to import ld_topic_category Promotion
+[WARNING] Failed to import ld_course_category Recipes
+[WARNING] Failed to import ld_topic_category Science
+[WARNING] Failed to import ld_topic_category Startup
+[WARNING] Failed to import ld_course_category UI/UX
+[WARNING] Failed to import ld_course_category Web Development
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ld_topic_category Advance
+[WARNING] Failed to import ld_course_category Artificial Intelligence
+[WARNING] Failed to import ld_topic_category Basic
+[WARNING] Failed to import ld_course_category Business Studies
+[WARNING] Failed to import ld_course_category Civil Engineering
+[WARNING] Failed to import ld_course_category Computer Engineering
+[WARNING] Failed to import ld_course_category Computer Science
+[WARNING] Failed to import ld_course_category Freelancer
+[WARNING] Failed to import ld_topic_category Fundamental
+[WARNING] Failed to import ld_topic_category General
+[WARNING] Failed to import ld_course_category General Education
+[WARNING] Failed to import ld_course_category High School
+[WARNING] Failed to import ld_course_category Lawyer Course
+[WARNING] Failed to import ld_course_category Life Course
+[WARNING] Failed to import ld_course_category Online Education
+[WARNING] Failed to import ld_course_category Pre School
+[WARNING] Failed to import ld_topic_category Promotion
+[WARNING] Failed to import ld_course_category Recipes
+[WARNING] Failed to import ld_topic_category Science
+[WARNING] Failed to import ld_topic_category Startup
+[WARNING] Failed to import ld_course_category UI/UX
+[WARNING] Failed to import ld_course_category Web Development
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ld_topic_category Advance
+[WARNING] Failed to import ld_course_category Artificial Intelligence
+[WARNING] Failed to import ld_topic_category Basic
+[WARNING] Failed to import ld_course_category Business Studies
+[WARNING] Failed to import ld_course_category Civil Engineering
+[WARNING] Failed to import ld_course_category Computer Engineering
+[WARNING] Failed to import ld_course_category Computer Science
+[WARNING] Failed to import ld_course_category Freelancer
+[WARNING] Failed to import ld_topic_category Fundamental
+[WARNING] Failed to import ld_topic_category General
+[WARNING] Failed to import ld_course_category General Education
+[WARNING] Failed to import ld_course_category High School
+[WARNING] Failed to import ld_course_category Lawyer Course
+[WARNING] Failed to import ld_course_category Life Course
+[WARNING] Failed to import ld_course_category Online Education
+[WARNING] Failed to import ld_course_category Pre School
+[WARNING] Failed to import ld_topic_category Promotion
+[WARNING] Failed to import ld_course_category Recipes
+[WARNING] Failed to import ld_topic_category Science
+[WARNING] Failed to import ld_topic_category Startup
+[WARNING] Failed to import ld_course_category UI/UX
+[WARNING] Failed to import ld_course_category Web Development
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ld_topic_category Advance
+[WARNING] Failed to import ld_course_category Artificial Intelligence
+[WARNING] Failed to import ld_topic_category Basic
+[WARNING] Failed to import ld_course_category Business Studies
+[WARNING] Failed to import ld_course_category Civil Engineering
+[WARNING] Failed to import ld_course_category Computer Engineering
+[WARNING] Failed to import ld_course_category Computer Science
+[WARNING] Failed to import ld_course_category Freelancer
+[WARNING] Failed to import ld_topic_category Fundamental
+[WARNING] Failed to import ld_topic_category General
+[WARNING] Failed to import ld_course_category General Education
+[WARNING] Failed to import ld_course_category High School
+[WARNING] Failed to import ld_course_category Lawyer Course
+[WARNING] Failed to import ld_course_category Life Course
+[WARNING] Failed to import ld_course_category Online Education
+[WARNING] Failed to import ld_course_category Pre School
+[WARNING] Failed to import ld_topic_category Promotion
+[WARNING] Failed to import ld_course_category Recipes
+[WARNING] Failed to import ld_topic_category Science
+[WARNING] Failed to import ld_topic_category Startup
+[WARNING] Failed to import ld_course_category UI/UX
+[WARNING] Failed to import ld_course_category Web Development
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ld_topic_category Advance
+[WARNING] Failed to import ld_course_category Artificial Intelligence
+[WARNING] Failed to import ld_topic_category Basic
+[WARNING] Failed to import ld_course_category Business Studies
+[WARNING] Failed to import ld_course_category Civil Engineering
+[WARNING] Failed to import ld_course_category Computer Engineering
+[WARNING] Failed to import ld_course_category Computer Science
+[WARNING] Failed to import ld_course_category Freelancer
+[WARNING] Failed to import ld_topic_category Fundamental
+[WARNING] Failed to import ld_topic_category General
+[WARNING] Failed to import ld_course_category General Education
+[WARNING] Failed to import ld_course_category High School
+[WARNING] Failed to import ld_course_category Lawyer Course
+[WARNING] Failed to import ld_course_category Life Course
+[WARNING] Failed to import ld_course_category Online Education
+[WARNING] Failed to import ld_course_category Pre School
+[WARNING] Failed to import ld_topic_category Promotion
+[WARNING] Failed to import ld_course_category Recipes
+[WARNING] Failed to import ld_topic_category Science
+[WARNING] Failed to import ld_topic_category Startup
+[WARNING] Failed to import ld_course_category UI/UX
+[WARNING] Failed to import ld_course_category Web Development
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ld_topic_category Advance
+[WARNING] Failed to import ld_course_category Artificial Intelligence
+[WARNING] Failed to import ld_topic_category Basic
+[WARNING] Failed to import ld_course_category Business Studies
+[WARNING] Failed to import ld_course_category Civil Engineering
+[WARNING] Failed to import ld_course_category Computer Engineering
+[WARNING] Failed to import ld_course_category Computer Science
+[WARNING] Failed to import ld_course_category Freelancer
+[WARNING] Failed to import ld_topic_category Fundamental
+[WARNING] Failed to import ld_topic_category General
+[WARNING] Failed to import ld_course_category General Education
+[WARNING] Failed to import ld_course_category High School
+[WARNING] Failed to import ld_course_category Lawyer Course
+[WARNING] Failed to import ld_course_category Life Course
+[WARNING] Failed to import ld_course_category Online Education
+[WARNING] Failed to import ld_course_category Pre School
+[WARNING] Failed to import ld_topic_category Promotion
+[WARNING] Failed to import ld_course_category Recipes
+[WARNING] Failed to import ld_topic_category Science
+[WARNING] Failed to import ld_topic_category Startup
+[WARNING] Failed to import ld_course_category UI/UX
+[WARNING] Failed to import ld_course_category Web Development
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ld_topic_category Advance
+[WARNING] Failed to import ld_course_category Artificial Intelligence
+[WARNING] Failed to import ld_topic_category Basic
+[WARNING] Failed to import ld_course_category Business Studies
+[WARNING] Failed to import ld_course_category Civil Engineering
+[WARNING] Failed to import ld_course_category Computer Engineering
+[WARNING] Failed to import ld_course_category Computer Science
+[WARNING] Failed to import ld_course_category Freelancer
+[WARNING] Failed to import ld_topic_category Fundamental
+[WARNING] Failed to import ld_topic_category General
+[WARNING] Failed to import ld_course_category General Education
+[WARNING] Failed to import ld_course_category High School
+[WARNING] Failed to import ld_course_category Lawyer Course
+[WARNING] Failed to import ld_course_category Life Course
+[WARNING] Failed to import ld_course_category Online Education
+[WARNING] Failed to import ld_course_category Pre School
+[WARNING] Failed to import ld_topic_category Promotion
+[WARNING] Failed to import ld_course_category Recipes
+[WARNING] Failed to import ld_topic_category Science
+[WARNING] Failed to import ld_topic_category Startup
+[WARNING] Failed to import ld_course_category UI/UX
+[WARNING] Failed to import ld_course_category Web Development
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ld_topic_category Advance
+[WARNING] Failed to import ld_course_category Artificial Intelligence
+[WARNING] Failed to import ld_topic_category Basic
+[WARNING] Failed to import ld_course_category Business Studies
+[WARNING] Failed to import ld_course_category Civil Engineering
+[WARNING] Failed to import ld_course_category Computer Engineering
+[WARNING] Failed to import ld_course_category Computer Science
+[WARNING] Failed to import ld_course_category Freelancer
+[WARNING] Failed to import ld_topic_category Fundamental
+[WARNING] Failed to import ld_topic_category General
+[WARNING] Failed to import ld_course_category General Education
+[WARNING] Failed to import ld_course_category High School
+[WARNING] Failed to import ld_course_category Lawyer Course
+[WARNING] Failed to import ld_course_category Life Course
+[WARNING] Failed to import ld_course_category Online Education
+[WARNING] Failed to import ld_course_category Pre School
+[WARNING] Failed to import ld_topic_category Promotion
+[WARNING] Failed to import ld_course_category Recipes
+[WARNING] Failed to import ld_topic_category Science
+[WARNING] Failed to import ld_topic_category Startup
+[WARNING] Failed to import ld_course_category UI/UX
+[WARNING] Failed to import ld_course_category Web Development
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ld_topic_category Advance
+[WARNING] Failed to import ld_course_category Artificial Intelligence
+[WARNING] Failed to import ld_topic_category Basic
+[WARNING] Failed to import ld_course_category Business Studies
+[WARNING] Failed to import ld_course_category Civil Engineering
+[WARNING] Failed to import ld_course_category Computer Engineering
+[WARNING] Failed to import ld_course_category Computer Science
+[WARNING] Failed to import ld_course_category Freelancer
+[WARNING] Failed to import ld_topic_category Fundamental
+[WARNING] Failed to import ld_topic_category General
+[WARNING] Failed to import ld_course_category General Education
+[WARNING] Failed to import ld_course_category High School
+[WARNING] Failed to import ld_course_category Lawyer Course
+[WARNING] Failed to import ld_course_category Life Course
+[WARNING] Failed to import ld_course_category Online Education
+[WARNING] Failed to import ld_course_category Pre School
+[WARNING] Failed to import ld_topic_category Promotion
+[WARNING] Failed to import ld_course_category Recipes
+[WARNING] Failed to import ld_topic_category Science
+[WARNING] Failed to import ld_topic_category Startup
+[WARNING] Failed to import ld_course_category UI/UX
+[WARNING] Failed to import ld_course_category Web Development
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ld_topic_category Advance
+[WARNING] Failed to import ld_course_category Artificial Intelligence
+[WARNING] Failed to import ld_topic_category Basic
+[WARNING] Failed to import ld_course_category Business Studies
+[WARNING] Failed to import ld_course_category Civil Engineering
+[WARNING] Failed to import ld_course_category Computer Engineering
+[WARNING] Failed to import ld_course_category Computer Science
+[WARNING] Failed to import ld_course_category Freelancer
+[WARNING] Failed to import ld_topic_category Fundamental
+[WARNING] Failed to import ld_topic_category General
+[WARNING] Failed to import ld_course_category General Education
+[WARNING] Failed to import ld_course_category High School
+[WARNING] Failed to import ld_course_category Lawyer Course
+[WARNING] Failed to import ld_course_category Life Course
+[WARNING] Failed to import ld_course_category Online Education
+[WARNING] Failed to import ld_course_category Pre School
+[WARNING] Failed to import ld_topic_category Promotion
+[WARNING] Failed to import ld_course_category Recipes
+[WARNING] Failed to import ld_topic_category Science
+[WARNING] Failed to import ld_topic_category Startup
+[WARNING] Failed to import ld_course_category UI/UX
+[WARNING] Failed to import ld_course_category Web Development
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ld_topic_category Advance
+[WARNING] Failed to import ld_course_category Artificial Intelligence
+[WARNING] Failed to import ld_topic_category Basic
+[WARNING] Failed to import ld_course_category Business Studies
+[WARNING] Failed to import ld_course_category Civil Engineering
+[WARNING] Failed to import ld_course_category Computer Engineering
+[WARNING] Failed to import ld_course_category Computer Science
+[WARNING] Failed to import ld_course_category Freelancer
+[WARNING] Failed to import ld_topic_category Fundamental
+[WARNING] Failed to import ld_topic_category General
+[WARNING] Failed to import ld_course_category General Education
+[WARNING] Failed to import ld_course_category High School
+[WARNING] Failed to import ld_course_category Lawyer Course
+[WARNING] Failed to import ld_course_category Life Course
+[WARNING] Failed to import ld_course_category Online Education
+[WARNING] Failed to import ld_course_category Pre School
+[WARNING] Failed to import ld_topic_category Promotion
+[WARNING] Failed to import ld_course_category Recipes
+[WARNING] Failed to import ld_topic_category Science
+[WARNING] Failed to import ld_topic_category Startup
+[WARNING] Failed to import ld_course_category UI/UX
+[WARNING] Failed to import ld_course_category Web Development
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ld_topic_category Advance
+[WARNING] Failed to import ld_course_category Artificial Intelligence
+[WARNING] Failed to import ld_topic_category Basic
+[WARNING] Failed to import ld_course_category Business Studies
+[WARNING] Failed to import ld_course_category Civil Engineering
+[WARNING] Failed to import ld_course_category Computer Engineering
+[WARNING] Failed to import ld_course_category Computer Science
+[WARNING] Failed to import ld_course_category Freelancer
+[WARNING] Failed to import ld_topic_category Fundamental
+[WARNING] Failed to import ld_topic_category General
+[WARNING] Failed to import ld_course_category General Education
+[WARNING] Failed to import ld_course_category High School
+[WARNING] Failed to import ld_course_category Lawyer Course
+[WARNING] Failed to import ld_course_category Life Course
+[WARNING] Failed to import ld_course_category Online Education
+[WARNING] Failed to import ld_course_category Pre School
+[WARNING] Failed to import ld_topic_category Promotion
+[WARNING] Failed to import ld_course_category Recipes
+[WARNING] Failed to import ld_topic_category Science
+[WARNING] Failed to import ld_topic_category Startup
+[WARNING] Failed to import ld_course_category UI/UX
+[WARNING] Failed to import ld_course_category Web Development
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ld_topic_category Advance
+[WARNING] Failed to import ld_course_category Artificial Intelligence
+[WARNING] Failed to import ld_topic_category Basic
+[WARNING] Failed to import ld_course_category Business Studies
+[WARNING] Failed to import ld_course_category Civil Engineering
+[WARNING] Failed to import ld_course_category Computer Engineering
+[WARNING] Failed to import ld_course_category Computer Science
+[WARNING] Failed to import ld_course_category Freelancer
+[WARNING] Failed to import ld_topic_category Fundamental
+[WARNING] Failed to import ld_topic_category General
+[WARNING] Failed to import ld_course_category General Education
+[WARNING] Failed to import ld_course_category High School
+[WARNING] Failed to import ld_course_category Lawyer Course
+[WARNING] Failed to import ld_course_category Life Course
+[WARNING] Failed to import ld_course_category Online Education
+[WARNING] Failed to import ld_course_category Pre School
+[WARNING] Failed to import ld_topic_category Promotion
+[WARNING] Failed to import ld_course_category Recipes
+[WARNING] Failed to import ld_topic_category Science
+[WARNING] Failed to import ld_topic_category Startup
+[WARNING] Failed to import ld_course_category UI/UX
+[WARNING] Failed to import ld_course_category Web Development
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ld_topic_category Advance
+[WARNING] Failed to import ld_course_category Artificial Intelligence
+[WARNING] Failed to import ld_topic_category Basic
+[WARNING] Failed to import ld_course_category Business Studies
+[WARNING] Failed to import ld_course_category Civil Engineering
+[WARNING] Failed to import ld_course_category Computer Engineering
+[WARNING] Failed to import ld_course_category Computer Science
+[WARNING] Failed to import ld_course_category Freelancer
+[WARNING] Failed to import ld_topic_category Fundamental
+[WARNING] Failed to import ld_topic_category General
+[WARNING] Failed to import ld_course_category General Education
+[WARNING] Failed to import ld_course_category High School
+[WARNING] Failed to import ld_course_category Lawyer Course
+[WARNING] Failed to import ld_course_category Life Course
+[WARNING] Failed to import ld_course_category Online Education
+[WARNING] Failed to import ld_course_category Pre School
+[WARNING] Failed to import ld_topic_category Promotion
+[WARNING] Failed to import ld_course_category Recipes
+[WARNING] Failed to import ld_topic_category Science
+[WARNING] Failed to import ld_topic_category Startup
+[WARNING] Failed to import ld_course_category UI/UX
+[WARNING] Failed to import ld_course_category Web Development
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ld_topic_category Advance
+[WARNING] Failed to import ld_course_category Artificial Intelligence
+[WARNING] Failed to import ld_topic_category Basic
+[WARNING] Failed to import ld_course_category Business Studies
+[WARNING] Failed to import ld_course_category Civil Engineering
+[WARNING] Failed to import ld_course_category Computer Engineering
+[WARNING] Failed to import ld_course_category Computer Science
+[WARNING] Failed to import ld_course_category Freelancer
+[WARNING] Failed to import ld_topic_category Fundamental
+[WARNING] Failed to import ld_topic_category General
+[WARNING] Failed to import ld_course_category General Education
+[WARNING] Failed to import ld_course_category High School
+[WARNING] Failed to import ld_course_category Lawyer Course
+[WARNING] Failed to import ld_course_category Life Course
+[WARNING] Failed to import ld_course_category Online Education
+[WARNING] Failed to import ld_course_category Pre School
+[WARNING] Failed to import ld_topic_category Promotion
+[WARNING] Failed to import ld_course_category Recipes
+[WARNING] Failed to import ld_topic_category Science
+[WARNING] Failed to import ld_topic_category Startup
+[WARNING] Failed to import ld_course_category UI/UX
+[WARNING] Failed to import ld_course_category Web Development
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ld_topic_category Advance
+[WARNING] Failed to import ld_course_category Artificial Intelligence
+[WARNING] Failed to import ld_topic_category Basic
+[WARNING] Failed to import ld_course_category Business Studies
+[WARNING] Failed to import ld_course_category Civil Engineering
+[WARNING] Failed to import ld_course_category Computer Engineering
+[WARNING] Failed to import ld_course_category Computer Science
+[WARNING] Failed to import ld_course_category Freelancer
+[WARNING] Failed to import ld_topic_category Fundamental
+[WARNING] Failed to import ld_topic_category General
+[WARNING] Failed to import ld_course_category General Education
+[WARNING] Failed to import ld_course_category High School
+[WARNING] Failed to import ld_course_category Lawyer Course
+[WARNING] Failed to import ld_course_category Life Course
+[WARNING] Failed to import ld_course_category Online Education
+[WARNING] Failed to import ld_course_category Pre School
+[WARNING] Failed to import ld_topic_category Promotion
+[WARNING] Failed to import ld_course_category Recipes
+[WARNING] Failed to import ld_topic_category Science
+[WARNING] Failed to import ld_topic_category Startup
+[WARNING] Failed to import ld_course_category UI/UX
+[WARNING] Failed to import ld_course_category Web Development
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ld_topic_category Advance
+[WARNING] Failed to import ld_course_category Artificial Intelligence
+[WARNING] Failed to import ld_topic_category Basic
+[WARNING] Failed to import ld_course_category Business Studies
+[WARNING] Failed to import ld_course_category Civil Engineering
+[WARNING] Failed to import ld_course_category Computer Engineering
+[WARNING] Failed to import ld_course_category Computer Science
+[WARNING] Failed to import ld_course_category Freelancer
+[WARNING] Failed to import ld_topic_category Fundamental
+[WARNING] Failed to import ld_topic_category General
+[WARNING] Failed to import ld_course_category General Education
+[WARNING] Failed to import ld_course_category High School
+[WARNING] Failed to import ld_course_category Lawyer Course
+[WARNING] Failed to import ld_course_category Life Course
+[WARNING] Failed to import ld_course_category Online Education
+[WARNING] Failed to import ld_course_category Pre School
+[WARNING] Failed to import ld_topic_category Promotion
+[WARNING] Failed to import ld_course_category Recipes
+[WARNING] Failed to import ld_topic_category Science
+[WARNING] Failed to import ld_topic_category Startup
+[WARNING] Failed to import ld_course_category UI/UX
+[WARNING] Failed to import ld_course_category Web Development
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ld_topic_category Advance
+[WARNING] Failed to import ld_course_category Artificial Intelligence
+[WARNING] Failed to import ld_topic_category Basic
+[WARNING] Failed to import ld_course_category Business Studies
+[WARNING] Failed to import ld_course_category Civil Engineering
+[WARNING] Failed to import ld_course_category Computer Engineering
+[WARNING] Failed to import ld_course_category Computer Science
+[WARNING] Failed to import ld_course_category Freelancer
+[WARNING] Failed to import ld_topic_category Fundamental
+[WARNING] Failed to import ld_topic_category General
+[WARNING] Failed to import ld_course_category General Education
+[WARNING] Failed to import ld_course_category High School
+[WARNING] Failed to import ld_course_category Lawyer Course
+[WARNING] Failed to import ld_course_category Life Course
+[WARNING] Failed to import ld_course_category Online Education
+[WARNING] Failed to import ld_course_category Pre School
+[WARNING] Failed to import ld_topic_category Promotion
+[WARNING] Failed to import ld_course_category Recipes
+[WARNING] Failed to import ld_topic_category Science
+[WARNING] Failed to import ld_topic_category Startup
+[WARNING] Failed to import ld_course_category UI/UX
+[WARNING] Failed to import ld_course_category Web Development
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ld_topic_category Advance
+[WARNING] Failed to import ld_course_category Artificial Intelligence
+[WARNING] Failed to import ld_topic_category Basic
+[WARNING] Failed to import ld_course_category Business Studies
+[WARNING] Failed to import ld_course_category Civil Engineering
+[WARNING] Failed to import ld_course_category Computer Engineering
+[WARNING] Failed to import ld_course_category Computer Science
+[WARNING] Failed to import ld_course_category Freelancer
+[WARNING] Failed to import ld_topic_category Fundamental
+[WARNING] Failed to import ld_topic_category General
+[WARNING] Failed to import ld_course_category General Education
+[WARNING] Failed to import ld_course_category High School
+[WARNING] Failed to import ld_course_category Lawyer Course
+[WARNING] Failed to import ld_course_category Life Course
+[WARNING] Failed to import ld_course_category Online Education
+[WARNING] Failed to import ld_course_category Pre School
+[WARNING] Failed to import ld_topic_category Promotion
+[WARNING] Failed to import ld_course_category Recipes
+[WARNING] Failed to import ld_topic_category Science
+[WARNING] Failed to import ld_topic_category Startup
+[WARNING] Failed to import ld_course_category UI/UX
+[WARNING] Failed to import ld_course_category Web Development
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ld_topic_category Advance
+[WARNING] Failed to import ld_course_category Artificial Intelligence
+[WARNING] Failed to import ld_topic_category Basic
+[WARNING] Failed to import ld_course_category Business Studies
+[WARNING] Failed to import ld_course_category Civil Engineering
+[WARNING] Failed to import ld_course_category Computer Engineering
+[WARNING] Failed to import ld_course_category Computer Science
+[WARNING] Failed to import ld_course_category Freelancer
+[WARNING] Failed to import ld_topic_category Fundamental
+[WARNING] Failed to import ld_topic_category General
+[WARNING] Failed to import ld_course_category General Education
+[WARNING] Failed to import ld_course_category High School
+[WARNING] Failed to import ld_course_category Lawyer Course
+[WARNING] Failed to import ld_course_category Life Course
+[WARNING] Failed to import ld_course_category Online Education
+[WARNING] Failed to import ld_course_category Pre School
+[WARNING] Failed to import ld_topic_category Promotion
+[WARNING] Failed to import ld_course_category Recipes
+[WARNING] Failed to import ld_topic_category Science
+[WARNING] Failed to import ld_topic_category Startup
+[WARNING] Failed to import ld_course_category UI/UX
+[WARNING] Failed to import ld_course_category Web Development
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ld_topic_category Advance
+[WARNING] Failed to import ld_course_category Artificial Intelligence
+[WARNING] Failed to import ld_topic_category Basic
+[WARNING] Failed to import ld_course_category Business Studies
+[WARNING] Failed to import ld_course_category Civil Engineering
+[WARNING] Failed to import ld_course_category Computer Engineering
+[WARNING] Failed to import ld_course_category Computer Science
+[WARNING] Failed to import ld_course_category Freelancer
+[WARNING] Failed to import ld_topic_category Fundamental
+[WARNING] Failed to import ld_topic_category General
+[WARNING] Failed to import ld_course_category General Education
+[WARNING] Failed to import ld_course_category High School
+[WARNING] Failed to import ld_course_category Lawyer Course
+[WARNING] Failed to import ld_course_category Life Course
+[WARNING] Failed to import ld_course_category Online Education
+[WARNING] Failed to import ld_course_category Pre School
+[WARNING] Failed to import ld_topic_category Promotion
+[WARNING] Failed to import ld_course_category Recipes
+[WARNING] Failed to import ld_topic_category Science
+[WARNING] Failed to import ld_topic_category Startup
+[WARNING] Failed to import ld_course_category UI/UX
+[WARNING] Failed to import ld_course_category Web Development
+[ERROR] Failed to import "kitchen" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ld_topic_category Advance
+[WARNING] Failed to import ld_course_category Artificial Intelligence
+[WARNING] Failed to import ld_topic_category Basic
+[WARNING] Failed to import ld_course_category Business Studies
+[WARNING] Failed to import ld_course_category Civil Engineering
+[WARNING] Failed to import ld_course_category Computer Engineering
+[WARNING] Failed to import ld_course_category Computer Science
+[WARNING] Failed to import ld_course_category Freelancer
+[WARNING] Failed to import ld_topic_category Fundamental
+[WARNING] Failed to import ld_topic_category General
+[WARNING] Failed to import ld_course_category General Education
+[WARNING] Failed to import ld_course_category High School
+[WARNING] Failed to import ld_course_category Lawyer Course
+[WARNING] Failed to import ld_course_category Life Course
+[WARNING] Failed to import ld_course_category Online Education
+[WARNING] Failed to import ld_course_category Pre School
+[WARNING] Failed to import ld_topic_category Promotion
+[WARNING] Failed to import ld_course_category Recipes
+[WARNING] Failed to import ld_topic_category Science
+[WARNING] Failed to import ld_topic_category Startup
+[WARNING] Failed to import ld_course_category UI/UX
+[WARNING] Failed to import ld_course_category Web Development
+[ERROR] Failed to import "kitchen" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ld_topic_category Advance
+[WARNING] Failed to import ld_course_category Artificial Intelligence
+[WARNING] Failed to import ld_topic_category Basic
+[WARNING] Failed to import ld_course_category Business Studies
+[WARNING] Failed to import ld_course_category Civil Engineering
+[WARNING] Failed to import ld_course_category Computer Engineering
+[WARNING] Failed to import ld_course_category Computer Science
+[WARNING] Failed to import ld_course_category Freelancer
+[WARNING] Failed to import ld_topic_category Fundamental
+[WARNING] Failed to import ld_topic_category General
+[WARNING] Failed to import ld_course_category General Education
+[WARNING] Failed to import ld_course_category High School
+[WARNING] Failed to import ld_course_category Lawyer Course
+[WARNING] Failed to import ld_course_category Life Course
+[WARNING] Failed to import ld_course_category Online Education
+[WARNING] Failed to import ld_course_category Pre School
+[WARNING] Failed to import ld_topic_category Promotion
+[WARNING] Failed to import ld_course_category Recipes
+[WARNING] Failed to import ld_topic_category Science
+[WARNING] Failed to import ld_topic_category Startup
+[WARNING] Failed to import ld_course_category UI/UX
+[WARNING] Failed to import ld_course_category Web Development
+[ERROR] Failed to import "kitchen" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ld_topic_category Advance
+[WARNING] Failed to import ld_course_category Artificial Intelligence
+[WARNING] Failed to import ld_topic_category Basic
+[WARNING] Failed to import ld_course_category Business Studies
+[WARNING] Failed to import ld_course_category Civil Engineering
+[WARNING] Failed to import ld_course_category Computer Engineering
+[WARNING] Failed to import ld_course_category Computer Science
+[WARNING] Failed to import ld_course_category Freelancer
+[WARNING] Failed to import ld_topic_category Fundamental
+[WARNING] Failed to import ld_topic_category General
+[WARNING] Failed to import ld_course_category General Education
+[WARNING] Failed to import ld_course_category High School
+[WARNING] Failed to import ld_course_category Lawyer Course
+[WARNING] Failed to import ld_course_category Life Course
+[WARNING] Failed to import ld_course_category Online Education
+[WARNING] Failed to import ld_course_category Pre School
+[WARNING] Failed to import ld_topic_category Promotion
+[WARNING] Failed to import ld_course_category Recipes
+[WARNING] Failed to import ld_topic_category Science
+[WARNING] Failed to import ld_topic_category Startup
+[WARNING] Failed to import ld_course_category UI/UX
+[WARNING] Failed to import ld_course_category Web Development
+[ERROR] Failed to import "kitchen" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ld_topic_category Advance
+[WARNING] Failed to import ld_course_category Artificial Intelligence
+[WARNING] Failed to import ld_topic_category Basic
+[WARNING] Failed to import ld_course_category Business Studies
+[WARNING] Failed to import ld_course_category Civil Engineering
+[WARNING] Failed to import ld_course_category Computer Engineering
+[WARNING] Failed to import ld_course_category Computer Science
+[WARNING] Failed to import ld_course_category Freelancer
+[WARNING] Failed to import ld_topic_category Fundamental
+[WARNING] Failed to import ld_topic_category General
+[WARNING] Failed to import ld_course_category General Education
+[WARNING] Failed to import ld_course_category High School
+[WARNING] Failed to import ld_course_category Lawyer Course
+[WARNING] Failed to import ld_course_category Life Course
+[WARNING] Failed to import ld_course_category Online Education
+[WARNING] Failed to import ld_course_category Pre School
+[WARNING] Failed to import ld_topic_category Promotion
+[WARNING] Failed to import ld_course_category Recipes
+[WARNING] Failed to import ld_topic_category Science
+[WARNING] Failed to import ld_topic_category Startup
+[WARNING] Failed to import ld_course_category UI/UX
+[WARNING] Failed to import ld_course_category Web Development
+[ERROR] Failed to import "kitchen" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ld_topic_category Advance
+[WARNING] Failed to import ld_course_category Artificial Intelligence
+[WARNING] Failed to import ld_topic_category Basic
+[WARNING] Failed to import ld_course_category Business Studies
+[WARNING] Failed to import ld_course_category Civil Engineering
+[WARNING] Failed to import ld_course_category Computer Engineering
+[WARNING] Failed to import ld_course_category Computer Science
+[WARNING] Failed to import ld_course_category Freelancer
+[WARNING] Failed to import ld_topic_category Fundamental
+[WARNING] Failed to import ld_topic_category General
+[WARNING] Failed to import ld_course_category General Education
+[WARNING] Failed to import ld_course_category High School
+[WARNING] Failed to import ld_course_category Lawyer Course
+[WARNING] Failed to import ld_course_category Life Course
+[WARNING] Failed to import ld_course_category Online Education
+[WARNING] Failed to import ld_course_category Pre School
+[WARNING] Failed to import ld_topic_category Promotion
+[WARNING] Failed to import ld_course_category Recipes
+[WARNING] Failed to import ld_topic_category Science
+[WARNING] Failed to import ld_topic_category Startup
+[WARNING] Failed to import ld_course_category UI/UX
+[WARNING] Failed to import ld_course_category Web Development
+[ERROR] Failed to import "kitchen" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ld_topic_category Advance
+[WARNING] Failed to import ld_course_category Artificial Intelligence
+[WARNING] Failed to import ld_topic_category Basic
+[WARNING] Failed to import ld_course_category Business Studies
+[WARNING] Failed to import ld_course_category Civil Engineering
+[WARNING] Failed to import ld_course_category Computer Engineering
+[WARNING] Failed to import ld_course_category Computer Science
+[WARNING] Failed to import ld_course_category Freelancer
+[WARNING] Failed to import ld_topic_category Fundamental
+[WARNING] Failed to import ld_topic_category General
+[WARNING] Failed to import ld_course_category General Education
+[WARNING] Failed to import ld_course_category High School
+[WARNING] Failed to import ld_course_category Lawyer Course
+[WARNING] Failed to import ld_course_category Life Course
+[WARNING] Failed to import ld_course_category Online Education
+[WARNING] Failed to import ld_course_category Pre School
+[WARNING] Failed to import ld_topic_category Promotion
+[WARNING] Failed to import ld_course_category Recipes
+[WARNING] Failed to import ld_topic_category Science
+[WARNING] Failed to import ld_topic_category Startup
+[WARNING] Failed to import ld_course_category UI/UX
+[WARNING] Failed to import ld_course_category Web Development
+[ERROR] Failed to import "kitchen" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ld_topic_category Advance
+[WARNING] Failed to import ld_course_category Artificial Intelligence
+[WARNING] Failed to import ld_topic_category Basic
+[WARNING] Failed to import ld_course_category Business Studies
+[WARNING] Failed to import ld_course_category Civil Engineering
+[WARNING] Failed to import ld_course_category Computer Engineering
+[WARNING] Failed to import ld_course_category Computer Science
+[WARNING] Failed to import ld_course_category Freelancer
+[WARNING] Failed to import ld_topic_category Fundamental
+[WARNING] Failed to import ld_topic_category General
+[WARNING] Failed to import ld_course_category General Education
+[WARNING] Failed to import ld_course_category High School
+[WARNING] Failed to import ld_course_category Lawyer Course
+[WARNING] Failed to import ld_course_category Life Course
+[WARNING] Failed to import ld_course_category Online Education
+[WARNING] Failed to import ld_course_category Pre School
+[WARNING] Failed to import ld_topic_category Promotion
+[WARNING] Failed to import ld_course_category Recipes
+[WARNING] Failed to import ld_topic_category Science
+[WARNING] Failed to import ld_topic_category Startup
+[WARNING] Failed to import ld_course_category UI/UX
+[WARNING] Failed to import ld_course_category Web Development
+[ERROR] Failed to import "kitchen" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ld_topic_category Advance
+[WARNING] Failed to import ld_course_category Artificial Intelligence
+[WARNING] Failed to import ld_topic_category Basic
+[WARNING] Failed to import ld_course_category Business Studies
+[WARNING] Failed to import ld_course_category Civil Engineering
+[WARNING] Failed to import ld_course_category Computer Engineering
+[WARNING] Failed to import ld_course_category Computer Science
+[WARNING] Failed to import ld_course_category Freelancer
+[WARNING] Failed to import ld_topic_category Fundamental
+[WARNING] Failed to import ld_topic_category General
+[WARNING] Failed to import ld_course_category General Education
+[WARNING] Failed to import ld_course_category High School
+[WARNING] Failed to import ld_course_category Lawyer Course
+[WARNING] Failed to import ld_course_category Life Course
+[WARNING] Failed to import ld_course_category Online Education
+[WARNING] Failed to import ld_course_category Pre School
+[WARNING] Failed to import ld_topic_category Promotion
+[WARNING] Failed to import ld_course_category Recipes
+[WARNING] Failed to import ld_topic_category Science
+[WARNING] Failed to import ld_topic_category Startup
+[WARNING] Failed to import ld_course_category UI/UX
+[WARNING] Failed to import ld_course_category Web Development
+[ERROR] Failed to import "kitchen" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ld_topic_category Advance
+[WARNING] Failed to import ld_course_category Artificial Intelligence
+[WARNING] Failed to import ld_topic_category Basic
+[WARNING] Failed to import ld_course_category Business Studies
+[WARNING] Failed to import ld_course_category Civil Engineering
+[WARNING] Failed to import ld_course_category Computer Engineering
+[WARNING] Failed to import ld_course_category Computer Science
+[WARNING] Failed to import ld_course_category Freelancer
+[WARNING] Failed to import ld_topic_category Fundamental
+[WARNING] Failed to import ld_topic_category General
+[WARNING] Failed to import ld_course_category General Education
+[WARNING] Failed to import ld_course_category High School
+[WARNING] Failed to import ld_course_category Lawyer Course
+[WARNING] Failed to import ld_course_category Life Course
+[WARNING] Failed to import ld_course_category Online Education
+[WARNING] Failed to import ld_course_category Pre School
+[WARNING] Failed to import ld_topic_category Promotion
+[WARNING] Failed to import ld_course_category Recipes
+[WARNING] Failed to import ld_topic_category Science
+[WARNING] Failed to import ld_topic_category Startup
+[WARNING] Failed to import ld_course_category UI/UX
+[WARNING] Failed to import ld_course_category Web Development
+[ERROR] Failed to import "kitchen" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ld_topic_category Advance
+[WARNING] Failed to import ld_course_category Artificial Intelligence
+[WARNING] Failed to import ld_topic_category Basic
+[WARNING] Failed to import ld_course_category Business Studies
+[WARNING] Failed to import ld_course_category Civil Engineering
+[WARNING] Failed to import ld_course_category Computer Engineering
+[WARNING] Failed to import ld_course_category Computer Science
+[WARNING] Failed to import ld_course_category Freelancer
+[WARNING] Failed to import ld_topic_category Fundamental
+[WARNING] Failed to import ld_topic_category General
+[WARNING] Failed to import ld_course_category General Education
+[WARNING] Failed to import ld_course_category High School
+[WARNING] Failed to import ld_course_category Lawyer Course
+[WARNING] Failed to import ld_course_category Life Course
+[WARNING] Failed to import ld_course_category Online Education
+[WARNING] Failed to import ld_course_category Pre School
+[WARNING] Failed to import ld_topic_category Promotion
+[WARNING] Failed to import ld_course_category Recipes
+[WARNING] Failed to import ld_topic_category Science
+[WARNING] Failed to import ld_topic_category Startup
+[WARNING] Failed to import ld_course_category UI/UX
+[WARNING] Failed to import ld_course_category Web Development
+[ERROR] Failed to import "kitchen" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ld_topic_category Advance
+[WARNING] Failed to import ld_course_category Artificial Intelligence
+[WARNING] Failed to import ld_topic_category Basic
+[WARNING] Failed to import ld_course_category Business Studies
+[WARNING] Failed to import ld_course_category Civil Engineering
+[WARNING] Failed to import ld_course_category Computer Engineering
+[WARNING] Failed to import ld_course_category Computer Science
+[WARNING] Failed to import ld_course_category Freelancer
+[WARNING] Failed to import ld_topic_category Fundamental
+[WARNING] Failed to import ld_topic_category General
+[WARNING] Failed to import ld_course_category General Education
+[WARNING] Failed to import ld_course_category High School
+[WARNING] Failed to import ld_course_category Lawyer Course
+[WARNING] Failed to import ld_course_category Life Course
+[WARNING] Failed to import ld_course_category Online Education
+[WARNING] Failed to import ld_course_category Pre School
+[WARNING] Failed to import ld_topic_category Promotion
+[WARNING] Failed to import ld_course_category Recipes
+[WARNING] Failed to import ld_topic_category Science
+[WARNING] Failed to import ld_topic_category Startup
+[WARNING] Failed to import ld_course_category UI/UX
+[WARNING] Failed to import ld_course_category Web Development
+[ERROR] Failed to import "kitchen" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ld_topic_category Advance
+[WARNING] Failed to import ld_course_category Artificial Intelligence
+[WARNING] Failed to import ld_topic_category Basic
+[WARNING] Failed to import ld_course_category Business Studies
+[WARNING] Failed to import ld_course_category Civil Engineering
+[WARNING] Failed to import ld_course_category Computer Engineering
+[WARNING] Failed to import ld_course_category Computer Science
+[WARNING] Failed to import ld_course_category Freelancer
+[WARNING] Failed to import ld_topic_category Fundamental
+[WARNING] Failed to import ld_topic_category General
+[WARNING] Failed to import ld_course_category General Education
+[WARNING] Failed to import ld_course_category High School
+[WARNING] Failed to import ld_course_category Lawyer Course
+[WARNING] Failed to import ld_course_category Life Course
+[WARNING] Failed to import ld_course_category Online Education
+[WARNING] Failed to import ld_course_category Pre School
+[WARNING] Failed to import ld_topic_category Promotion
+[WARNING] Failed to import ld_course_category Recipes
+[WARNING] Failed to import ld_topic_category Science
+[WARNING] Failed to import ld_topic_category Startup
+[WARNING] Failed to import ld_course_category UI/UX
+[WARNING] Failed to import ld_course_category Web Development
+[ERROR] Failed to import "kitchen" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ld_topic_category Advance
+[WARNING] Failed to import ld_course_category Artificial Intelligence
+[WARNING] Failed to import ld_topic_category Basic
+[WARNING] Failed to import ld_course_category Business Studies
+[WARNING] Failed to import ld_course_category Civil Engineering
+[WARNING] Failed to import ld_course_category Computer Engineering
+[WARNING] Failed to import ld_course_category Computer Science
+[WARNING] Failed to import ld_course_category Freelancer
+[WARNING] Failed to import ld_topic_category Fundamental
+[WARNING] Failed to import ld_topic_category General
+[WARNING] Failed to import ld_course_category General Education
+[WARNING] Failed to import ld_course_category High School
+[WARNING] Failed to import ld_course_category Lawyer Course
+[WARNING] Failed to import ld_course_category Life Course
+[WARNING] Failed to import ld_course_category Online Education
+[WARNING] Failed to import ld_course_category Pre School
+[WARNING] Failed to import ld_topic_category Promotion
+[WARNING] Failed to import ld_course_category Recipes
+[WARNING] Failed to import ld_topic_category Science
+[WARNING] Failed to import ld_topic_category Startup
+[WARNING] Failed to import ld_course_category UI/UX
+[WARNING] Failed to import ld_course_category Web Development
+[ERROR] Failed to import "kitchen" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ld_topic_category Advance
+[WARNING] Failed to import ld_course_category Artificial Intelligence
+[WARNING] Failed to import ld_topic_category Basic
+[WARNING] Failed to import ld_course_category Business Studies
+[WARNING] Failed to import ld_course_category Civil Engineering
+[WARNING] Failed to import ld_course_category Computer Engineering
+[WARNING] Failed to import ld_course_category Computer Science
+[WARNING] Failed to import ld_course_category Freelancer
+[WARNING] Failed to import ld_topic_category Fundamental
+[WARNING] Failed to import ld_topic_category General
+[WARNING] Failed to import ld_course_category General Education
+[WARNING] Failed to import ld_course_category High School
+[WARNING] Failed to import ld_course_category Lawyer Course
+[WARNING] Failed to import ld_course_category Life Course
+[WARNING] Failed to import ld_course_category Online Education
+[WARNING] Failed to import ld_course_category Pre School
+[WARNING] Failed to import ld_topic_category Promotion
+[WARNING] Failed to import ld_course_category Recipes
+[WARNING] Failed to import ld_topic_category Science
+[WARNING] Failed to import ld_topic_category Startup
+[WARNING] Failed to import ld_course_category UI/UX
+[WARNING] Failed to import ld_course_category Web Development
+[ERROR] Failed to import "kitchen" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ld_topic_category Advance
+[WARNING] Failed to import ld_course_category Artificial Intelligence
+[WARNING] Failed to import ld_topic_category Basic
+[WARNING] Failed to import ld_course_category Business Studies
+[WARNING] Failed to import ld_course_category Civil Engineering
+[WARNING] Failed to import ld_course_category Computer Engineering
+[WARNING] Failed to import ld_course_category Computer Science
+[WARNING] Failed to import ld_course_category Freelancer
+[WARNING] Failed to import ld_topic_category Fundamental
+[WARNING] Failed to import ld_topic_category General
+[WARNING] Failed to import ld_course_category General Education
+[WARNING] Failed to import ld_course_category High School
+[WARNING] Failed to import ld_course_category Lawyer Course
+[WARNING] Failed to import ld_course_category Life Course
+[WARNING] Failed to import ld_course_category Online Education
+[WARNING] Failed to import ld_course_category Pre School
+[WARNING] Failed to import ld_topic_category Promotion
+[WARNING] Failed to import ld_course_category Recipes
+[WARNING] Failed to import ld_topic_category Science
+[WARNING] Failed to import ld_topic_category Startup
+[WARNING] Failed to import ld_course_category UI/UX
+[WARNING] Failed to import ld_course_category Web Development
+[ERROR] Failed to import "kitchen" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ld_topic_category Advance
+[WARNING] Failed to import ld_course_category Artificial Intelligence
+[WARNING] Failed to import ld_topic_category Basic
+[WARNING] Failed to import ld_course_category Business Studies
+[WARNING] Failed to import ld_course_category Civil Engineering
+[WARNING] Failed to import ld_course_category Computer Engineering
+[WARNING] Failed to import ld_course_category Computer Science
+[WARNING] Failed to import ld_course_category Freelancer
+[WARNING] Failed to import ld_topic_category Fundamental
+[WARNING] Failed to import ld_topic_category General
+[WARNING] Failed to import ld_course_category General Education
+[WARNING] Failed to import ld_course_category High School
+[WARNING] Failed to import ld_course_category Lawyer Course
+[WARNING] Failed to import ld_course_category Life Course
+[WARNING] Failed to import ld_course_category Online Education
+[WARNING] Failed to import ld_course_category Pre School
+[WARNING] Failed to import ld_topic_category Promotion
+[WARNING] Failed to import ld_course_category Recipes
+[WARNING] Failed to import ld_topic_category Science
+[WARNING] Failed to import ld_topic_category Startup
+[WARNING] Failed to import ld_course_category UI/UX
+[WARNING] Failed to import ld_course_category Web Development
+[ERROR] Failed to import "kitchen" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ld_topic_category Advance
+[WARNING] Failed to import ld_course_category Artificial Intelligence
+[WARNING] Failed to import ld_topic_category Basic
+[WARNING] Failed to import ld_course_category Business Studies
+[WARNING] Failed to import ld_course_category Civil Engineering
+[WARNING] Failed to import ld_course_category Computer Engineering
+[WARNING] Failed to import ld_course_category Computer Science
+[WARNING] Failed to import ld_course_category Freelancer
+[WARNING] Failed to import ld_topic_category Fundamental
+[WARNING] Failed to import ld_topic_category General
+[WARNING] Failed to import ld_course_category General Education
+[WARNING] Failed to import ld_course_category High School
+[WARNING] Failed to import ld_course_category Lawyer Course
+[WARNING] Failed to import ld_course_category Life Course
+[WARNING] Failed to import ld_course_category Online Education
+[WARNING] Failed to import ld_course_category Pre School
+[WARNING] Failed to import ld_topic_category Promotion
+[WARNING] Failed to import ld_course_category Recipes
+[WARNING] Failed to import ld_topic_category Science
+[WARNING] Failed to import ld_topic_category Startup
+[WARNING] Failed to import ld_course_category UI/UX
+[WARNING] Failed to import ld_course_category Web Development
+[ERROR] Failed to import "kitchen" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ld_topic_category Advance
+[WARNING] Failed to import ld_course_category Artificial Intelligence
+[WARNING] Failed to import ld_topic_category Basic
+[WARNING] Failed to import ld_course_category Business Studies
+[WARNING] Failed to import ld_course_category Civil Engineering
+[WARNING] Failed to import ld_course_category Computer Engineering
+[WARNING] Failed to import ld_course_category Computer Science
+[WARNING] Failed to import ld_course_category Freelancer
+[WARNING] Failed to import ld_topic_category Fundamental
+[WARNING] Failed to import ld_topic_category General
+[WARNING] Failed to import ld_course_category General Education
+[WARNING] Failed to import ld_course_category High School
+[WARNING] Failed to import ld_course_category Lawyer Course
+[WARNING] Failed to import ld_course_category Life Course
+[WARNING] Failed to import ld_course_category Online Education
+[WARNING] Failed to import ld_course_category Pre School
+[WARNING] Failed to import ld_topic_category Promotion
+[WARNING] Failed to import ld_course_category Recipes
+[WARNING] Failed to import ld_topic_category Science
+[WARNING] Failed to import ld_topic_category Startup
+[WARNING] Failed to import ld_course_category UI/UX
+[WARNING] Failed to import ld_course_category Web Development
+[ERROR] Failed to import "kitchen" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ld_topic_category Advance
+[WARNING] Failed to import ld_course_category Artificial Intelligence
+[WARNING] Failed to import ld_topic_category Basic
+[WARNING] Failed to import ld_course_category Business Studies
+[WARNING] Failed to import ld_course_category Civil Engineering
+[WARNING] Failed to import ld_course_category Computer Engineering
+[WARNING] Failed to import ld_course_category Computer Science
+[WARNING] Failed to import ld_course_category Freelancer
+[WARNING] Failed to import ld_topic_category Fundamental
+[WARNING] Failed to import ld_topic_category General
+[WARNING] Failed to import ld_course_category General Education
+[WARNING] Failed to import ld_course_category High School
+[WARNING] Failed to import ld_course_category Lawyer Course
+[WARNING] Failed to import ld_course_category Life Course
+[WARNING] Failed to import ld_course_category Online Education
+[WARNING] Failed to import ld_course_category Pre School
+[WARNING] Failed to import ld_topic_category Promotion
+[WARNING] Failed to import ld_course_category Recipes
+[WARNING] Failed to import ld_topic_category Science
+[WARNING] Failed to import ld_topic_category Startup
+[WARNING] Failed to import ld_course_category UI/UX
+[WARNING] Failed to import ld_course_category Web Development
+[ERROR] Failed to import "kitchen" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ld_topic_category Advance
+[WARNING] Failed to import ld_course_category Artificial Intelligence
+[WARNING] Failed to import ld_topic_category Basic
+[WARNING] Failed to import ld_course_category Business Studies
+[WARNING] Failed to import ld_course_category Civil Engineering
+[WARNING] Failed to import ld_course_category Computer Engineering
+[WARNING] Failed to import ld_course_category Computer Science
+[WARNING] Failed to import ld_course_category Freelancer
+[WARNING] Failed to import ld_topic_category Fundamental
+[WARNING] Failed to import ld_topic_category General
+[WARNING] Failed to import ld_course_category General Education
+[WARNING] Failed to import ld_course_category High School
+[WARNING] Failed to import ld_course_category Lawyer Course
+[WARNING] Failed to import ld_course_category Life Course
+[WARNING] Failed to import ld_course_category Online Education
+[WARNING] Failed to import ld_course_category Pre School
+[WARNING] Failed to import ld_topic_category Promotion
+[WARNING] Failed to import ld_course_category Recipes
+[WARNING] Failed to import ld_topic_category Science
+[WARNING] Failed to import ld_topic_category Startup
+[WARNING] Failed to import ld_course_category UI/UX
+[WARNING] Failed to import ld_course_category Web Development
+[ERROR] Failed to import "kitchen" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ld_topic_category Advance
+[WARNING] Failed to import ld_course_category Artificial Intelligence
+[WARNING] Failed to import ld_topic_category Basic
+[WARNING] Failed to import ld_course_category Business Studies
+[WARNING] Failed to import ld_course_category Civil Engineering
+[WARNING] Failed to import ld_course_category Computer Engineering
+[WARNING] Failed to import ld_course_category Computer Science
+[WARNING] Failed to import ld_course_category Freelancer
+[WARNING] Failed to import ld_topic_category Fundamental
+[WARNING] Failed to import ld_topic_category General
+[WARNING] Failed to import ld_course_category General Education
+[WARNING] Failed to import ld_course_category High School
+[WARNING] Failed to import ld_course_category Lawyer Course
+[WARNING] Failed to import ld_course_category Life Course
+[WARNING] Failed to import ld_course_category Online Education
+[WARNING] Failed to import ld_course_category Pre School
+[WARNING] Failed to import ld_topic_category Promotion
+[WARNING] Failed to import ld_course_category Recipes
+[WARNING] Failed to import ld_topic_category Science
+[WARNING] Failed to import ld_topic_category Startup
+[WARNING] Failed to import ld_course_category UI/UX
+[WARNING] Failed to import ld_course_category Web Development
+[ERROR] Failed to import "kitchen" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ld_topic_category Advance
+[WARNING] Failed to import ld_course_category Artificial Intelligence
+[WARNING] Failed to import ld_topic_category Basic
+[WARNING] Failed to import ld_course_category Business Studies
+[WARNING] Failed to import ld_course_category Civil Engineering
+[WARNING] Failed to import ld_course_category Computer Engineering
+[WARNING] Failed to import ld_course_category Computer Science
+[WARNING] Failed to import ld_course_category Freelancer
+[WARNING] Failed to import ld_topic_category Fundamental
+[WARNING] Failed to import ld_topic_category General
+[WARNING] Failed to import ld_course_category General Education
+[WARNING] Failed to import ld_course_category High School
+[WARNING] Failed to import ld_course_category Lawyer Course
+[WARNING] Failed to import ld_course_category Life Course
+[WARNING] Failed to import ld_course_category Online Education
+[WARNING] Failed to import ld_course_category Pre School
+[WARNING] Failed to import ld_topic_category Promotion
+[WARNING] Failed to import ld_course_category Recipes
+[WARNING] Failed to import ld_topic_category Science
+[WARNING] Failed to import ld_topic_category Startup
+[WARNING] Failed to import ld_course_category UI/UX
+[WARNING] Failed to import ld_course_category Web Development
+[ERROR] Failed to import "kitchen" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ld_topic_category Advance
+[WARNING] Failed to import ld_course_category Artificial Intelligence
+[WARNING] Failed to import ld_topic_category Basic
+[WARNING] Failed to import ld_course_category Business Studies
+[WARNING] Failed to import ld_course_category Civil Engineering
+[WARNING] Failed to import ld_course_category Computer Engineering
+[WARNING] Failed to import ld_course_category Computer Science
+[WARNING] Failed to import ld_course_category Freelancer
+[WARNING] Failed to import ld_topic_category Fundamental
+[WARNING] Failed to import ld_topic_category General
+[WARNING] Failed to import ld_course_category General Education
+[WARNING] Failed to import ld_course_category High School
+[WARNING] Failed to import ld_course_category Lawyer Course
+[WARNING] Failed to import ld_course_category Life Course
+[WARNING] Failed to import ld_course_category Online Education
+[WARNING] Failed to import ld_course_category Pre School
+[WARNING] Failed to import ld_topic_category Promotion
+[WARNING] Failed to import ld_course_category Recipes
+[WARNING] Failed to import ld_topic_category Science
+[WARNING] Failed to import ld_topic_category Startup
+[WARNING] Failed to import ld_course_category UI/UX
+[WARNING] Failed to import ld_course_category Web Development
+[ERROR] Failed to import "kitchen" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ld_topic_category Advance
+[WARNING] Failed to import ld_course_category Artificial Intelligence
+[WARNING] Failed to import ld_topic_category Basic
+[WARNING] Failed to import ld_course_category Business Studies
+[WARNING] Failed to import ld_course_category Civil Engineering
+[WARNING] Failed to import ld_course_category Computer Engineering
+[WARNING] Failed to import ld_course_category Computer Science
+[WARNING] Failed to import ld_course_category Freelancer
+[WARNING] Failed to import ld_topic_category Fundamental
+[WARNING] Failed to import ld_topic_category General
+[WARNING] Failed to import ld_course_category General Education
+[WARNING] Failed to import ld_course_category High School
+[WARNING] Failed to import ld_course_category Lawyer Course
+[WARNING] Failed to import ld_course_category Life Course
+[WARNING] Failed to import ld_course_category Online Education
+[WARNING] Failed to import ld_course_category Pre School
+[WARNING] Failed to import ld_topic_category Promotion
+[WARNING] Failed to import ld_course_category Recipes
+[WARNING] Failed to import ld_topic_category Science
+[WARNING] Failed to import ld_topic_category Startup
+[WARNING] Failed to import ld_course_category UI/UX
+[WARNING] Failed to import ld_course_category Web Development
+[ERROR] Failed to import "kitchen" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ld_topic_category Advance
+[WARNING] Failed to import ld_course_category Artificial Intelligence
+[WARNING] Failed to import ld_topic_category Basic
+[WARNING] Failed to import ld_course_category Business Studies
+[WARNING] Failed to import ld_course_category Civil Engineering
+[WARNING] Failed to import ld_course_category Computer Engineering
+[WARNING] Failed to import ld_course_category Computer Science
+[WARNING] Failed to import ld_course_category Freelancer
+[WARNING] Failed to import ld_topic_category Fundamental
+[WARNING] Failed to import ld_topic_category General
+[WARNING] Failed to import ld_course_category General Education
+[WARNING] Failed to import ld_course_category High School
+[WARNING] Failed to import ld_course_category Lawyer Course
+[WARNING] Failed to import ld_course_category Life Course
+[WARNING] Failed to import ld_course_category Online Education
+[WARNING] Failed to import ld_course_category Pre School
+[WARNING] Failed to import ld_topic_category Promotion
+[WARNING] Failed to import ld_course_category Recipes
+[WARNING] Failed to import ld_topic_category Science
+[WARNING] Failed to import ld_topic_category Startup
+[WARNING] Failed to import ld_course_category UI/UX
+[WARNING] Failed to import ld_course_category Web Development
+[ERROR] Failed to import "kitchen" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ld_topic_category Advance
+[WARNING] Failed to import ld_course_category Artificial Intelligence
+[WARNING] Failed to import ld_topic_category Basic
+[WARNING] Failed to import ld_course_category Business Studies
+[WARNING] Failed to import ld_course_category Civil Engineering
+[WARNING] Failed to import ld_course_category Computer Engineering
+[WARNING] Failed to import ld_course_category Computer Science
+[WARNING] Failed to import ld_course_category Freelancer
+[WARNING] Failed to import ld_topic_category Fundamental
+[WARNING] Failed to import ld_topic_category General
+[WARNING] Failed to import ld_course_category General Education
+[WARNING] Failed to import ld_course_category High School
+[WARNING] Failed to import ld_course_category Lawyer Course
+[WARNING] Failed to import ld_course_category Life Course
+[WARNING] Failed to import ld_course_category Online Education
+[WARNING] Failed to import ld_course_category Pre School
+[WARNING] Failed to import ld_topic_category Promotion
+[WARNING] Failed to import ld_course_category Recipes
+[WARNING] Failed to import ld_topic_category Science
+[WARNING] Failed to import ld_topic_category Startup
+[WARNING] Failed to import ld_course_category UI/UX
+[WARNING] Failed to import ld_course_category Web Development
+[ERROR] Failed to import "kitchen" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ld_topic_category Advance
+[WARNING] Failed to import ld_course_category Artificial Intelligence
+[WARNING] Failed to import ld_topic_category Basic
+[WARNING] Failed to import ld_course_category Business Studies
+[WARNING] Failed to import ld_course_category Civil Engineering
+[WARNING] Failed to import ld_course_category Computer Engineering
+[WARNING] Failed to import ld_course_category Computer Science
+[WARNING] Failed to import ld_course_category Freelancer
+[WARNING] Failed to import ld_topic_category Fundamental
+[WARNING] Failed to import ld_topic_category General
+[WARNING] Failed to import ld_course_category General Education
+[WARNING] Failed to import ld_course_category High School
+[WARNING] Failed to import ld_course_category Lawyer Course
+[WARNING] Failed to import ld_course_category Life Course
+[WARNING] Failed to import ld_course_category Online Education
+[WARNING] Failed to import ld_course_category Pre School
+[WARNING] Failed to import ld_topic_category Promotion
+[WARNING] Failed to import ld_course_category Recipes
+[WARNING] Failed to import ld_topic_category Science
+[WARNING] Failed to import ld_topic_category Startup
+[WARNING] Failed to import ld_course_category UI/UX
+[WARNING] Failed to import ld_course_category Web Development
+[ERROR] Failed to import "kitchen" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ld_topic_category Advance
+[WARNING] Failed to import ld_course_category Artificial Intelligence
+[WARNING] Failed to import ld_topic_category Basic
+[WARNING] Failed to import ld_course_category Business Studies
+[WARNING] Failed to import ld_course_category Civil Engineering
+[WARNING] Failed to import ld_course_category Computer Engineering
+[WARNING] Failed to import ld_course_category Computer Science
+[WARNING] Failed to import ld_course_category Freelancer
+[WARNING] Failed to import ld_topic_category Fundamental
+[WARNING] Failed to import ld_topic_category General
+[WARNING] Failed to import ld_course_category General Education
+[WARNING] Failed to import ld_course_category High School
+[WARNING] Failed to import ld_course_category Lawyer Course
+[WARNING] Failed to import ld_course_category Life Course
+[WARNING] Failed to import ld_course_category Online Education
+[WARNING] Failed to import ld_course_category Pre School
+[WARNING] Failed to import ld_topic_category Promotion
+[WARNING] Failed to import ld_course_category Recipes
+[WARNING] Failed to import ld_topic_category Science
+[WARNING] Failed to import ld_topic_category Startup
+[WARNING] Failed to import ld_course_category UI/UX
+[WARNING] Failed to import ld_course_category Web Development
+[ERROR] Failed to import "kitchen" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ld_topic_category Advance
+[WARNING] Failed to import ld_course_category Artificial Intelligence
+[WARNING] Failed to import ld_topic_category Basic
+[WARNING] Failed to import ld_course_category Business Studies
+[WARNING] Failed to import ld_course_category Civil Engineering
+[WARNING] Failed to import ld_course_category Computer Engineering
+[WARNING] Failed to import ld_course_category Computer Science
+[WARNING] Failed to import ld_course_category Freelancer
+[WARNING] Failed to import ld_topic_category Fundamental
+[WARNING] Failed to import ld_topic_category General
+[WARNING] Failed to import ld_course_category General Education
+[WARNING] Failed to import ld_course_category High School
+[WARNING] Failed to import ld_course_category Lawyer Course
+[WARNING] Failed to import ld_course_category Life Course
+[WARNING] Failed to import ld_course_category Online Education
+[WARNING] Failed to import ld_course_category Pre School
+[WARNING] Failed to import ld_topic_category Promotion
+[WARNING] Failed to import ld_course_category Recipes
+[WARNING] Failed to import ld_topic_category Science
+[WARNING] Failed to import ld_topic_category Startup
+[WARNING] Failed to import ld_course_category UI/UX
+[WARNING] Failed to import ld_course_category Web Development
+[ERROR] Failed to import "kitchen" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ld_topic_category Advance
+[WARNING] Failed to import ld_course_category Artificial Intelligence
+[WARNING] Failed to import ld_topic_category Basic
+[WARNING] Failed to import ld_course_category Business Studies
+[WARNING] Failed to import ld_course_category Civil Engineering
+[WARNING] Failed to import ld_course_category Computer Engineering
+[WARNING] Failed to import ld_course_category Computer Science
+[WARNING] Failed to import ld_course_category Freelancer
+[WARNING] Failed to import ld_topic_category Fundamental
+[WARNING] Failed to import ld_topic_category General
+[WARNING] Failed to import ld_course_category General Education
+[WARNING] Failed to import ld_course_category High School
+[WARNING] Failed to import ld_course_category Lawyer Course
+[WARNING] Failed to import ld_course_category Life Course
+[WARNING] Failed to import ld_course_category Online Education
+[WARNING] Failed to import ld_course_category Pre School
+[WARNING] Failed to import ld_topic_category Promotion
+[WARNING] Failed to import ld_course_category Recipes
+[WARNING] Failed to import ld_topic_category Science
+[WARNING] Failed to import ld_topic_category Startup
+[WARNING] Failed to import ld_course_category UI/UX
+[WARNING] Failed to import ld_course_category Web Development
+[ERROR] Failed to import "kitchen" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ld_topic_category Advance
+[WARNING] Failed to import ld_course_category Artificial Intelligence
+[WARNING] Failed to import ld_topic_category Basic
+[WARNING] Failed to import ld_course_category Business Studies
+[WARNING] Failed to import ld_course_category Civil Engineering
+[WARNING] Failed to import ld_course_category Computer Engineering
+[WARNING] Failed to import ld_course_category Computer Science
+[WARNING] Failed to import ld_course_category Freelancer
+[WARNING] Failed to import ld_topic_category Fundamental
+[WARNING] Failed to import ld_topic_category General
+[WARNING] Failed to import ld_course_category General Education
+[WARNING] Failed to import ld_course_category High School
+[WARNING] Failed to import ld_course_category Lawyer Course
+[WARNING] Failed to import ld_course_category Life Course
+[WARNING] Failed to import ld_course_category Online Education
+[WARNING] Failed to import ld_course_category Pre School
+[WARNING] Failed to import ld_topic_category Promotion
+[WARNING] Failed to import ld_course_category Recipes
+[WARNING] Failed to import ld_topic_category Science
+[WARNING] Failed to import ld_topic_category Startup
+[WARNING] Failed to import ld_course_category UI/UX
+[WARNING] Failed to import ld_course_category Web Development
+[ERROR] Failed to import "kitchen" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ld_topic_category Advance
+[WARNING] Failed to import ld_course_category Artificial Intelligence
+[WARNING] Failed to import ld_topic_category Basic
+[WARNING] Failed to import ld_course_category Business Studies
+[WARNING] Failed to import ld_course_category Civil Engineering
+[WARNING] Failed to import ld_course_category Computer Engineering
+[WARNING] Failed to import ld_course_category Computer Science
+[WARNING] Failed to import ld_course_category Freelancer
+[WARNING] Failed to import ld_topic_category Fundamental
+[WARNING] Failed to import ld_topic_category General
+[WARNING] Failed to import ld_course_category General Education
+[WARNING] Failed to import ld_course_category High School
+[WARNING] Failed to import ld_course_category Lawyer Course
+[WARNING] Failed to import ld_course_category Life Course
+[WARNING] Failed to import ld_course_category Online Education
+[WARNING] Failed to import ld_course_category Pre School
+[WARNING] Failed to import ld_topic_category Promotion
+[WARNING] Failed to import ld_course_category Recipes
+[WARNING] Failed to import ld_topic_category Science
+[WARNING] Failed to import ld_topic_category Startup
+[WARNING] Failed to import ld_course_category UI/UX
+[WARNING] Failed to import ld_course_category Web Development
+[ERROR] Failed to import "kitchen" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ld_topic_category Advance
+[WARNING] Failed to import ld_course_category Artificial Intelligence
+[WARNING] Failed to import ld_topic_category Basic
+[WARNING] Failed to import ld_course_category Business Studies
+[WARNING] Failed to import ld_course_category Civil Engineering
+[WARNING] Failed to import ld_course_category Computer Engineering
+[WARNING] Failed to import ld_course_category Computer Science
+[WARNING] Failed to import ld_course_category Freelancer
+[WARNING] Failed to import ld_topic_category Fundamental
+[WARNING] Failed to import ld_topic_category General
+[WARNING] Failed to import ld_course_category General Education
+[WARNING] Failed to import ld_course_category High School
+[WARNING] Failed to import ld_course_category Lawyer Course
+[WARNING] Failed to import ld_course_category Life Course
+[WARNING] Failed to import ld_course_category Online Education
+[WARNING] Failed to import ld_course_category Pre School
+[WARNING] Failed to import ld_topic_category Promotion
+[WARNING] Failed to import ld_course_category Recipes
+[WARNING] Failed to import ld_topic_category Science
+[WARNING] Failed to import ld_topic_category Startup
+[WARNING] Failed to import ld_course_category UI/UX
+[WARNING] Failed to import ld_course_category Web Development
+[ERROR] Failed to import "kitchen" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ld_topic_category Advance
+[WARNING] Failed to import ld_course_category Artificial Intelligence
+[WARNING] Failed to import ld_topic_category Basic
+[WARNING] Failed to import ld_course_category Business Studies
+[WARNING] Failed to import ld_course_category Civil Engineering
+[WARNING] Failed to import ld_course_category Computer Engineering
+[WARNING] Failed to import ld_course_category Computer Science
+[WARNING] Failed to import ld_course_category Freelancer
+[WARNING] Failed to import ld_topic_category Fundamental
+[WARNING] Failed to import ld_topic_category General
+[WARNING] Failed to import ld_course_category General Education
+[WARNING] Failed to import ld_course_category High School
+[WARNING] Failed to import ld_course_category Lawyer Course
+[WARNING] Failed to import ld_course_category Life Course
+[WARNING] Failed to import ld_course_category Online Education
+[WARNING] Failed to import ld_course_category Pre School
+[WARNING] Failed to import ld_topic_category Promotion
+[WARNING] Failed to import ld_course_category Recipes
+[WARNING] Failed to import ld_topic_category Science
+[WARNING] Failed to import ld_topic_category Startup
+[WARNING] Failed to import ld_course_category UI/UX
+[WARNING] Failed to import ld_course_category Web Development
+[ERROR] Failed to import "kitchen" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ld_topic_category Advance
+[WARNING] Failed to import ld_course_category Artificial Intelligence
+[WARNING] Failed to import ld_topic_category Basic
+[WARNING] Failed to import ld_course_category Business Studies
+[WARNING] Failed to import ld_course_category Civil Engineering
+[WARNING] Failed to import ld_course_category Computer Engineering
+[WARNING] Failed to import ld_course_category Computer Science
+[WARNING] Failed to import ld_course_category Freelancer
+[WARNING] Failed to import ld_topic_category Fundamental
+[WARNING] Failed to import ld_topic_category General
+[WARNING] Failed to import ld_course_category General Education
+[WARNING] Failed to import ld_course_category High School
+[WARNING] Failed to import ld_course_category Lawyer Course
+[WARNING] Failed to import ld_course_category Life Course
+[WARNING] Failed to import ld_course_category Online Education
+[WARNING] Failed to import ld_course_category Pre School
+[WARNING] Failed to import ld_topic_category Promotion
+[WARNING] Failed to import ld_course_category Recipes
+[WARNING] Failed to import ld_topic_category Science
+[WARNING] Failed to import ld_topic_category Startup
+[WARNING] Failed to import ld_course_category UI/UX
+[WARNING] Failed to import ld_course_category Web Development
+[ERROR] Failed to import "kitchen" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ld_topic_category Advance
+[WARNING] Failed to import ld_course_category Artificial Intelligence
+[WARNING] Failed to import ld_topic_category Basic
+[WARNING] Failed to import ld_course_category Business Studies
+[WARNING] Failed to import ld_course_category Civil Engineering
+[WARNING] Failed to import ld_course_category Computer Engineering
+[WARNING] Failed to import ld_course_category Computer Science
+[WARNING] Failed to import ld_course_category Freelancer
+[WARNING] Failed to import ld_topic_category Fundamental
+[WARNING] Failed to import ld_topic_category General
+[WARNING] Failed to import ld_course_category General Education
+[WARNING] Failed to import ld_course_category High School
+[WARNING] Failed to import ld_course_category Lawyer Course
+[WARNING] Failed to import ld_course_category Life Course
+[WARNING] Failed to import ld_course_category Online Education
+[WARNING] Failed to import ld_course_category Pre School
+[WARNING] Failed to import ld_topic_category Promotion
+[WARNING] Failed to import ld_course_category Recipes
+[WARNING] Failed to import ld_topic_category Science
+[WARNING] Failed to import ld_topic_category Startup
+[WARNING] Failed to import ld_course_category UI/UX
+[WARNING] Failed to import ld_course_category Web Development
+[ERROR] Failed to import "kitchen" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ld_topic_category Advance
+[WARNING] Failed to import ld_course_category Artificial Intelligence
+[WARNING] Failed to import ld_topic_category Basic
+[WARNING] Failed to import ld_course_category Business Studies
+[WARNING] Failed to import ld_course_category Civil Engineering
+[WARNING] Failed to import ld_course_category Computer Engineering
+[WARNING] Failed to import ld_course_category Computer Science
+[WARNING] Failed to import ld_course_category Freelancer
+[WARNING] Failed to import ld_topic_category Fundamental
+[WARNING] Failed to import ld_topic_category General
+[WARNING] Failed to import ld_course_category General Education
+[WARNING] Failed to import ld_course_category High School
+[WARNING] Failed to import ld_course_category Lawyer Course
+[WARNING] Failed to import ld_course_category Life Course
+[WARNING] Failed to import ld_course_category Online Education
+[WARNING] Failed to import ld_course_category Pre School
+[WARNING] Failed to import ld_topic_category Promotion
+[WARNING] Failed to import ld_course_category Recipes
+[WARNING] Failed to import ld_topic_category Science
+[WARNING] Failed to import ld_topic_category Startup
+[WARNING] Failed to import ld_course_category UI/UX
+[WARNING] Failed to import ld_course_category Web Development
+[ERROR] Failed to import "kitchen" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ld_topic_category Advance
+[WARNING] Failed to import ld_course_category Artificial Intelligence
+[WARNING] Failed to import ld_topic_category Basic
+[WARNING] Failed to import ld_course_category Business Studies
+[WARNING] Failed to import ld_course_category Civil Engineering
+[WARNING] Failed to import ld_course_category Computer Engineering
+[WARNING] Failed to import ld_course_category Computer Science
+[WARNING] Failed to import ld_course_category Freelancer
+[WARNING] Failed to import ld_topic_category Fundamental
+[WARNING] Failed to import ld_topic_category General
+[WARNING] Failed to import ld_course_category General Education
+[WARNING] Failed to import ld_course_category High School
+[WARNING] Failed to import ld_course_category Lawyer Course
+[WARNING] Failed to import ld_course_category Life Course
+[WARNING] Failed to import ld_course_category Online Education
+[WARNING] Failed to import ld_course_category Pre School
+[WARNING] Failed to import ld_topic_category Promotion
+[WARNING] Failed to import ld_course_category Recipes
+[WARNING] Failed to import ld_topic_category Science
+[WARNING] Failed to import ld_topic_category Startup
+[WARNING] Failed to import ld_course_category UI/UX
+[WARNING] Failed to import ld_course_category Web Development
+[ERROR] Failed to import "kitchen" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ld_topic_category Advance
+[WARNING] Failed to import ld_course_category Artificial Intelligence
+[WARNING] Failed to import ld_topic_category Basic
+[WARNING] Failed to import ld_course_category Business Studies
+[WARNING] Failed to import ld_course_category Civil Engineering
+[WARNING] Failed to import ld_course_category Computer Engineering
+[WARNING] Failed to import ld_course_category Computer Science
+[WARNING] Failed to import ld_course_category Freelancer
+[WARNING] Failed to import ld_topic_category Fundamental
+[WARNING] Failed to import ld_topic_category General
+[WARNING] Failed to import ld_course_category General Education
+[WARNING] Failed to import ld_course_category High School
+[WARNING] Failed to import ld_course_category Lawyer Course
+[WARNING] Failed to import ld_course_category Life Course
+[WARNING] Failed to import ld_course_category Online Education
+[WARNING] Failed to import ld_course_category Pre School
+[WARNING] Failed to import ld_topic_category Promotion
+[WARNING] Failed to import ld_course_category Recipes
+[WARNING] Failed to import ld_topic_category Science
+[WARNING] Failed to import ld_topic_category Startup
+[WARNING] Failed to import ld_course_category UI/UX
+[WARNING] Failed to import ld_course_category Web Development
+[ERROR] Failed to import "kitchen" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ld_topic_category Advance
+[WARNING] Failed to import ld_course_category Artificial Intelligence
+[WARNING] Failed to import ld_topic_category Basic
+[WARNING] Failed to import ld_course_category Business Studies
+[WARNING] Failed to import ld_course_category Civil Engineering
+[WARNING] Failed to import ld_course_category Computer Engineering
+[WARNING] Failed to import ld_course_category Computer Science
+[WARNING] Failed to import ld_course_category Freelancer
+[WARNING] Failed to import ld_topic_category Fundamental
+[WARNING] Failed to import ld_topic_category General
+[WARNING] Failed to import ld_course_category General Education
+[WARNING] Failed to import ld_course_category High School
+[WARNING] Failed to import ld_course_category Lawyer Course
+[WARNING] Failed to import ld_course_category Life Course
+[WARNING] Failed to import ld_course_category Online Education
+[WARNING] Failed to import ld_course_category Pre School
+[WARNING] Failed to import ld_topic_category Promotion
+[WARNING] Failed to import ld_course_category Recipes
+[WARNING] Failed to import ld_topic_category Science
+[WARNING] Failed to import ld_topic_category Startup
+[WARNING] Failed to import ld_course_category UI/UX
+[WARNING] Failed to import ld_course_category Web Development
+[ERROR] Failed to import "kitchen" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ld_topic_category Advance
+[WARNING] Failed to import ld_course_category Artificial Intelligence
+[WARNING] Failed to import ld_topic_category Basic
+[WARNING] Failed to import ld_course_category Business Studies
+[WARNING] Failed to import ld_course_category Civil Engineering
+[WARNING] Failed to import ld_course_category Computer Engineering
+[WARNING] Failed to import ld_course_category Computer Science
+[WARNING] Failed to import ld_course_category Freelancer
+[WARNING] Failed to import ld_topic_category Fundamental
+[WARNING] Failed to import ld_topic_category General
+[WARNING] Failed to import ld_course_category General Education
+[WARNING] Failed to import ld_course_category High School
+[WARNING] Failed to import ld_course_category Lawyer Course
+[WARNING] Failed to import ld_course_category Life Course
+[WARNING] Failed to import ld_course_category Online Education
+[WARNING] Failed to import ld_course_category Pre School
+[WARNING] Failed to import ld_topic_category Promotion
+[WARNING] Failed to import ld_course_category Recipes
+[WARNING] Failed to import ld_topic_category Science
+[WARNING] Failed to import ld_topic_category Startup
+[WARNING] Failed to import ld_course_category UI/UX
+[WARNING] Failed to import ld_course_category Web Development
+[ERROR] Failed to import "kitchen" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ld_topic_category Advance
+[WARNING] Failed to import ld_course_category Artificial Intelligence
+[WARNING] Failed to import ld_topic_category Basic
+[WARNING] Failed to import ld_course_category Business Studies
+[WARNING] Failed to import ld_course_category Civil Engineering
+[WARNING] Failed to import ld_course_category Computer Engineering
+[WARNING] Failed to import ld_course_category Computer Science
+[WARNING] Failed to import ld_course_category Freelancer
+[WARNING] Failed to import ld_topic_category Fundamental
+[WARNING] Failed to import ld_topic_category General
+[WARNING] Failed to import ld_course_category General Education
+[WARNING] Failed to import ld_course_category High School
+[WARNING] Failed to import ld_course_category Lawyer Course
+[WARNING] Failed to import ld_course_category Life Course
+[WARNING] Failed to import ld_course_category Online Education
+[WARNING] Failed to import ld_course_category Pre School
+[WARNING] Failed to import ld_topic_category Promotion
+[WARNING] Failed to import ld_course_category Recipes
+[WARNING] Failed to import ld_topic_category Science
+[WARNING] Failed to import ld_topic_category Startup
+[WARNING] Failed to import ld_course_category UI/UX
+[WARNING] Failed to import ld_course_category Web Development
+[ERROR] Failed to import "kitchen" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ld_topic_category Advance
+[WARNING] Failed to import ld_course_category Artificial Intelligence
+[WARNING] Failed to import ld_topic_category Basic
+[WARNING] Failed to import ld_course_category Business Studies
+[WARNING] Failed to import ld_course_category Civil Engineering
+[WARNING] Failed to import ld_course_category Computer Engineering
+[WARNING] Failed to import ld_course_category Computer Science
+[WARNING] Failed to import ld_course_category Freelancer
+[WARNING] Failed to import ld_topic_category Fundamental
+[WARNING] Failed to import ld_topic_category General
+[WARNING] Failed to import ld_course_category General Education
+[WARNING] Failed to import ld_course_category High School
+[WARNING] Failed to import ld_course_category Lawyer Course
+[WARNING] Failed to import ld_course_category Life Course
+[WARNING] Failed to import ld_course_category Online Education
+[WARNING] Failed to import ld_course_category Pre School
+[WARNING] Failed to import ld_topic_category Promotion
+[WARNING] Failed to import ld_course_category Recipes
+[WARNING] Failed to import ld_topic_category Science
+[WARNING] Failed to import ld_topic_category Startup
+[WARNING] Failed to import ld_course_category UI/UX
+[WARNING] Failed to import ld_course_category Web Development
+[ERROR] Failed to import "kitchen" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ld_topic_category Advance
+[WARNING] Failed to import ld_course_category Artificial Intelligence
+[WARNING] Failed to import ld_topic_category Basic
+[WARNING] Failed to import ld_course_category Business Studies
+[WARNING] Failed to import ld_course_category Civil Engineering
+[WARNING] Failed to import ld_course_category Computer Engineering
+[WARNING] Failed to import ld_course_category Computer Science
+[WARNING] Failed to import ld_course_category Freelancer
+[WARNING] Failed to import ld_topic_category Fundamental
+[WARNING] Failed to import ld_topic_category General
+[WARNING] Failed to import ld_course_category General Education
+[WARNING] Failed to import ld_course_category High School
+[WARNING] Failed to import ld_course_category Lawyer Course
+[WARNING] Failed to import ld_course_category Life Course
+[WARNING] Failed to import ld_course_category Online Education
+[WARNING] Failed to import ld_course_category Pre School
+[WARNING] Failed to import ld_topic_category Promotion
+[WARNING] Failed to import ld_course_category Recipes
+[WARNING] Failed to import ld_topic_category Science
+[WARNING] Failed to import ld_topic_category Startup
+[WARNING] Failed to import ld_course_category UI/UX
+[WARNING] Failed to import ld_course_category Web Development
+[ERROR] Failed to import "kitchen" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ld_topic_category Advance
+[WARNING] Failed to import ld_course_category Artificial Intelligence
+[WARNING] Failed to import ld_topic_category Basic
+[WARNING] Failed to import ld_course_category Business Studies
+[WARNING] Failed to import ld_course_category Civil Engineering
+[WARNING] Failed to import ld_course_category Computer Engineering
+[WARNING] Failed to import ld_course_category Computer Science
+[WARNING] Failed to import ld_course_category Freelancer
+[WARNING] Failed to import ld_topic_category Fundamental
+[WARNING] Failed to import ld_topic_category General
+[WARNING] Failed to import ld_course_category General Education
+[WARNING] Failed to import ld_course_category High School
+[WARNING] Failed to import ld_course_category Lawyer Course
+[WARNING] Failed to import ld_course_category Life Course
+[WARNING] Failed to import ld_course_category Online Education
+[WARNING] Failed to import ld_course_category Pre School
+[WARNING] Failed to import ld_topic_category Promotion
+[WARNING] Failed to import ld_course_category Recipes
+[WARNING] Failed to import ld_topic_category Science
+[WARNING] Failed to import ld_topic_category Startup
+[WARNING] Failed to import ld_course_category UI/UX
+[WARNING] Failed to import ld_course_category Web Development
+[ERROR] Failed to import "kitchen" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ld_topic_category Advance
+[WARNING] Failed to import ld_course_category Artificial Intelligence
+[WARNING] Failed to import ld_topic_category Basic
+[WARNING] Failed to import ld_course_category Business Studies
+[WARNING] Failed to import ld_course_category Civil Engineering
+[WARNING] Failed to import ld_course_category Computer Engineering
+[WARNING] Failed to import ld_course_category Computer Science
+[WARNING] Failed to import ld_course_category Freelancer
+[WARNING] Failed to import ld_topic_category Fundamental
+[WARNING] Failed to import ld_topic_category General
+[WARNING] Failed to import ld_course_category General Education
+[WARNING] Failed to import ld_course_category High School
+[WARNING] Failed to import ld_course_category Lawyer Course
+[WARNING] Failed to import ld_course_category Life Course
+[WARNING] Failed to import ld_course_category Online Education
+[WARNING] Failed to import ld_course_category Pre School
+[WARNING] Failed to import ld_topic_category Promotion
+[WARNING] Failed to import ld_course_category Recipes
+[WARNING] Failed to import ld_topic_category Science
+[WARNING] Failed to import ld_topic_category Startup
+[WARNING] Failed to import ld_course_category UI/UX
+[WARNING] Failed to import ld_course_category Web Development
+[ERROR] Failed to import "kitchen" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ld_topic_category Advance
+[WARNING] Failed to import ld_course_category Artificial Intelligence
+[WARNING] Failed to import ld_topic_category Basic
+[WARNING] Failed to import ld_course_category Business Studies
+[WARNING] Failed to import ld_course_category Civil Engineering
+[WARNING] Failed to import ld_course_category Computer Engineering
+[WARNING] Failed to import ld_course_category Computer Science
+[WARNING] Failed to import ld_course_category Freelancer
+[WARNING] Failed to import ld_topic_category Fundamental
+[WARNING] Failed to import ld_topic_category General
+[WARNING] Failed to import ld_course_category General Education
+[WARNING] Failed to import ld_course_category High School
+[WARNING] Failed to import ld_course_category Lawyer Course
+[WARNING] Failed to import ld_course_category Life Course
+[WARNING] Failed to import ld_course_category Online Education
+[WARNING] Failed to import ld_course_category Pre School
+[WARNING] Failed to import ld_topic_category Promotion
+[WARNING] Failed to import ld_course_category Recipes
+[WARNING] Failed to import ld_topic_category Science
+[WARNING] Failed to import ld_topic_category Startup
+[WARNING] Failed to import ld_course_category UI/UX
+[WARNING] Failed to import ld_course_category Web Development
+[ERROR] Failed to import "kitchen" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ld_topic_category Advance
+[WARNING] Failed to import ld_course_category Artificial Intelligence
+[WARNING] Failed to import ld_topic_category Basic
+[WARNING] Failed to import ld_course_category Business Studies
+[WARNING] Failed to import ld_course_category Civil Engineering
+[WARNING] Failed to import ld_course_category Computer Engineering
+[WARNING] Failed to import ld_course_category Computer Science
+[WARNING] Failed to import ld_course_category Freelancer
+[WARNING] Failed to import ld_topic_category Fundamental
+[WARNING] Failed to import ld_topic_category General
+[WARNING] Failed to import ld_course_category General Education
+[WARNING] Failed to import ld_course_category High School
+[WARNING] Failed to import ld_course_category Lawyer Course
+[WARNING] Failed to import ld_course_category Life Course
+[WARNING] Failed to import ld_course_category Online Education
+[WARNING] Failed to import ld_course_category Pre School
+[WARNING] Failed to import ld_topic_category Promotion
+[WARNING] Failed to import ld_course_category Recipes
+[WARNING] Failed to import ld_topic_category Science
+[WARNING] Failed to import ld_topic_category Startup
+[WARNING] Failed to import ld_course_category UI/UX
+[WARNING] Failed to import ld_course_category Web Development
+[ERROR] Failed to import "kitchen" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ld_topic_category Advance
+[WARNING] Failed to import ld_course_category Artificial Intelligence
+[WARNING] Failed to import ld_topic_category Basic
+[WARNING] Failed to import ld_course_category Business Studies
+[WARNING] Failed to import ld_course_category Civil Engineering
+[WARNING] Failed to import ld_course_category Computer Engineering
+[WARNING] Failed to import ld_course_category Computer Science
+[WARNING] Failed to import ld_course_category Freelancer
+[WARNING] Failed to import ld_topic_category Fundamental
+[WARNING] Failed to import ld_topic_category General
+[WARNING] Failed to import ld_course_category General Education
+[WARNING] Failed to import ld_course_category High School
+[WARNING] Failed to import ld_course_category Lawyer Course
+[WARNING] Failed to import ld_course_category Life Course
+[WARNING] Failed to import ld_course_category Online Education
+[WARNING] Failed to import ld_course_category Pre School
+[WARNING] Failed to import ld_topic_category Promotion
+[WARNING] Failed to import ld_course_category Recipes
+[WARNING] Failed to import ld_topic_category Science
+[WARNING] Failed to import ld_topic_category Startup
+[WARNING] Failed to import ld_course_category UI/UX
+[WARNING] Failed to import ld_course_category Web Development
+[ERROR] Failed to import "kitchen" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ld_topic_category Advance
+[WARNING] Failed to import ld_course_category Artificial Intelligence
+[WARNING] Failed to import ld_topic_category Basic
+[WARNING] Failed to import ld_course_category Business Studies
+[WARNING] Failed to import ld_course_category Civil Engineering
+[WARNING] Failed to import ld_course_category Computer Engineering
+[WARNING] Failed to import ld_course_category Computer Science
+[WARNING] Failed to import ld_course_category Freelancer
+[WARNING] Failed to import ld_topic_category Fundamental
+[WARNING] Failed to import ld_topic_category General
+[WARNING] Failed to import ld_course_category General Education
+[WARNING] Failed to import ld_course_category High School
+[WARNING] Failed to import ld_course_category Lawyer Course
+[WARNING] Failed to import ld_course_category Life Course
+[WARNING] Failed to import ld_course_category Online Education
+[WARNING] Failed to import ld_course_category Pre School
+[WARNING] Failed to import ld_topic_category Promotion
+[WARNING] Failed to import ld_course_category Recipes
+[WARNING] Failed to import ld_topic_category Science
+[WARNING] Failed to import ld_topic_category Startup
+[WARNING] Failed to import ld_course_category UI/UX
+[WARNING] Failed to import ld_course_category Web Development
+[ERROR] Failed to import "kitchen" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ld_topic_category Advance
+[WARNING] Failed to import ld_course_category Artificial Intelligence
+[WARNING] Failed to import ld_topic_category Basic
+[WARNING] Failed to import ld_course_category Business Studies
+[WARNING] Failed to import ld_course_category Civil Engineering
+[WARNING] Failed to import ld_course_category Computer Engineering
+[WARNING] Failed to import ld_course_category Computer Science
+[WARNING] Failed to import ld_course_category Freelancer
+[WARNING] Failed to import ld_topic_category Fundamental
+[WARNING] Failed to import ld_topic_category General
+[WARNING] Failed to import ld_course_category General Education
+[WARNING] Failed to import ld_course_category High School
+[WARNING] Failed to import ld_course_category Lawyer Course
+[WARNING] Failed to import ld_course_category Life Course
+[WARNING] Failed to import ld_course_category Online Education
+[WARNING] Failed to import ld_course_category Pre School
+[WARNING] Failed to import ld_topic_category Promotion
+[WARNING] Failed to import ld_course_category Recipes
+[WARNING] Failed to import ld_topic_category Science
+[WARNING] Failed to import ld_topic_category Startup
+[WARNING] Failed to import ld_course_category UI/UX
+[WARNING] Failed to import ld_course_category Web Development
+[ERROR] Failed to import "kitchen" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ld_topic_category Advance
+[WARNING] Failed to import ld_course_category Artificial Intelligence
+[WARNING] Failed to import ld_topic_category Basic
+[WARNING] Failed to import ld_course_category Business Studies
+[WARNING] Failed to import ld_course_category Civil Engineering
+[WARNING] Failed to import ld_course_category Computer Engineering
+[WARNING] Failed to import ld_course_category Computer Science
+[WARNING] Failed to import ld_course_category Freelancer
+[WARNING] Failed to import ld_topic_category Fundamental
+[WARNING] Failed to import ld_topic_category General
+[WARNING] Failed to import ld_course_category General Education
+[WARNING] Failed to import ld_course_category High School
+[WARNING] Failed to import ld_course_category Lawyer Course
+[WARNING] Failed to import ld_course_category Life Course
+[WARNING] Failed to import ld_course_category Online Education
+[WARNING] Failed to import ld_course_category Pre School
+[WARNING] Failed to import ld_topic_category Promotion
+[WARNING] Failed to import ld_course_category Recipes
+[WARNING] Failed to import ld_topic_category Science
+[WARNING] Failed to import ld_topic_category Startup
+[WARNING] Failed to import ld_course_category UI/UX
+[WARNING] Failed to import ld_course_category Web Development
+[ERROR] Failed to import "kitchen" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ld_topic_category Advance
+[WARNING] Failed to import ld_course_category Artificial Intelligence
+[WARNING] Failed to import ld_topic_category Basic
+[WARNING] Failed to import ld_course_category Business Studies
+[WARNING] Failed to import ld_course_category Civil Engineering
+[WARNING] Failed to import ld_course_category Computer Engineering
+[WARNING] Failed to import ld_course_category Computer Science
+[WARNING] Failed to import ld_course_category Freelancer
+[WARNING] Failed to import ld_topic_category Fundamental
+[WARNING] Failed to import ld_topic_category General
+[WARNING] Failed to import ld_course_category General Education
+[WARNING] Failed to import ld_course_category High School
+[WARNING] Failed to import ld_course_category Lawyer Course
+[WARNING] Failed to import ld_course_category Life Course
+[WARNING] Failed to import ld_course_category Online Education
+[WARNING] Failed to import ld_course_category Pre School
+[WARNING] Failed to import ld_topic_category Promotion
+[WARNING] Failed to import ld_course_category Recipes
+[WARNING] Failed to import ld_topic_category Science
+[WARNING] Failed to import ld_topic_category Startup
+[WARNING] Failed to import ld_course_category UI/UX
+[WARNING] Failed to import ld_course_category Web Development
+[ERROR] Failed to import "kitchen" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ld_topic_category Advance
+[WARNING] Failed to import ld_course_category Artificial Intelligence
+[WARNING] Failed to import ld_topic_category Basic
+[WARNING] Failed to import ld_course_category Business Studies
+[WARNING] Failed to import ld_course_category Civil Engineering
+[WARNING] Failed to import ld_course_category Computer Engineering
+[WARNING] Failed to import ld_course_category Computer Science
+[WARNING] Failed to import ld_course_category Freelancer
+[WARNING] Failed to import ld_topic_category Fundamental
+[WARNING] Failed to import ld_topic_category General
+[WARNING] Failed to import ld_course_category General Education
+[WARNING] Failed to import ld_course_category High School
+[WARNING] Failed to import ld_course_category Lawyer Course
+[WARNING] Failed to import ld_course_category Life Course
+[WARNING] Failed to import ld_course_category Online Education
+[WARNING] Failed to import ld_course_category Pre School
+[WARNING] Failed to import ld_topic_category Promotion
+[WARNING] Failed to import ld_course_category Recipes
+[WARNING] Failed to import ld_topic_category Science
+[WARNING] Failed to import ld_topic_category Startup
+[WARNING] Failed to import ld_course_category UI/UX
+[WARNING] Failed to import ld_course_category Web Development
+[ERROR] Failed to import "kitchen" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ld_topic_category Advance
+[WARNING] Failed to import ld_course_category Artificial Intelligence
+[WARNING] Failed to import ld_topic_category Basic
+[WARNING] Failed to import ld_course_category Business Studies
+[WARNING] Failed to import ld_course_category Civil Engineering
+[WARNING] Failed to import ld_course_category Computer Engineering
+[WARNING] Failed to import ld_course_category Computer Science
+[WARNING] Failed to import ld_course_category Freelancer
+[WARNING] Failed to import ld_topic_category Fundamental
+[WARNING] Failed to import ld_topic_category General
+[WARNING] Failed to import ld_course_category General Education
+[WARNING] Failed to import ld_course_category High School
+[WARNING] Failed to import ld_course_category Lawyer Course
+[WARNING] Failed to import ld_course_category Life Course
+[WARNING] Failed to import ld_course_category Online Education
+[WARNING] Failed to import ld_course_category Pre School
+[WARNING] Failed to import ld_topic_category Promotion
+[WARNING] Failed to import ld_course_category Recipes
+[WARNING] Failed to import ld_topic_category Science
+[WARNING] Failed to import ld_topic_category Startup
+[WARNING] Failed to import ld_course_category UI/UX
+[WARNING] Failed to import ld_course_category Web Development
+[ERROR] Failed to import "kitchen" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ld_topic_category Advance
+[WARNING] Failed to import ld_course_category Artificial Intelligence
+[WARNING] Failed to import ld_topic_category Basic
+[WARNING] Failed to import ld_course_category Business Studies
+[WARNING] Failed to import ld_course_category Civil Engineering
+[WARNING] Failed to import ld_course_category Computer Engineering
+[WARNING] Failed to import ld_course_category Computer Science
+[WARNING] Failed to import ld_course_category Freelancer
+[WARNING] Failed to import ld_topic_category Fundamental
+[WARNING] Failed to import ld_topic_category General
+[WARNING] Failed to import ld_course_category General Education
+[WARNING] Failed to import ld_course_category High School
+[WARNING] Failed to import ld_course_category Lawyer Course
+[WARNING] Failed to import ld_course_category Life Course
+[WARNING] Failed to import ld_course_category Online Education
+[WARNING] Failed to import ld_course_category Pre School
+[WARNING] Failed to import ld_topic_category Promotion
+[WARNING] Failed to import ld_course_category Recipes
+[WARNING] Failed to import ld_topic_category Science
+[WARNING] Failed to import ld_topic_category Startup
+[WARNING] Failed to import ld_course_category UI/UX
+[WARNING] Failed to import ld_course_category Web Development
+[ERROR] Failed to import "kitchen" (Media)
+
+
+---Importing widgets---
+Sidebar : 
+
+Search - No Title - Imported
+RS Recent Post Widget - Recent Posts - Imported
+Categories - No Title - Imported
+Tag Cloud - Popular Tags - Imported
+
+Offcanvas Sidebar : 
+
+Text - No Title - Imported
+Gallery - No Title - Imported
+Image - No Title - Imported
+RS Social Icon Widget - No Title - Imported
+
+Footer Top Subscribe : 
+
+Mailchimp Sign-Up Form - No Title - Imported
+
+Footer One Widget Area : 
+
+Text - No Title - Imported
+RS Social Icon Widget - No Title - Imported
+
+Footer Two Widget Area : 
+
+RS Contact Info - Address - Imported
+
+Footer Three Widget Area : 
+
+Navigation Menu - Courses - Imported
+
+Footer Four Widget Area : 
+
+RS Recent Post Widget - No Title - Imported
+
+Copyright Menu : 
+
+Navigation Menu - No Title - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: educavo_option finished successfully!
+
+---Importing widgets---
+Sidebar : 
+
+Search - No Title - Widget already exists
+RS Recent Post Widget - Recent Posts - Widget already exists
+Categories - No Title - Widget already exists
+Tag Cloud - Popular Tags - Widget already exists
+
+Offcanvas Sidebar : 
+
+Text - No Title - Widget already exists
+Gallery - No Title - Widget already exists
+Image - No Title - Widget already exists
+RS Social Icon Widget - No Title - Widget already exists
+
+Footer Top Subscribe : 
+
+Mailchimp Sign-Up Form - No Title - Widget already exists
+
+Footer One Widget Area : 
+
+Text - No Title - Widget already exists
+RS Social Icon Widget - No Title - Widget already exists
+
+Footer Two Widget Area : 
+
+RS Contact Info - Address - Widget already exists
+
+Footer Three Widget Area : 
+
+Navigation Menu - Courses - Widget already exists
+
+Footer Four Widget Area : 
+
+RS Recent Post Widget - No Title - Widget already exists
+
+Copyright Menu : 
+
+Navigation Menu - No Title - Widget already exists
+
+
+
+---Importing Redux settings---
+Redux settings import for: educavo_option finished successfully!
+
+---ocdi/after_import---
+
+
+---ocdi/after_import---
+

@@ -1,0 +1,1143 @@
+2021-12-27T07:34:14+00:00 DEBUG 
+====Stripe Version: 5.9.0====
+====Start Log====
+sources/src_1KBDihCgqatCeoletyNDTm80
+====End Log====
+
+
+2021-12-27T07:34:15+00:00 DEBUG 
+====Stripe Version: 5.9.0====
+====Start Log====
+customers request: Array
+(
+    [email] => yayofoiddega-6358@yopmail.com
+    [description] => Name: aish aishwarya, Username: aish.aishwarya
+    [name] => aish aishwarya
+    [metadata] => Array
+        (
+        )
+
+    [preferred_locales] => Array
+        (
+            [0] => en-US
+        )
+
+)
+
+====End Log====
+
+
+2021-12-27T07:34:15+00:00 DEBUG 
+====Stripe Version: 5.9.0====
+====Start Log====
+Info: Begin processing payment for order 13306 for the amount of 999.00
+====End Log====
+
+
+2021-12-27T07:34:15+00:00 DEBUG 
+====Stripe Version: 5.9.0====
+====Start Log====
+payment_intents request: Array
+(
+    [source] => src_1KBDihCgqatCeoletyNDTm80
+    [amount] => 99900
+    [currency] => usd
+    [description] => PMnotebooks - Order 13306
+    [metadata] => Array
+        (
+            [customer_name] => aish aishwarya
+            [customer_email] => yayofoiddega-6358@yopmail.com
+            [order_id] => 13306
+            [site_url] => http://www.3iservices.in/PMnotebooks
+        )
+
+    [capture_method] => automatic
+    [payment_method_types] => Array
+        (
+            [0] => card
+        )
+
+    [customer] => cus_KqvZTaDfbIif45
+)
+
+====End Log====
+
+
+2021-12-27T07:34:15+00:00 DEBUG 
+====Stripe Version: 5.9.0====
+====Start Log====
+Stripe PaymentIntent pi_3KBDilCgqatCeole0qUW2lUz initiated for order 13306
+====End Log====
+
+
+2021-12-27T07:34:15+00:00 DEBUG 
+====Stripe Version: 5.9.0====
+====Start Log====
+payment_intents/pi_3KBDilCgqatCeole0qUW2lUz/confirm request: Array
+(
+    [source] => src_1KBDihCgqatCeoletyNDTm80
+)
+
+====End Log====
+
+
+2021-12-27T07:34:17+00:00 DEBUG 
+====Stripe Version: 5.9.0====
+====Start Log====
+Stripe PaymentIntent pi_3KBDilCgqatCeole0qUW2lUz succeeded for order 13306
+====End Log====
+
+
+2021-12-27T07:34:17+00:00 DEBUG 
+====Stripe Version: 5.9.0====
+====Start Log====
+Processing response: stdClass Object
+(
+    [id] => ch_3KBDilCgqatCeole0vNMGCiW
+    [object] => charge
+    [amount] => 99900
+    [amount_captured] => 99900
+    [amount_refunded] => 0
+    [application] => 
+    [application_fee] => 
+    [application_fee_amount] => 
+    [balance_transaction] => txn_3KBDilCgqatCeole0wNWw3oF
+    [billing_details] => stdClass Object
+        (
+            [address] => stdClass Object
+                (
+                    [city] => india
+                    [country] => IN
+                    [line1] => indore
+                    [line2] => india
+                    [postal_code] => 451010
+                    [state] => MP
+                )
+
+            [email] => yayofoiddega-6358@yopmail.com
+            [name] => aish aishwarya
+            [phone] => 6265123456
+        )
+
+    [calculated_statement_descriptor] => Stripe
+    [captured] => 1
+    [created] => 1640590456
+    [currency] => usd
+    [customer] => cus_KqvZTaDfbIif45
+    [description] => PMnotebooks - Order 13306
+    [destination] => 
+    [dispute] => 
+    [disputed] => 
+    [failure_code] => 
+    [failure_message] => 
+    [fraud_details] => stdClass Object
+        (
+        )
+
+    [invoice] => 
+    [livemode] => 
+    [metadata] => stdClass Object
+        (
+            [customer_name] => aish aishwarya
+            [customer_email] => yayofoiddega-6358@yopmail.com
+            [order_id] => 13306
+            [site_url] => http://www.3iservices.in/PMnotebooks
+        )
+
+    [on_behalf_of] => 
+    [order] => 
+    [outcome] => stdClass Object
+        (
+            [network_status] => approved_by_network
+            [reason] => 
+            [risk_level] => normal
+            [risk_score] => 38
+            [seller_message] => Payment complete.
+            [type] => authorized
+        )
+
+    [paid] => 1
+    [payment_intent] => pi_3KBDilCgqatCeole0qUW2lUz
+    [payment_method] => src_1KBDihCgqatCeoletyNDTm80
+    [payment_method_details] => stdClass Object
+        (
+            [card] => stdClass Object
+                (
+                    [brand] => visa
+                    [checks] => stdClass Object
+                        (
+                            [address_line1_check] => pass
+                            [address_postal_code_check] => pass
+                            [cvc_check] => pass
+                        )
+
+                    [country] => US
+                    [exp_month] => 2
+                    [exp_year] => 2025
+                    [fingerprint] => uHlZe2H9vhfgs6T6
+                    [funding] => credit
+                    [installments] => 
+                    [last4] => 4242
+                    [network] => visa
+                    [three_d_secure] => 
+                    [wallet] => 
+                )
+
+            [type] => card
+        )
+
+    [receipt_email] => 
+    [receipt_number] => 
+    [receipt_url] => https://pay.stripe.com/receipts/acct_1ET7xNCgqatCeole/ch_3KBDilCgqatCeole0vNMGCiW/rcpt_KqvZwW1bl9uc2B3dP4jrr8ybW6XM5Ju
+    [refunded] => 
+    [refunds] => stdClass Object
+        (
+            [object] => list
+            [data] => Array
+                (
+                )
+
+            [has_more] => 
+            [total_count] => 0
+            [url] => /v1/charges/ch_3KBDilCgqatCeole0vNMGCiW/refunds
+        )
+
+    [review] => 
+    [shipping] => 
+    [source] => stdClass Object
+        (
+            [id] => src_1KBDihCgqatCeoletyNDTm80
+            [object] => source
+            [amount] => 
+            [card] => stdClass Object
+                (
+                    [exp_month] => 2
+                    [exp_year] => 2025
+                    [last4] => 4242
+                    [country] => US
+                    [brand] => Visa
+                    [address_line1_check] => pass
+                    [address_zip_check] => pass
+                    [cvc_check] => pass
+                    [funding] => credit
+                    [fingerprint] => uHlZe2H9vhfgs6T6
+                    [three_d_secure] => optional
+                    [name] => 
+                    [tokenization_method] => 
+                    [dynamic_last4] => 
+                )
+
+            [client_secret] => src_client_secret_VrQC5UWkMeBA8ZXFl2AJy4qC
+            [created] => 1640590456
+            [currency] => 
+            [flow] => none
+            [livemode] => 
+            [metadata] => stdClass Object
+                (
+                )
+
+            [owner] => stdClass Object
+                (
+                    [address] => stdClass Object
+                        (
+                            [city] => india
+                            [country] => IN
+                            [line1] => indore
+                            [line2] => india
+                            [postal_code] => 451010
+                            [state] => MP
+                        )
+
+                    [email] => yayofoiddega-6358@yopmail.com
+                    [name] => aish aishwarya
+                    [phone] => 6265123456
+                    [verified_address] => 
+                    [verified_email] => 
+                    [verified_name] => 
+                    [verified_phone] => 
+                )
+
+            [statement_descriptor] => 
+            [status] => consumed
+            [type] => card
+            [usage] => reusable
+        )
+
+    [source_transfer] => 
+    [statement_descriptor] => 
+    [statement_descriptor_suffix] => 
+    [status] => succeeded
+    [transfer_data] => 
+    [transfer_group] => 
+)
+
+====End Log====
+
+
+2021-12-27T07:34:17+00:00 DEBUG 
+====Stripe Version: 5.9.0====
+====Start Log====
+balance/history/txn_3KBDilCgqatCeole0wNWw3oF
+====End Log====
+
+
+2021-12-27T09:29:55+00:00 DEBUG 
+====Stripe Version: 5.9.0====
+====Start Log====
+customers/cus_KoMQAm8TBPEPLT/sources request: Array
+(
+    [limit] => 100
+)
+
+====End Log====
+
+
+2021-12-27T10:45:26+00:00 DEBUG 
+====Stripe Version: 5.9.0====
+====Start Log====
+sources/src_1KBGhACgqatCeoleJWGXsWec
+====End Log====
+
+
+2021-12-27T10:45:27+00:00 DEBUG 
+====Stripe Version: 5.9.0====
+====Start Log====
+customers request: Array
+(
+    [email] => lefraucroquaffeu-2531@yopmail.com
+    [description] => Name: aish aishwarya, Username: lefraucroquaffeu-2531
+    [name] => aish aishwarya
+    [metadata] => Array
+        (
+        )
+
+    [preferred_locales] => Array
+        (
+            [0] => en-US
+        )
+
+)
+
+====End Log====
+
+
+2021-12-27T10:45:27+00:00 DEBUG 
+====Stripe Version: 5.9.0====
+====Start Log====
+Info: Begin processing payment for order 13308 for the amount of 999.00
+====End Log====
+
+
+2021-12-27T10:45:27+00:00 DEBUG 
+====Stripe Version: 5.9.0====
+====Start Log====
+payment_intents request: Array
+(
+    [source] => src_1KBGhACgqatCeoleJWGXsWec
+    [amount] => 99900
+    [currency] => usd
+    [description] => PMnotebooks - Order 13308
+    [metadata] => Array
+        (
+            [customer_name] => aish aishwarya
+            [customer_email] => lefraucroquaffeu-2531@yopmail.com
+            [order_id] => 13308
+            [site_url] => http://www.3iservices.in/PMnotebooks
+        )
+
+    [capture_method] => automatic
+    [payment_method_types] => Array
+        (
+            [0] => card
+        )
+
+    [customer] => cus_KqyfTqtMcZcEu8
+)
+
+====End Log====
+
+
+2021-12-27T10:45:28+00:00 DEBUG 
+====Stripe Version: 5.9.0====
+====Start Log====
+Stripe PaymentIntent pi_3KBGhoCgqatCeole1XEwTAuj initiated for order 13308
+====End Log====
+
+
+2021-12-27T10:45:28+00:00 DEBUG 
+====Stripe Version: 5.9.0====
+====Start Log====
+payment_intents/pi_3KBGhoCgqatCeole1XEwTAuj/confirm request: Array
+(
+    [source] => src_1KBGhACgqatCeoleJWGXsWec
+)
+
+====End Log====
+
+
+2021-12-27T10:45:29+00:00 DEBUG 
+====Stripe Version: 5.9.0====
+====Start Log====
+Stripe PaymentIntent pi_3KBGhoCgqatCeole1XEwTAuj succeeded for order 13308
+====End Log====
+
+
+2021-12-27T10:45:30+00:00 DEBUG 
+====Stripe Version: 5.9.0====
+====Start Log====
+Processing response: stdClass Object
+(
+    [id] => ch_3KBGhoCgqatCeole1Q9GvZZR
+    [object] => charge
+    [amount] => 99900
+    [amount_captured] => 99900
+    [amount_refunded] => 0
+    [application] => 
+    [application_fee] => 
+    [application_fee_amount] => 
+    [balance_transaction] => txn_3KBGhoCgqatCeole19rOQp2g
+    [billing_details] => stdClass Object
+        (
+            [address] => stdClass Object
+                (
+                    [city] => india
+                    [country] => US
+                    [line1] => indore
+                    [line2] => india
+                    [postal_code] => 46307
+                    [state] => IN
+                )
+
+            [email] => lefraucroquaffeu-2531@yopmail.com
+            [name] => aish aishwarya
+            [phone] => 6265123456
+        )
+
+    [calculated_statement_descriptor] => Stripe
+    [captured] => 1
+    [created] => 1640601928
+    [currency] => usd
+    [customer] => cus_KqyfTqtMcZcEu8
+    [description] => PMnotebooks - Order 13308
+    [destination] => 
+    [dispute] => 
+    [disputed] => 
+    [failure_code] => 
+    [failure_message] => 
+    [fraud_details] => stdClass Object
+        (
+        )
+
+    [invoice] => 
+    [livemode] => 
+    [metadata] => stdClass Object
+        (
+            [customer_name] => aish aishwarya
+            [customer_email] => lefraucroquaffeu-2531@yopmail.com
+            [order_id] => 13308
+            [site_url] => http://www.3iservices.in/PMnotebooks
+        )
+
+    [on_behalf_of] => 
+    [order] => 
+    [outcome] => stdClass Object
+        (
+            [network_status] => approved_by_network
+            [reason] => 
+            [risk_level] => normal
+            [risk_score] => 63
+            [seller_message] => Payment complete.
+            [type] => authorized
+        )
+
+    [paid] => 1
+    [payment_intent] => pi_3KBGhoCgqatCeole1XEwTAuj
+    [payment_method] => src_1KBGhACgqatCeoleJWGXsWec
+    [payment_method_details] => stdClass Object
+        (
+            [card] => stdClass Object
+                (
+                    [brand] => visa
+                    [checks] => stdClass Object
+                        (
+                            [address_line1_check] => pass
+                            [address_postal_code_check] => pass
+                            [cvc_check] => pass
+                        )
+
+                    [country] => US
+                    [exp_month] => 11
+                    [exp_year] => 2025
+                    [fingerprint] => uHlZe2H9vhfgs6T6
+                    [funding] => credit
+                    [installments] => 
+                    [last4] => 4242
+                    [network] => visa
+                    [three_d_secure] => 
+                    [wallet] => 
+                )
+
+            [type] => card
+        )
+
+    [receipt_email] => 
+    [receipt_number] => 
+    [receipt_url] => https://pay.stripe.com/receipts/acct_1ET7xNCgqatCeole/ch_3KBGhoCgqatCeole1Q9GvZZR/rcpt_KqyfihlvhWblqtSGzyUGXtT9yUBqTut
+    [refunded] => 
+    [refunds] => stdClass Object
+        (
+            [object] => list
+            [data] => Array
+                (
+                )
+
+            [has_more] => 
+            [total_count] => 0
+            [url] => /v1/charges/ch_3KBGhoCgqatCeole1Q9GvZZR/refunds
+        )
+
+    [review] => 
+    [shipping] => 
+    [source] => stdClass Object
+        (
+            [id] => src_1KBGhACgqatCeoleJWGXsWec
+            [object] => source
+            [amount] => 
+            [card] => stdClass Object
+                (
+                    [exp_month] => 11
+                    [exp_year] => 2025
+                    [last4] => 4242
+                    [country] => US
+                    [brand] => Visa
+                    [address_line1_check] => pass
+                    [address_zip_check] => pass
+                    [cvc_check] => pass
+                    [funding] => credit
+                    [fingerprint] => uHlZe2H9vhfgs6T6
+                    [three_d_secure] => optional
+                    [name] => 
+                    [tokenization_method] => 
+                    [dynamic_last4] => 
+                )
+
+            [client_secret] => src_client_secret_0zV1Z53CfuCTeozB87f0G2Ma
+            [created] => 1640601929
+            [currency] => 
+            [flow] => none
+            [livemode] => 
+            [metadata] => stdClass Object
+                (
+                )
+
+            [owner] => stdClass Object
+                (
+                    [address] => stdClass Object
+                        (
+                            [city] => india
+                            [country] => US
+                            [line1] => indore
+                            [line2] => india
+                            [postal_code] => 46307
+                            [state] => IN
+                        )
+
+                    [email] => lefraucroquaffeu-2531@yopmail.com
+                    [name] => aish aishwarya
+                    [phone] => 6265123456
+                    [verified_address] => 
+                    [verified_email] => 
+                    [verified_name] => 
+                    [verified_phone] => 
+                )
+
+            [statement_descriptor] => 
+            [status] => consumed
+            [type] => card
+            [usage] => reusable
+        )
+
+    [source_transfer] => 
+    [statement_descriptor] => 
+    [statement_descriptor_suffix] => 
+    [status] => succeeded
+    [transfer_data] => 
+    [transfer_group] => 
+)
+
+====End Log====
+
+
+2021-12-27T10:45:30+00:00 DEBUG 
+====Stripe Version: 5.9.0====
+====Start Log====
+balance/history/txn_3KBGhoCgqatCeole19rOQp2g
+====End Log====
+
+
+2021-12-27T11:04:43+00:00 DEBUG 
+====Stripe Version: 5.9.0====
+====Start Log====
+sources/src_1KBH0OCgqatCeole1ScUI0Un
+====End Log====
+
+
+2021-12-27T11:04:43+00:00 DEBUG 
+====Stripe Version: 5.9.0====
+====Start Log====
+customers request: Array
+(
+    [email] => gricrakajuso-9326@yopmail.com
+    [description] => Name: aish aishwarya, Username: gricrakajuso-9326
+    [name] => aish aishwarya
+    [metadata] => Array
+        (
+        )
+
+    [preferred_locales] => Array
+        (
+            [0] => en-US
+        )
+
+)
+
+====End Log====
+
+
+2021-12-27T11:04:44+00:00 DEBUG 
+====Stripe Version: 5.9.0====
+====Start Log====
+Info: Begin processing payment for order 13309 for the amount of 1998.00
+====End Log====
+
+
+2021-12-27T11:04:44+00:00 DEBUG 
+====Stripe Version: 5.9.0====
+====Start Log====
+payment_intents request: Array
+(
+    [source] => src_1KBH0OCgqatCeole1ScUI0Un
+    [amount] => 199800
+    [currency] => usd
+    [description] => PMnotebooks - Order 13309
+    [metadata] => Array
+        (
+            [customer_name] => aish aishwarya
+            [customer_email] => gricrakajuso-9326@yopmail.com
+            [order_id] => 13309
+            [site_url] => http://www.3iservices.in/PMnotebooks
+        )
+
+    [capture_method] => automatic
+    [payment_method_types] => Array
+        (
+            [0] => card
+        )
+
+    [customer] => cus_Kqyykav8PChiD8
+)
+
+====End Log====
+
+
+2021-12-27T11:04:44+00:00 DEBUG 
+====Stripe Version: 5.9.0====
+====Start Log====
+Stripe PaymentIntent pi_3KBH0SCgqatCeole0z7ykZtp initiated for order 13309
+====End Log====
+
+
+2021-12-27T11:04:44+00:00 DEBUG 
+====Stripe Version: 5.9.0====
+====Start Log====
+payment_intents/pi_3KBH0SCgqatCeole0z7ykZtp/confirm request: Array
+(
+    [source] => src_1KBH0OCgqatCeole1ScUI0Un
+)
+
+====End Log====
+
+
+2021-12-27T11:04:46+00:00 DEBUG 
+====Stripe Version: 5.9.0====
+====Start Log====
+Stripe PaymentIntent pi_3KBH0SCgqatCeole0z7ykZtp succeeded for order 13309
+====End Log====
+
+
+2021-12-27T11:04:46+00:00 DEBUG 
+====Stripe Version: 5.9.0====
+====Start Log====
+Processing response: stdClass Object
+(
+    [id] => ch_3KBH0SCgqatCeole0ZdPia5k
+    [object] => charge
+    [amount] => 199800
+    [amount_captured] => 199800
+    [amount_refunded] => 0
+    [application] => 
+    [application_fee] => 
+    [application_fee_amount] => 
+    [balance_transaction] => txn_3KBH0SCgqatCeole066CghM1
+    [billing_details] => stdClass Object
+        (
+            [address] => stdClass Object
+                (
+                    [city] => india
+                    [country] => US
+                    [line1] => indore
+                    [line2] => india
+                    [postal_code] => 46307
+                    [state] => IN
+                )
+
+            [email] => gricrakajuso-9326@yopmail.com
+            [name] => aish aishwarya
+            [phone] => 6265123456
+        )
+
+    [calculated_statement_descriptor] => Stripe
+    [captured] => 1
+    [created] => 1640603085
+    [currency] => usd
+    [customer] => cus_Kqyykav8PChiD8
+    [description] => PMnotebooks - Order 13309
+    [destination] => 
+    [dispute] => 
+    [disputed] => 
+    [failure_code] => 
+    [failure_message] => 
+    [fraud_details] => stdClass Object
+        (
+        )
+
+    [invoice] => 
+    [livemode] => 
+    [metadata] => stdClass Object
+        (
+            [customer_name] => aish aishwarya
+            [customer_email] => gricrakajuso-9326@yopmail.com
+            [order_id] => 13309
+            [site_url] => http://www.3iservices.in/PMnotebooks
+        )
+
+    [on_behalf_of] => 
+    [order] => 
+    [outcome] => stdClass Object
+        (
+            [network_status] => approved_by_network
+            [reason] => 
+            [risk_level] => normal
+            [risk_score] => 36
+            [seller_message] => Payment complete.
+            [type] => authorized
+        )
+
+    [paid] => 1
+    [payment_intent] => pi_3KBH0SCgqatCeole0z7ykZtp
+    [payment_method] => src_1KBH0OCgqatCeole1ScUI0Un
+    [payment_method_details] => stdClass Object
+        (
+            [card] => stdClass Object
+                (
+                    [brand] => visa
+                    [checks] => stdClass Object
+                        (
+                            [address_line1_check] => pass
+                            [address_postal_code_check] => pass
+                            [cvc_check] => pass
+                        )
+
+                    [country] => US
+                    [exp_month] => 2
+                    [exp_year] => 2026
+                    [fingerprint] => uHlZe2H9vhfgs6T6
+                    [funding] => credit
+                    [installments] => 
+                    [last4] => 4242
+                    [network] => visa
+                    [three_d_secure] => 
+                    [wallet] => 
+                )
+
+            [type] => card
+        )
+
+    [receipt_email] => 
+    [receipt_number] => 
+    [receipt_url] => https://pay.stripe.com/receipts/acct_1ET7xNCgqatCeole/ch_3KBH0SCgqatCeole0ZdPia5k/rcpt_KqyyEueaPd1cCqwLuIXS5E72xh5Ct3H
+    [refunded] => 
+    [refunds] => stdClass Object
+        (
+            [object] => list
+            [data] => Array
+                (
+                )
+
+            [has_more] => 
+            [total_count] => 0
+            [url] => /v1/charges/ch_3KBH0SCgqatCeole0ZdPia5k/refunds
+        )
+
+    [review] => 
+    [shipping] => 
+    [source] => stdClass Object
+        (
+            [id] => src_1KBH0OCgqatCeole1ScUI0Un
+            [object] => source
+            [amount] => 
+            [card] => stdClass Object
+                (
+                    [exp_month] => 2
+                    [exp_year] => 2026
+                    [last4] => 4242
+                    [country] => US
+                    [brand] => Visa
+                    [address_line1_check] => pass
+                    [address_zip_check] => pass
+                    [cvc_check] => pass
+                    [funding] => credit
+                    [fingerprint] => uHlZe2H9vhfgs6T6
+                    [three_d_secure] => optional
+                    [name] => 
+                    [tokenization_method] => 
+                    [dynamic_last4] => 
+                )
+
+            [client_secret] => src_client_secret_zipUUFqypN6lThI8aniCAsAW
+            [created] => 1640603085
+            [currency] => 
+            [flow] => none
+            [livemode] => 
+            [metadata] => stdClass Object
+                (
+                )
+
+            [owner] => stdClass Object
+                (
+                    [address] => stdClass Object
+                        (
+                            [city] => india
+                            [country] => US
+                            [line1] => indore
+                            [line2] => india
+                            [postal_code] => 46307
+                            [state] => IN
+                        )
+
+                    [email] => gricrakajuso-9326@yopmail.com
+                    [name] => aish aishwarya
+                    [phone] => 6265123456
+                    [verified_address] => 
+                    [verified_email] => 
+                    [verified_name] => 
+                    [verified_phone] => 
+                )
+
+            [statement_descriptor] => 
+            [status] => consumed
+            [type] => card
+            [usage] => reusable
+        )
+
+    [source_transfer] => 
+    [statement_descriptor] => 
+    [statement_descriptor_suffix] => 
+    [status] => succeeded
+    [transfer_data] => 
+    [transfer_group] => 
+)
+
+====End Log====
+
+
+2021-12-27T11:04:46+00:00 DEBUG 
+====Stripe Version: 5.9.0====
+====Start Log====
+balance/history/txn_3KBH0SCgqatCeole066CghM1
+====End Log====
+
+
+2021-12-27T11:56:54+00:00 DEBUG 
+====Stripe Version: 5.9.0====
+====Start Log====
+sources/src_1KBHosCgqatCeoleJEtARdTS
+====End Log====
+
+
+2021-12-27T11:56:54+00:00 DEBUG 
+====Stripe Version: 5.9.0====
+====Start Log====
+customers request: Array
+(
+    [email] => xeijabalatoi-9009@yopmail.com
+    [description] => Name: aish aishwarya, Username: xeijabalatoi-9009
+    [name] => aish aishwarya
+    [metadata] => Array
+        (
+        )
+
+    [preferred_locales] => Array
+        (
+            [0] => en-US
+        )
+
+)
+
+====End Log====
+
+
+2021-12-27T11:56:54+00:00 DEBUG 
+====Stripe Version: 5.9.0====
+====Start Log====
+Info: Begin processing payment for order 13314 for the amount of 999.00
+====End Log====
+
+
+2021-12-27T11:56:54+00:00 DEBUG 
+====Stripe Version: 5.9.0====
+====Start Log====
+payment_intents request: Array
+(
+    [source] => src_1KBHosCgqatCeoleJEtARdTS
+    [amount] => 99900
+    [currency] => usd
+    [description] => PMnotebooks - Order 13314
+    [metadata] => Array
+        (
+            [customer_name] => aish aishwarya
+            [customer_email] => xeijabalatoi-9009@yopmail.com
+            [order_id] => 13314
+            [site_url] => http://www.3iservices.in/PMnotebooks
+        )
+
+    [capture_method] => automatic
+    [payment_method_types] => Array
+        (
+            [0] => card
+        )
+
+    [customer] => cus_KqzolJYHgsZGcs
+)
+
+====End Log====
+
+
+2021-12-27T11:56:55+00:00 DEBUG 
+====Stripe Version: 5.9.0====
+====Start Log====
+Stripe PaymentIntent pi_3KBHoxCgqatCeole01U77BZ4 initiated for order 13314
+====End Log====
+
+
+2021-12-27T11:56:55+00:00 DEBUG 
+====Stripe Version: 5.9.0====
+====Start Log====
+payment_intents/pi_3KBHoxCgqatCeole01U77BZ4/confirm request: Array
+(
+    [source] => src_1KBHosCgqatCeoleJEtARdTS
+)
+
+====End Log====
+
+
+2021-12-27T11:56:56+00:00 DEBUG 
+====Stripe Version: 5.9.0====
+====Start Log====
+Stripe PaymentIntent pi_3KBHoxCgqatCeole01U77BZ4 succeeded for order 13314
+====End Log====
+
+
+2021-12-27T11:56:56+00:00 DEBUG 
+====Stripe Version: 5.9.0====
+====Start Log====
+Processing response: stdClass Object
+(
+    [id] => ch_3KBHoxCgqatCeole034OACnj
+    [object] => charge
+    [amount] => 99900
+    [amount_captured] => 99900
+    [amount_refunded] => 0
+    [application] => 
+    [application_fee] => 
+    [application_fee_amount] => 
+    [balance_transaction] => txn_3KBHoxCgqatCeole0gDnlYXq
+    [billing_details] => stdClass Object
+        (
+            [address] => stdClass Object
+                (
+                    [city] => india
+                    [country] => US
+                    [line1] => indore
+                    [line2] => india
+                    [postal_code] => 46307
+                    [state] => IN
+                )
+
+            [email] => xeijabalatoi-9009@yopmail.com
+            [name] => aish aishwarya
+            [phone] => 6265123456
+        )
+
+    [calculated_statement_descriptor] => Stripe
+    [captured] => 1
+    [created] => 1640606215
+    [currency] => usd
+    [customer] => cus_KqzolJYHgsZGcs
+    [description] => PMnotebooks - Order 13314
+    [destination] => 
+    [dispute] => 
+    [disputed] => 
+    [failure_code] => 
+    [failure_message] => 
+    [fraud_details] => stdClass Object
+        (
+        )
+
+    [invoice] => 
+    [livemode] => 
+    [metadata] => stdClass Object
+        (
+            [customer_name] => aish aishwarya
+            [customer_email] => xeijabalatoi-9009@yopmail.com
+            [order_id] => 13314
+            [site_url] => http://www.3iservices.in/PMnotebooks
+        )
+
+    [on_behalf_of] => 
+    [order] => 
+    [outcome] => stdClass Object
+        (
+            [network_status] => approved_by_network
+            [reason] => 
+            [risk_level] => normal
+            [risk_score] => 2
+            [seller_message] => Payment complete.
+            [type] => authorized
+        )
+
+    [paid] => 1
+    [payment_intent] => pi_3KBHoxCgqatCeole01U77BZ4
+    [payment_method] => src_1KBHosCgqatCeoleJEtARdTS
+    [payment_method_details] => stdClass Object
+        (
+            [card] => stdClass Object
+                (
+                    [brand] => visa
+                    [checks] => stdClass Object
+                        (
+                            [address_line1_check] => pass
+                            [address_postal_code_check] => pass
+                            [cvc_check] => pass
+                        )
+
+                    [country] => US
+                    [exp_month] => 2
+                    [exp_year] => 2026
+                    [fingerprint] => uHlZe2H9vhfgs6T6
+                    [funding] => credit
+                    [installments] => 
+                    [last4] => 4242
+                    [network] => visa
+                    [three_d_secure] => 
+                    [wallet] => 
+                )
+
+            [type] => card
+        )
+
+    [receipt_email] => 
+    [receipt_number] => 
+    [receipt_url] => https://pay.stripe.com/receipts/acct_1ET7xNCgqatCeole/ch_3KBHoxCgqatCeole034OACnj/rcpt_KqzoOQP9jL9uvGGUrTevUNXjiwgnua1
+    [refunded] => 
+    [refunds] => stdClass Object
+        (
+            [object] => list
+            [data] => Array
+                (
+                )
+
+            [has_more] => 
+            [total_count] => 0
+            [url] => /v1/charges/ch_3KBHoxCgqatCeole034OACnj/refunds
+        )
+
+    [review] => 
+    [shipping] => 
+    [source] => stdClass Object
+        (
+            [id] => src_1KBHosCgqatCeoleJEtARdTS
+            [object] => source
+            [amount] => 
+            [card] => stdClass Object
+                (
+                    [exp_month] => 2
+                    [exp_year] => 2026
+                    [last4] => 4242
+                    [country] => US
+                    [brand] => Visa
+                    [address_line1_check] => pass
+                    [address_zip_check] => pass
+                    [cvc_check] => pass
+                    [funding] => credit
+                    [fingerprint] => uHlZe2H9vhfgs6T6
+                    [three_d_secure] => optional
+                    [name] => 
+                    [tokenization_method] => 
+                    [dynamic_last4] => 
+                )
+
+            [client_secret] => src_client_secret_vocK4lnJkNfiUFz5uhbVFJH0
+            [created] => 1640606216
+            [currency] => 
+            [flow] => none
+            [livemode] => 
+            [metadata] => stdClass Object
+                (
+                )
+
+            [owner] => stdClass Object
+                (
+                    [address] => stdClass Object
+                        (
+                            [city] => india
+                            [country] => US
+                            [line1] => indore
+                            [line2] => india
+                            [postal_code] => 46307
+                            [state] => IN
+                        )
+
+                    [email] => xeijabalatoi-9009@yopmail.com
+                    [name] => aish aishwarya
+                    [phone] => 6265123456
+                    [verified_address] => 
+                    [verified_email] => 
+                    [verified_name] => 
+                    [verified_phone] => 
+                )
+
+            [statement_descriptor] => 
+            [status] => consumed
+            [type] => card
+            [usage] => reusable
+        )
+
+    [source_transfer] => 
+    [statement_descriptor] => 
+    [statement_descriptor_suffix] => 
+    [status] => succeeded
+    [transfer_data] => 
+    [transfer_group] => 
+)
+
+====End Log====
+
+
+2021-12-27T11:56:56+00:00 DEBUG 
+====Stripe Version: 5.9.0====
+====Start Log====
+balance/history/txn_3KBHoxCgqatCeole0gDnlYXq
+====End Log====
+
+

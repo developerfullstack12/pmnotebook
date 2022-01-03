@@ -1,0 +1,217 @@
+body .tutor-courses-wrap {
+  padding-top: 95px;
+  padding-bottom: 165px;
+}
+body .tutor-courses-wrap .tutor-course-loop-level {
+  background: #ff5421;
+}
+body .tutor-courses-wrap .tutor-loop-rating-wrap i:before {
+  margin-right: 0;
+}
+body .tutor-courses-wrap .tutor-star-rating-group i {
+  margin-right: 3px;
+}
+body .tutor-courses-wrap .tutor-loop-author > div a {
+  font-weight: 400;
+  font-size: 14px;
+}
+body .tutor-courses-wrap .tutor-course-loop-price > .price {
+  font-weight: 400;
+  font-size: 14px;
+}
+.tutor-course-loop-title h2 {
+  font-size: 22px;
+  font-weight: 700;
+}
+body .tutor-course-filter-wrapper {
+  overflow-x: hidden !important;
+}
+.tutor-wrap {
+  padding: 100px 0 145px;
+}
+.tutor-course-lesson h5 i {
+  color: #ff5421;
+}
+.tutor-loop-author .tutor-single-course-avatar .tutor-text-avatar {
+  background: #ff5421 !important;
+}
+body .tutor-course-filter-wrapper,
+body .tutor-courses-wrap {
+  max-width: 1270px !important;
+}
+body .tutor-course-filter-wrapper.tutor-course-filter-wrapper > div:first-child .tutor-course-search-field,
+body .tutor-courses-wrap.tutor-course-filter-wrapper > div:first-child .tutor-course-search-field {
+  border: 1px solid #efefef;
+  padding: 6px 14px 6px 15px;
+  background: #ffffff;
+}
+body .tutor-course-filter-wrapper .tutor-course-filter-container,
+body .tutor-courses-wrap .tutor-course-filter-container {
+  padding-top: 106px;
+  padding-bottom: 180px;
+}
+body .tutor-course-filter-wrapper .tutor-course-filter-container .tutor-course-search-field input,
+body .tutor-courses-wrap .tutor-course-filter-container .tutor-course-search-field input {
+  margin: 0;
+}
+body .tutor-course-filter-wrapper .tutor-course-filter-container .tutor-course-search-field i,
+body .tutor-courses-wrap .tutor-course-filter-container .tutor-course-search-field i {
+  color: #ff5421;
+}
+body .tutor-course-filter-wrapper .tutor-course-filter-container div h4,
+body .tutor-courses-wrap .tutor-course-filter-container div h4 {
+  font-weight: 700;
+  position: relative;
+  padding-bottom: 12px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  font-size: 22px;
+}
+body .tutor-course-filter-wrapper .tutor-course-filter-container div h4:after,
+body .tutor-courses-wrap .tutor-course-filter-container div h4:after {
+  content: "";
+  position: absolute;
+  background: #ff5421;
+  height: 2px;
+  width: 30px;
+  left: 0;
+  bottom: 0;
+  display: block;
+  z-index: 1;
+}
+body .tutor-course-filter-wrapper .tutor-course-archive-filters-wrap .tutor-course-filter-form select,
+body .tutor-courses-wrap .tutor-course-archive-filters-wrap .tutor-course-filter-form select {
+  margin-bottom: 0;
+}
+body .tutor-course-filter-wrapper .tutor-courses-wrap .tutor-course-filter-wrap,
+body .tutor-courses-wrap .tutor-courses-wrap .tutor-course-filter-wrap {
+  box-shadow: 0 0 25px #efefef;
+  background: #fff;
+  padding: 0px 0 0 40px;
+  border-radius: 5px;
+}
+body .tutor-course-filter-wrapper.tutor-course-filter-wrapper > div:last-child select[name=tutor_course_filter],
+body .tutor-courses-wrap.tutor-course-filter-wrapper > div:last-child select[name=tutor_course_filter] {
+  border: none;
+  padding: 3px 4px;
+}
+body .tutor-course-filter-wrapper.tutor-courses-wrap .tutor-course-filter-wrap,
+body .tutor-courses-wrap.tutor-courses-wrap .tutor-course-filter-wrap {
+  box-shadow: 0 0 25px #efefef;
+  background: #fff;
+  padding: 0px 0 0 40px;
+  border-radius: 5px;
+}
+body .tutor-course-filter-wrapper.tutor-courses-wrap .tutor-course-filter-wrap .tutor-course-filter-form select,
+body .tutor-courses-wrap.tutor-courses-wrap .tutor-course-filter-wrap .tutor-course-filter-form select {
+  border: none;
+}
+.tutor-course-loop-price > .price .tutor-loop-cart-btn-wrap a:before {
+  line-height: 17px;
+  margin-right: 9px;
+}
+.tutor-course-content-wrap .tutor-segment-title {
+  font-size: 30px;
+  line-height: 35px;
+  font-weight: 700;
+  padding-bottom: 12px;
+}
+.tutor-course-content-wrap h4 {
+  margin-bottom: 15px;
+}
+.tutor-course-topics-wrap span.toogle-informaiton-icon {
+  background: #ff5421;
+}
+.plyr__control--overlaid,
+.plyr--video .plyr__control:hover {
+  background: #ff5421;
+}
+.tutor-pagination-wrap {
+  margin-left: auto;
+  margin-right: auto;
+  padding: 6px 12px;
+  border-radius: 4px;
+}
+.tutor-pagination-wrap.tutor-pagination-wrap a,
+.tutor-pagination-wrap.tutor-pagination-wrap span,
+.tutor-pagination-wrap.tutor-pagination-wrap a,
+.tutor-pagination-wrap.tutor-pagination-wrap span {
+  padding: 10px 20px;
+  background: #fff;
+  color: #101010;
+}
+.tutor-pagination-wrap span.current {
+  color: #ff5421;
+}
+.single-courses .tutor-single-course-segment {
+  margin-bottom: 40px;
+  background: 0 0;
+  padding: 30px 40px;
+  color: #101010;
+  box-shadow: 0 0 30px #eee;
+  min-height: auto;
+  border-radius: 5px;
+}
+.single-courses .tutor-single-course-segment .tutor-segment-title {
+  font-size: 24px;
+}
+.single-courses .tutor-single-course-sidebar {
+  padding-left: 20px;
+}
+.single-courses .tutor-price-preview-box {
+  margin-bottom: 40px;
+}
+.single-courses .single_add_to_cart_button,
+.single-courses a.tutor-button,
+.single-courses .tutor-button,
+.single-courses a.tutor-btn,
+.single-courses .tutor-btn {
+  font-size: 20px;
+}
+.single-courses .tutor-price-preview-box .price {
+  font-size: 24px;
+  text-align: center;
+}
+.lesson-template-default .tutor-single-lesson-wrap {
+  padding-bottom: 100px;
+}
+.lesson-template-default .breadcrumbs-title {
+  display: none;
+}
+.tutor-form-group.tutor-reg-form-btn-wrap .tutor-button,
+.label-course-publish,
+.tutor-login-form-wrap input[type="submit"] {
+  background: #ff5421 !important;
+  border-color: transparent !important;
+}
+.tutor-course-filter-container input[type="checkbox"],
+.tutor-course-filter-container input[type="radio"] {
+  vertical-align: unset;
+}
+.tutor-dashboard-content .tutor-dashboard-info-table a {
+  color: #101010;
+}
+.tutor-dashboard-content .tutor-dashboard-info-table a:hover {
+  color: #ff5421;
+}
+.tutor-profile-completion-warning .profile-completion-warning-content .profile-completion-warning-status .tutor-progress-bar-wrap .tutor-progress-filled,
+.tutor-course-loop-level {
+  background-color: #ff5421;
+}
+.tutor-user-public-profile .tutor-user-profile-content {
+  border-top: 2px solid #ff5421;
+  padding-top: 25px;
+}
+@media only screen and (max-width: 991px) {
+  .single-courses .tutor-single-course-sidebar {
+    padding-left: 0px;
+  }
+}
+@media only screen and (max-width: 767px) {
+  body.archive .tutor-courses-wrap {
+    padding-top: 0px;
+  }
+  body.archive .tutor-course-filter-wrapper .tutor-course-filter-container {
+    padding-bottom: 80px;
+  }
+}

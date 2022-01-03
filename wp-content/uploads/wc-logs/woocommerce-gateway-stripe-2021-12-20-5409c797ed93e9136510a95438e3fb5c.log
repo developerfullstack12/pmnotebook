@@ -1,0 +1,369 @@
+2021-12-20T11:07:05+00:00 DEBUG 
+====Stripe Version: 5.9.0====
+====Start Log====
+sources/src_1K8jhqCgqatCeolel3QhSb7e
+====End Log====
+
+
+2021-12-20T11:07:05+00:00 DEBUG 
+====Stripe Version: 5.9.0====
+====Start Log====
+customers/cus_KoIIu3wuMQkLrI request: Array
+(
+    [email] => dr6wz5k775ei@a2plcpnl0706.prod.iad2.secureserver.net
+    [description] => Name: aish patiadr, Username: admin
+    [name] => aish patiadr
+    [metadata] => Array
+        (
+        )
+
+    [preferred_locales] => Array
+        (
+            [0] => en-US
+        )
+
+)
+
+====End Log====
+
+
+2021-12-20T11:07:06+00:00 DEBUG 
+====Stripe Version: 5.9.0====
+====Start Log====
+customers request: Array
+(
+    [email] => dr6wz5k775ei@a2plcpnl0706.prod.iad2.secureserver.net
+    [description] => Name: aish patiadr, Username: admin
+    [name] => aish patiadr
+    [metadata] => Array
+        (
+        )
+
+    [preferred_locales] => Array
+        (
+            [0] => en-US
+        )
+
+)
+
+====End Log====
+
+
+2021-12-20T11:07:06+00:00 DEBUG 
+====Stripe Version: 5.9.0====
+====Start Log====
+customers/cus_KoMQAm8TBPEPLT request: Array
+(
+    [email] => dr6wz5k775ei@a2plcpnl0706.prod.iad2.secureserver.net
+    [description] => Name: aish patiadr, Username: admin
+    [name] => aish patiadr
+    [metadata] => Array
+        (
+        )
+
+    [preferred_locales] => Array
+        (
+            [0] => en-US
+        )
+
+)
+
+====End Log====
+
+
+2021-12-20T11:07:06+00:00 DEBUG 
+====Stripe Version: 5.9.0====
+====Start Log====
+Info: Begin processing payment for order 13177 for the amount of 119.00
+====End Log====
+
+
+2021-12-20T11:07:06+00:00 DEBUG 
+====Stripe Version: 5.9.0====
+====Start Log====
+payment_intents request: Array
+(
+    [source] => src_1K8jhqCgqatCeolel3QhSb7e
+    [amount] => 11900
+    [currency] => usd
+    [description] => PMnotebooks - Order 13177
+    [metadata] => Array
+        (
+            [customer_name] => aish patiadr
+            [customer_email] => dr6wz5k775ei@a2plcpnl0706.prod.iad2.secureserver.net
+            [order_id] => 13177
+            [site_url] => http://www.3iservices.in/PMnotebooks
+        )
+
+    [capture_method] => automatic
+    [payment_method_types] => Array
+        (
+            [0] => card
+        )
+
+    [customer] => cus_KoMQAm8TBPEPLT
+)
+
+====End Log====
+
+
+2021-12-20T11:07:07+00:00 DEBUG 
+====Stripe Version: 5.9.0====
+====Start Log====
+Stripe PaymentIntent pi_3K8jhuCgqatCeole0nM4XUsg initiated for order 13177
+====End Log====
+
+
+2021-12-20T11:07:07+00:00 DEBUG 
+====Stripe Version: 5.9.0====
+====Start Log====
+payment_intents/pi_3K8jhuCgqatCeole0nM4XUsg/confirm request: Array
+(
+    [source] => src_1K8jhqCgqatCeolel3QhSb7e
+    [level3] => Array
+        (
+            [merchant_reference] => 13177
+            [shipping_amount] => 0
+            [line_items] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [product_code] => 3446
+                            [product_description] => Project Management Club Fl
+                            [unit_cost] => 99900
+                            [quantity] => 1
+                            [tax_amount] => 0
+                            [discount_amount] => 88000
+                        )
+
+                )
+
+        )
+
+)
+
+====End Log====
+
+
+2021-12-20T11:07:07+00:00 DEBUG 
+====Stripe Version: 5.9.0====
+====Start Log====
+payment_intents/pi_3K8jhuCgqatCeole0nM4XUsg/confirm request: Array
+(
+    [source] => src_1K8jhqCgqatCeolel3QhSb7e
+)
+
+====End Log====
+
+
+2021-12-20T11:07:09+00:00 DEBUG 
+====Stripe Version: 5.9.0====
+====Start Log====
+Stripe PaymentIntent pi_3K8jhuCgqatCeole0nM4XUsg succeeded for order 13177
+====End Log====
+
+
+2021-12-20T11:07:09+00:00 DEBUG 
+====Stripe Version: 5.9.0====
+====Start Log====
+Processing response: stdClass Object
+(
+    [id] => ch_3K8jhuCgqatCeole0OiFUDVh
+    [object] => charge
+    [amount] => 11900
+    [amount_captured] => 11900
+    [amount_refunded] => 0
+    [application] => 
+    [application_fee] => 
+    [application_fee_amount] => 
+    [balance_transaction] => txn_3K8jhuCgqatCeole0QAReA4E
+    [billing_details] => stdClass Object
+        (
+            [address] => stdClass Object
+                (
+                    [city] => AFGAF
+                    [country] => US
+                    [line1] => FGFSD
+                    [line2] => FDAGAD
+                    [postal_code] => 90011
+                    [state] => CA
+                )
+
+            [email] => dr6wz5k775ei@a2plcpnl0706.prod.iad2.secureserver.net
+            [name] => aish patiadr
+            [phone] => 123456789
+        )
+
+    [calculated_statement_descriptor] => Stripe
+    [captured] => 1
+    [created] => 1639998428
+    [currency] => usd
+    [customer] => cus_KoMQAm8TBPEPLT
+    [description] => PMnotebooks - Order 13177
+    [destination] => 
+    [dispute] => 
+    [disputed] => 
+    [failure_code] => 
+    [failure_message] => 
+    [fraud_details] => stdClass Object
+        (
+        )
+
+    [invoice] => 
+    [livemode] => 
+    [metadata] => stdClass Object
+        (
+            [customer_name] => aish patiadr
+            [customer_email] => dr6wz5k775ei@a2plcpnl0706.prod.iad2.secureserver.net
+            [order_id] => 13177
+            [site_url] => http://www.3iservices.in/PMnotebooks
+        )
+
+    [on_behalf_of] => 
+    [order] => 
+    [outcome] => stdClass Object
+        (
+            [network_status] => approved_by_network
+            [reason] => 
+            [risk_level] => normal
+            [risk_score] => 15
+            [seller_message] => Payment complete.
+            [type] => authorized
+        )
+
+    [paid] => 1
+    [payment_intent] => pi_3K8jhuCgqatCeole0nM4XUsg
+    [payment_method] => src_1K8jhqCgqatCeolel3QhSb7e
+    [payment_method_details] => stdClass Object
+        (
+            [card] => stdClass Object
+                (
+                    [brand] => visa
+                    [checks] => stdClass Object
+                        (
+                            [address_line1_check] => pass
+                            [address_postal_code_check] => pass
+                            [cvc_check] => pass
+                        )
+
+                    [country] => US
+                    [exp_month] => 2
+                    [exp_year] => 2022
+                    [fingerprint] => uHlZe2H9vhfgs6T6
+                    [funding] => credit
+                    [installments] => 
+                    [last4] => 4242
+                    [network] => visa
+                    [three_d_secure] => 
+                    [wallet] => 
+                )
+
+            [type] => card
+        )
+
+    [receipt_email] => 
+    [receipt_number] => 
+    [receipt_url] => https://pay.stripe.com/receipts/acct_1ET7xNCgqatCeole/ch_3K8jhuCgqatCeole0OiFUDVh/rcpt_KoMQFszuCKbBMTexxJJUC1F4L1mECmo
+    [refunded] => 
+    [refunds] => stdClass Object
+        (
+            [object] => list
+            [data] => Array
+                (
+                )
+
+            [has_more] => 
+            [total_count] => 0
+            [url] => /v1/charges/ch_3K8jhuCgqatCeole0OiFUDVh/refunds
+        )
+
+    [review] => 
+    [shipping] => 
+    [source] => stdClass Object
+        (
+            [id] => src_1K8jhqCgqatCeolel3QhSb7e
+            [object] => source
+            [amount] => 
+            [card] => stdClass Object
+                (
+                    [exp_month] => 2
+                    [exp_year] => 2022
+                    [last4] => 4242
+                    [country] => US
+                    [brand] => Visa
+                    [address_line1_check] => pass
+                    [address_zip_check] => pass
+                    [cvc_check] => pass
+                    [funding] => credit
+                    [fingerprint] => uHlZe2H9vhfgs6T6
+                    [three_d_secure] => optional
+                    [name] => 
+                    [tokenization_method] => 
+                    [dynamic_last4] => 
+                )
+
+            [client_secret] => src_client_secret_kRrMhjm8wTxxtUTad1FoIn6H
+            [created] => 1639998428
+            [currency] => 
+            [flow] => none
+            [livemode] => 
+            [metadata] => stdClass Object
+                (
+                )
+
+            [owner] => stdClass Object
+                (
+                    [address] => stdClass Object
+                        (
+                            [city] => AFGAF
+                            [country] => US
+                            [line1] => FGFSD
+                            [line2] => FDAGAD
+                            [postal_code] => 90011
+                            [state] => CA
+                        )
+
+                    [email] => dr6wz5k775ei@a2plcpnl0706.prod.iad2.secureserver.net
+                    [name] => aish patiadr
+                    [phone] => 123456789
+                    [verified_address] => 
+                    [verified_email] => 
+                    [verified_name] => 
+                    [verified_phone] => 
+                )
+
+            [statement_descriptor] => 
+            [status] => consumed
+            [type] => card
+            [usage] => reusable
+        )
+
+    [source_transfer] => 
+    [statement_descriptor] => 
+    [statement_descriptor_suffix] => 
+    [status] => succeeded
+    [transfer_data] => 
+    [transfer_group] => 
+)
+
+====End Log====
+
+
+2021-12-20T11:07:09+00:00 DEBUG 
+====Stripe Version: 5.9.0====
+====Start Log====
+balance/history/txn_3K8jhuCgqatCeole0QAReA4E
+====End Log====
+
+
+2021-12-20T11:10:59+00:00 DEBUG 
+====Stripe Version: 5.9.0====
+====Start Log====
+customers/cus_KoMQAm8TBPEPLT/sources request: Array
+(
+    [limit] => 100
+)
+
+====End Log====
+
+

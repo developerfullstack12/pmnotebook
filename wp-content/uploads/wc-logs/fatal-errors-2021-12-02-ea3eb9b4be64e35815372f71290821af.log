@@ -1,0 +1,6 @@
+2021-12-02T10:58:29+00:00 CRITICAL require_once(): Failed opening required '/home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/mycred-progress-map/license/license.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/mycred-progress-map/mycred-progress-map.php on line 58
+
+2021-12-02T10:59:22+00:00 CRITICAL require_once(): Failed opening required '/home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/mycred-progress-map/license/license.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/mycred-progress-map/mycred-progress-map.php on line 58
+
+2021-12-02T10:59:22+00:00 CRITICAL require_once(): Failed opening required '/home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/mycred-progress-map/license/license.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/mycred-progress-map/mycred-progress-map.php on line 58
+

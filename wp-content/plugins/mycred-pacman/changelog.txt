@@ -1,0 +1,44 @@
+Version 2.0
+------------------------------------------------------------
+FIX - Pacman hook not displaying in mycred hook table shortcode.
+FIX - Screen scrolling down on pressing down button during gameplay.
+FIX - Css affecting other themes
+FIX - Decimal points not working
+FIX - Sound not playing on some Screens
+FIX - Some notices and warnings
+TWEAK - Code Optimized to improve security
+NEW - Highscores leaderboard.
+NEW - Personal scores history of user
+NEW - Translation support
+NEW - Option to play game in popup or page
+
+Version 1.2.3
+------------------------------------------------------------
+TWEAK – License System
+
+Version 1.2.2
+------------------------------------------------------------
+FIX: width issue in mobile screens
+FIX: issues with custom point type
+TWEAK: added options in settings to change mycred button text and all other messages.
+TWEAK: %pacman_points_added% template tag to show user earned points in success message.
+
+Version 1.2.1
+------------------------------------------------------------
+FIX: Theme conflicts issue
+
+Version 1.2
+------------------------------------------------------------
+FIX: Bootstrap framework issue.
+FIX: Game pause issue.
+TWEAK: Added support for multiple point types
+
+Version 1.1
+------------------------------------------------------------
+FIX: Script loading on all pages
+FIX: jQuery Conflict Issue
+TWEAK: UI
+
+Version 1.0
+------------------------------------------------------------
+Initial release

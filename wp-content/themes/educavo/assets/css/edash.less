@@ -1,0 +1,568 @@
+@bodyFont: 'Rubik', sans-serif;
+@titleFont: 'Nunito', sans-serif;
+@transition: all 0.3s ease 0s;
+@primaryColor: #171F32;
+@secondaryColor: #ff5421;
+@whiteColor: #ffffff;
+@titleColor: #101010;
+@menuColor: #000;
+@btnColor: #ed4e31;
+@linkColor: #000;
+@hoverColor: #171F32;
+@globalColor: #444;
+@bodyColor: #363636;
+@formBg: #171F32;
+@lightColor: #969696;
+@btnBgColor: #171F32;
+@btnHoverColor: #fff;
+
+
+
+.learndash-wrapper .ld-login-modal .ld-login-modal-form .login-username:before,
+.learndash-wrapper .ld-login-modal .ld-login-modal-form .login-password:before{
+    top: 46px;
+    left: 15px;
+    color: #363636;
+}
+.learndash-wrapper .ld-login-modal input[type="text"], 
+.learndash-wrapper .ld-login-modal input[type="password"], 
+.learndash-wrapper .ld-login-modal input[type="email"], 
+.learndash-wrapper .ld-login-modal .ld-login-field, 
+.learndash-wrapper .ld-login-modal .ld-password-field{
+    border-width: 0px;
+    background: #fff;
+    border-radius:3px;
+    padding-left:40px;
+    padding-right:40px;
+}
+.learndash-wrapper .ld-login-modal .ld-button, 
+.learndash-wrapper .ld-login-modal input[type="submit"]{
+    border-radius: 3px;
+}
+.learndash-wrapper .ld-login-modal input[type="submit"]{
+    padding: 16px 20px;
+}
+.learndash-wrapper .ld-focus .ld-focus-header .ld-brand-logo{
+    background: @primaryColor;
+}
+
+.learndash-wrapper .ld-login-modal .ld-login-modal-login{
+    background: @primaryColor;
+}
+.learndash-wrapper .ld-login-modal .ld-login-modal-form label,
+.learndash-wrapper .ld-login-modal .ld-forgot-password-link,
+.learndash-wrapper .ld-login-modal .ld-login-modal-login .ld-modal-text{
+    color: #fff;
+}
+input[type="checkbox"]{
+    position: relative;
+    top: 2px;
+}
+.learndash-wrapper .ld-login-modal .ld-login-modal-form .ld-login-modal-branding img {
+    max-height: 40px;
+}
+.learndash-wrapper .ld-modal .ld-modal-closer{
+    color: #fff;
+}
+.learndash-wrapper .ld-modal{
+    max-width: 700px;
+}
+.learndash-wrapper .ld-tabs .ld-tabs-navigation .ld-tab{
+    color: @titleColor;
+}
+.learndash-wrapper .ld-item-list .ld-section-heading .ld-search-prompt {
+    font-weight: 600;
+}
+.learndash-wrapper .ld-item-list .ld-item-list-item .ld-item-list-item-expanded .ld-progress {
+    background: #f8f9f9;
+}
+
+.learndash-wrapper .ld-button.ld-login-button.ld-logout{
+    font-size: 16px;
+    padding: 26px 30px;
+    max-width: 200px;
+    margin: 0 auto;
+    text-align: center;
+    display: block;
+    span{
+        margin-left: 6px;
+    }
+}
+
+.learndash-wrapper .ld-button.ld-login-button.ld-login{
+    font-size: 16px;
+    padding: 26px 30px;
+    max-width: 200px;
+    margin: 0 auto;
+    text-align: center;
+    display: block;
+}
+
+.learndash-wrapper .btn-join, .learndash-wrapper #btn-join{
+    border-radius: 3px;
+    font-weight: 400;
+    font-size: 13px;
+    font-family: @bodyFont;
+    text-transform: uppercase;
+    padding: 11px 17px;
+}
+.learndash-wrapper .ld-item-list .ld-item-list-item{
+    border-color:#f4f4f4;
+    border-width: 1px;
+}
+.learndash-wrapper .ld-expand-button{
+    font-weight: 600;
+    font-family: @bodyFont;
+    border-radius: 3px;
+}
+.learndash-pager{
+    background: @secondaryColor;
+    color: #fff;
+    border-radius: 3px;
+}
+.learndash-wrapper .ld-progress .ld-progress-heading .ld-progress-stats .ld-progress-percentage {
+    font-weight: 500;
+}
+
+
+
+.ld_course_info_mycourses_list{
+    .ld-entry-title.entry-title{        
+        font-size: 24px;
+        margin-top: 20px;
+        margin-bottom: 15px;
+        a{
+            color: @titleColor;
+            &:hover{
+                color:@secondaryColor;
+            }
+        }
+    }
+}
+
+.learndash-wrapper .ld-button,
+.learndash-wrapper .learndash_mark_complete_button, 
+.learndash-wrapper #learndash_mark_complete_button{
+    border-radius: 3px;
+    font-weight: 500;
+    text-transform: uppercase;
+    font-family: @bodyFont;
+}
+
+.learndash-wrapper .ld-table-list .ld-table-list-header{
+    font-weight: 600;
+}
+.learndash-wrapper .ld-status-icon .ld-icon::before{
+    color: @secondaryColor;
+}
+.ld-video{
+    margin-bottom: 30px;
+}
+body.single-sfwd-lessons{
+    .learndash-wrapper .ld-breadcrumbs {
+        background: #f8f9f9f9;
+        padding: 15px 25px 15px 15px;
+        margin-top: 20px;
+    }
+    .rs-breadcrumbs .breadcrumbs-inner, 
+    #rs-header.header-style-3 .rs-breadcrumbs .breadcrumbs-inner{
+        padding: 100px 0;
+    }
+    .learndash-wrapper .ld-breadcrumbs .ld-breadcrumbs-segments span a{
+        color: @secondaryColor !important;
+        padding: 0 10px;
+    }    
+    .learndash-wrapper .ld-breadcrumbs .ld-breadcrumbs-segments span + span a{
+        color: @primaryColor !important;
+        &:hover{
+            color:@secondaryColor !important;
+        }
+    }
+    .learndash-wrapper .ld-breadcrumbs .ld-status.ld-status-progress{
+        padding: 8px 16px 7px;
+        border-radius: 3px;
+    }
+    .learndash-wrapper .ld-status{
+        font-weight: 600;
+    }
+}
+
+.learndash-wrapper .ld-expand-button.ld-button-alternate .ld-icon {
+    font-weight: 400;
+}
+
+body.sfwd-topic-template-default{
+    blockquote{
+        background: #f8f9f9f9 !important;
+    }
+}
+
+body.single-sfwd-topic{
+    .learndash-wrapper .ld-breadcrumbs {
+        background: #f8f9f9f9;
+        padding: 15px 25px 15px 15px;
+    }
+    .learndash-wrapper .ld-topic-status{
+        margin-top: 20px;
+    }
+    .rs-breadcrumbs .breadcrumbs-inner, 
+    #rs-header.header-style-3 .rs-breadcrumbs .breadcrumbs-inner{
+        padding: 100px 0;
+    }
+    .learndash-wrapper .ld-breadcrumbs .ld-breadcrumbs-segments span a{
+        color: @secondaryColor !important;
+        padding: 0 10px;
+    }    
+    .learndash-wrapper .ld-breadcrumbs .ld-breadcrumbs-segments span + span a{
+        color: @primaryColor !important;
+        &:hover{
+            color:@secondaryColor !important;
+        }
+    }
+    .learndash-wrapper .ld-breadcrumbs .ld-status.ld-status-progress{
+        padding: 8px 16px 7px;
+        border-radius: 3px;
+    }
+    .learndash-wrapper .ld-status{
+        font-weight: 600;
+    }
+}
+
+.learndash-wrapper .ld-item-list.ld-course-list .ld-lesson-section-heading, 
+.learndash-wrapper .ld-item-list.ld-lesson-list .ld-lesson-section-heading {
+    margin: 2em 0 1em 0;
+}
+.learndash-wrapper .ld-course-navigation .ld-sep{
+    color: @secondaryColor;
+}
+.learndash-wrapper .ld-course-navigation .ld-lesson-item-expanded{
+    background: #f8f9f9f9;
+}
+body.single-sfwd-quiz{
+    .learndash-wrapper .ld-breadcrumbs {
+        background: #f8f9f9f9;
+        padding: 15px 25px 15px 15px;
+    }
+    .learndash-wrapper .ld-topic-status{
+        margin-top: 20px;
+    }
+    .rs-breadcrumbs .breadcrumbs-inner, 
+    #rs-header.header-style-3 .rs-breadcrumbs .breadcrumbs-inner{
+        padding: 100px 0;
+    }
+    .learndash-wrapper .ld-breadcrumbs .ld-breadcrumbs-segments span a{
+        color: @secondaryColor !important;
+        padding: 0 10px;
+    }    
+    .learndash-wrapper .ld-breadcrumbs .ld-breadcrumbs-segments span + span a{
+        color: @primaryColor !important;
+        &:hover{
+            color:@secondaryColor !important;
+        }
+    }
+    .learndash-wrapper .ld-breadcrumbs .ld-status.ld-status-progress{
+        padding: 8px 16px 7px;
+        border-radius: 3px;
+    }
+    .learndash-wrapper .ld-status{
+        font-weight: 600;
+    }
+}
+
+
+.rs-edash-details{
+    .learndash-wrapper .ld-course-status.ld-course-status-not-enrolled{
+        margin: 0 0 40px !important;
+        background: #f9f8f8;
+        padding: 48px 0 45px;
+        .ld-course-status-content,
+        .ld-course-status-action{
+            display: inline-block;
+        }
+        .ld-course-status-action .ld-text {
+            margin-right: 0;
+            font-size: 16px;
+            margin-top: 12px;
+        }
+        .ld-course-status-price{
+            color: @secondaryColor;
+            .ld-currency{
+                color: @primaryColor;
+            }
+        }
+    }
+    .learndash-wrapper .ld-status-icon .ld-icon::before{
+        color: @secondaryColor;
+    }
+    .learndash-wrapper .ld-progress .ld-progress-heading .ld-progress-stats .ld-progress-percentage{
+        color: #fff !important;
+    }
+    .learndash-wrapper .ld-course-status.ld-course-status-enrolled {
+        padding: 15px 10px 15px 25px;
+    }
+    .learndash-wrapper .ld-course-status.ld-course-status-not-enrolled .ld-course-status-label{
+        color: @primaryColor;
+        font-size: 18px;
+        margin: 0 0 12px;
+        font-family: @bodyFont;
+        font-weight: 500;
+    }
+    .learndash-wrapper .ld-expand-button.ld-button-alternate .ld-icon{
+        font-size: 8px;
+    }    
+    .learndash-wrapper .ld-expand-button.ld-expanded .ld-icon{
+        line-height: 15px;
+    }
+    .learndash-wrapper .ld-expand-button{
+        border-radius: 3px;
+    }
+    .learndash-wrapper .ld-course-status.ld-course-status-enrolled{
+        background: @secondaryColor;
+        color: @whiteColor;
+    }
+    .ld-item-list{
+        &.ld-lesson-list{
+            .ld-item-title{
+                font-weight: 500;
+                font-size: 14px;
+            }
+        }
+    }
+    .learndash-wrapper .ld-course-status.ld-course-status-not-enrolled > *{
+        border-right-color: #f2eded;
+    }
+    .learndash-wrapper .ld-status {
+        padding: 10px 17px 10px;
+        border-radius: 3px;
+        font-size: 13px;
+        font-weight: 400;
+        font-family: @bodyFont;
+    }
+    .edash-sidebar{
+        .intro-video{
+            margin-bottom: 40px;
+        }
+        .widget{
+            padding: 30px 40px 30px;
+            box-shadow: 0 0 30px #eee;
+            margin-bottom: 50px;
+            h2.widget-title{
+                font-size: 20px;
+                color: @titleColor;
+                position:relative;
+                &:after{
+                    content: "";
+                    position: absolute;
+                    background: @secondaryColor;
+                    height: 2px;
+                    width: 50px;
+                    left: 0;
+                    bottom: 0;
+                    display: block;
+                    z-index: 1;
+                }
+            }
+            ul{
+                margin: 0;
+                list-style: none;
+                li{                    
+                    h4{
+                        font-weight: 400;
+                        margin: 0 !important;
+                        a{
+                            font-size: 16px;
+                            color: @titleColor;
+                            font-family: @bodyFont;
+                            border-bottom: 1px solid rgba(0, 0, 0, 0.06);
+                            display: block;
+                            padding-bottom: 11px;
+                            margin-bottom: 8px;
+                            position: relative;
+                            padding-left: 20px;
+                            &:after{
+                                content: "\f105";
+                                font-family: FontAwesome;
+                                font-style: normal;
+                                font-weight: normal;
+                                text-decoration: inherit;
+                                position: absolute;
+                                left: 0;
+                                top: 0px;
+                                color: @titleColor;
+                            }
+                            &:hover{
+                                color: @secondaryColor;
+                            }
+                        }
+                    }
+                    &:last-child{
+                        h4{
+                            a{
+                                border-bottom: none;
+                                padding-bottom: 0px;
+                                margin-bottom: 0px;
+                            }
+                        }
+                    }
+                }
+            }
+            &.widget_ldcoursenavigation{
+                padding: 30px 40px 40px;
+            }
+        }
+    }
+}
+
+.read-border, .en-btn{
+    a{
+        text-decoration: underline !important;
+        color: @titleColor;
+        &:hover{
+            color:@secondaryColor;
+        }
+    }
+}
+
+
+.e-dash-courses{
+    .content-part{
+        .text{
+            margin-bottom: 20px;
+        }
+    }
+    .rs-pagination-area .nav-links a:after{
+        background: @secondaryColor;
+    }
+}
+
+.meta-part-edash{
+    align-items: center;
+    li{
+        a{
+            color: @titleColor;
+            font-size: 14px;
+            &:hover{
+                color:@secondaryColor;
+            }
+        }
+        &.btn-part{
+            a{
+                padding: 3px 12px;
+                background: #f9f8f8;
+                border: 1px solid #f2f2f2;
+                display: inline-block;
+                border-radius: 3px;
+                color: @titleColor;
+                i:before{
+                    margin:0;
+                }
+                &:hover{
+                    background: @secondaryColor;
+                    i:before{
+                        color:#fff;
+                    }
+                }
+            }
+        }
+    }
+}
+
+.rs_course_style4 .courses-item .content-part .meta-part.edash-meta-part li{
+    margin-left: 0;    
+}
+
+.rs_course_style5 .courses-item .content-part{
+    &.e-style-5{
+        span.price{
+            background: @secondaryColor;
+            padding: 3px 20px;
+            display: inline-block;
+            color: @whiteColor;
+            border-radius: 3px;
+            margin-bottom: 15px;
+        }
+        .meta-part{
+            display: flex;
+            justify-content: space-between;
+        }
+    }
+}
+.rs_course_style1 .courses-item .content-part{
+    &.e-style-1{
+        .meta-part-edash{
+            display: flex;
+            justify-content: space-between;
+            list-style: none;
+            margin: 0;
+            padding: 0;
+            .btn-part{
+                a{
+                    text-decoration: none !important;
+                }
+            }
+        }
+    }
+}
+
+.rs-course-slider.course-slider-style2{
+    .courses-item{
+        &.e-dash-slider-2{
+            .content-part{
+                .bottom-part{
+                    .btn-part{
+                        a{
+                            background: @secondaryColor;
+                            padding: 3px 14px 8px 1px;
+                            border-radius: 50%;
+                            i{
+                                color: @whiteColor;
+                            }                            
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+
+
+.eb-icon{
+    color: @secondaryColor;
+}
+
+.rs_course_style3 .courses-item{
+    .content-part{
+        &.e-style-3{
+            .bottom-part{
+                .btn-part{
+                    a{
+                        border: 1px solid #f2f2f2;
+                    }
+                }
+            }
+        }
+    }
+}
+
+@media only screen and (max-width: 1024px) {
+    .learndash-wrapper .ld-focus .ld-focus-header .ld-brand-logo{
+        margin-right: 10px;       
+    }
+}
+
+@media only screen and (max-width: 991px) {
+    .learndash-wrapper .ld-focus .ld-focus-header .ld-mobile-nav{
+        padding: 8px 0;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .rs-edash-details .learndash-wrapper .ld-course-status.ld-course-status-not-enrolled .ld-course-status-content, 
+    .rs-edash-details .learndash-wrapper .ld-course-status.ld-course-status-not-enrolled .ld-course-status-action{
+        height: auto !important;
+    }
+    .learndash-wrapper .ld-focus .ld-focus-header .ld-mobile-nav span {
+        height: 3px;
+    }
+}

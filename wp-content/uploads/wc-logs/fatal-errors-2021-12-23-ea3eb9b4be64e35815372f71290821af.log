@@ -1,0 +1,135 @@
+2021-12-23T05:23:01+00:00 CRITICAL Uncaught Error: Call to undefined function fortunewheel_crb_get_i18n_suffix() in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/mycred-wheel-of-fortune/inc/classes/class-fortunewheel-coupon-request.php:215
+Stack trace:
+#0 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-includes/class-wp-hook.php(303): mycred_fortunewheel_Coupon_Request->mycred_fortunewheel_coupon_request_callback('')
+#1 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-admin/admin-ajax.php(187): do_action('wp_ajax_fortune...')
+#4 {main}
+  thrown in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/mycred-wheel-of-fortune/inc/classes/class-fortunewheel-coupon-request.php on line 215
+
+2021-12-23T05:57:30+00:00 CRITICAL Uncaught Error: Call to undefined function fortunewheel_crb_get_i18n_suffix() in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/mycred-wheel-of-fortune/inc/classes/class-fortunewheel-coupon-request.php:215
+Stack trace:
+#0 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-includes/class-wp-hook.php(303): mycred_fortunewheel_Coupon_Request->mycred_fortunewheel_coupon_request_callback('')
+#1 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-admin/admin-ajax.php(187): do_action('wp_ajax_fortune...')
+#4 {main}
+  thrown in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/mycred-wheel-of-fortune/inc/classes/class-fortunewheel-coupon-request.php on line 215
+
+2021-12-23T06:03:37+00:00 CRITICAL Uncaught Error: Call to undefined function fortunewheel_crb_get_i18n_suffix() in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/mycred-wheel-of-fortune/inc/classes/class-fortunewheel-coupon-request.php:215
+Stack trace:
+#0 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-includes/class-wp-hook.php(303): mycred_fortunewheel_Coupon_Request->mycred_fortunewheel_coupon_request_callback('')
+#1 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-admin/admin-ajax.php(187): do_action('wp_ajax_fortune...')
+#4 {main}
+  thrown in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/mycred-wheel-of-fortune/inc/classes/class-fortunewheel-coupon-request.php on line 215
+
+2021-12-23T06:05:26+00:00 CRITICAL Uncaught Error: Call to undefined function fortunewheel_crb_get_i18n_suffix() in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/mycred-wheel-of-fortune/inc/classes/class-fortunewheel-coupon-request.php:215
+Stack trace:
+#0 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-includes/class-wp-hook.php(303): mycred_fortunewheel_Coupon_Request->mycred_fortunewheel_coupon_request_callback('')
+#1 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-admin/admin-ajax.php(187): do_action('wp_ajax_fortune...')
+#4 {main}
+  thrown in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/mycred-wheel-of-fortune/inc/classes/class-fortunewheel-coupon-request.php on line 215
+
+2021-12-23T06:11:53+00:00 CRITICAL Uncaught Error: Call to undefined function fortunewheel_crb_get_i18n_suffix() in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/mycred-wheel-of-fortune/inc/classes/class-fortunewheel-coupon-request.php:215
+Stack trace:
+#0 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-includes/class-wp-hook.php(303): mycred_fortunewheel_Coupon_Request->mycred_fortunewheel_coupon_request_callback('')
+#1 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-admin/admin-ajax.php(187): do_action('wp_ajax_fortune...')
+#4 {main}
+  thrown in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/mycred-wheel-of-fortune/inc/classes/class-fortunewheel-coupon-request.php on line 215
+
+2021-12-23T06:15:23+00:00 CRITICAL Uncaught Error: Call to undefined function fortunewheel_crb_get_i18n_suffix() in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/mycred-wheel-of-fortune/inc/classes/class-fortunewheel-coupon-request.php:215
+Stack trace:
+#0 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-includes/class-wp-hook.php(303): mycred_fortunewheel_Coupon_Request->mycred_fortunewheel_coupon_request_callback('')
+#1 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-admin/admin-ajax.php(187): do_action('wp_ajax_fortune...')
+#4 {main}
+  thrown in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/mycred-wheel-of-fortune/inc/classes/class-fortunewheel-coupon-request.php on line 215
+
+2021-12-23T06:49:29+00:00 CRITICAL Uncaught Error: Call to undefined function fortunewheel_crb_get_i18n_suffix() in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/mycred-wheel-of-fortune/inc/classes/class-fortunewheel-coupon-request.php:215
+Stack trace:
+#0 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-includes/class-wp-hook.php(303): mycred_fortunewheel_Coupon_Request->mycred_fortunewheel_coupon_request_callback('')
+#1 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-admin/admin-ajax.php(187): do_action('wp_ajax_fortune...')
+#4 {main}
+  thrown in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/mycred-wheel-of-fortune/inc/classes/class-fortunewheel-coupon-request.php on line 215
+
+2021-12-23T07:48:29+00:00 CRITICAL Uncaught Error: Call to undefined function fortunewheel_crb_get_i18n_suffix() in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/mycred-wheel-of-fortune/inc/classes/class-fortunewheel-coupon-request.php:215
+Stack trace:
+#0 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-includes/class-wp-hook.php(303): mycred_fortunewheel_Coupon_Request->mycred_fortunewheel_coupon_request_callback('')
+#1 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-admin/admin-ajax.php(187): do_action('wp_ajax_fortune...')
+#4 {main}
+  thrown in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/mycred-wheel-of-fortune/inc/classes/class-fortunewheel-coupon-request.php on line 215
+
+2021-12-23T08:09:55+00:00 CRITICAL Uncaught Error: Call to undefined function fortunewheel_crb_get_i18n_suffix() in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/mycred-wheel-of-fortune/inc/classes/class-fortunewheel-coupon-request.php:215
+Stack trace:
+#0 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-includes/class-wp-hook.php(303): mycred_fortunewheel_Coupon_Request->mycred_fortunewheel_coupon_request_callback('')
+#1 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-admin/admin-ajax.php(187): do_action('wp_ajax_fortune...')
+#4 {main}
+  thrown in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/mycred-wheel-of-fortune/inc/classes/class-fortunewheel-coupon-request.php on line 215
+
+2021-12-23T09:26:51+00:00 CRITICAL Uncaught Error: Call to undefined function fortunewheel_crb_get_i18n_suffix() in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/mycred-wheel-of-fortune/inc/classes/class-fortunewheel-coupon-request.php:215
+Stack trace:
+#0 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-includes/class-wp-hook.php(303): mycred_fortunewheel_Coupon_Request->mycred_fortunewheel_coupon_request_callback('')
+#1 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-admin/admin-ajax.php(187): do_action('wp_ajax_fortune...')
+#4 {main}
+  thrown in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/mycred-wheel-of-fortune/inc/classes/class-fortunewheel-coupon-request.php on line 215
+
+2021-12-23T09:31:33+00:00 CRITICAL Uncaught Error: Call to undefined function fortunewheel_crb_get_i18n_suffix() in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/mycred-wheel-of-fortune/inc/classes/class-fortunewheel-coupon-request.php:215
+Stack trace:
+#0 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-includes/class-wp-hook.php(303): mycred_fortunewheel_Coupon_Request->mycred_fortunewheel_coupon_request_callback('')
+#1 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-admin/admin-ajax.php(187): do_action('wp_ajax_fortune...')
+#4 {main}
+  thrown in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/mycred-wheel-of-fortune/inc/classes/class-fortunewheel-coupon-request.php on line 215
+
+2021-12-23T09:37:52+00:00 CRITICAL Uncaught Error: Call to undefined function fortunewheel_crb_get_i18n_suffix() in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/mycred-wheel-of-fortune/inc/classes/class-fortunewheel-coupon-request.php:215
+Stack trace:
+#0 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-includes/class-wp-hook.php(303): mycred_fortunewheel_Coupon_Request->mycred_fortunewheel_coupon_request_callback('')
+#1 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-admin/admin-ajax.php(187): do_action('wp_ajax_fortune...')
+#4 {main}
+  thrown in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/mycred-wheel-of-fortune/inc/classes/class-fortunewheel-coupon-request.php on line 215
+
+2021-12-23T09:42:58+00:00 CRITICAL Uncaught Error: Call to undefined function fortunewheel_crb_get_i18n_suffix() in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/mycred-wheel-of-fortune/inc/classes/class-fortunewheel-coupon-request.php:215
+Stack trace:
+#0 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-includes/class-wp-hook.php(303): mycred_fortunewheel_Coupon_Request->mycred_fortunewheel_coupon_request_callback('')
+#1 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-admin/admin-ajax.php(187): do_action('wp_ajax_fortune...')
+#4 {main}
+  thrown in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/mycred-wheel-of-fortune/inc/classes/class-fortunewheel-coupon-request.php on line 215
+
+2021-12-23T09:50:21+00:00 CRITICAL Uncaught Error: Call to undefined function fortunewheel_crb_get_i18n_suffix() in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/mycred-wheel-of-fortune/inc/classes/class-fortunewheel-coupon-request.php:215
+Stack trace:
+#0 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-includes/class-wp-hook.php(303): mycred_fortunewheel_Coupon_Request->mycred_fortunewheel_coupon_request_callback('')
+#1 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-admin/admin-ajax.php(187): do_action('wp_ajax_fortune...')
+#4 {main}
+  thrown in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/mycred-wheel-of-fortune/inc/classes/class-fortunewheel-coupon-request.php on line 215
+
+2021-12-23T10:55:23+00:00 CRITICAL Uncaught Error: Call to undefined function fortunewheel_crb_get_i18n_suffix() in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/mycred-wheel-of-fortune/inc/classes/class-fortunewheel-coupon-request.php:215
+Stack trace:
+#0 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-includes/class-wp-hook.php(303): mycred_fortunewheel_Coupon_Request->mycred_fortunewheel_coupon_request_callback('')
+#1 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-admin/admin-ajax.php(187): do_action('wp_ajax_fortune...')
+#4 {main}
+  thrown in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/mycred-wheel-of-fortune/inc/classes/class-fortunewheel-coupon-request.php on line 215
+

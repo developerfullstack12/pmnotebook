@@ -1,0 +1,347 @@
+#mycred-login-reward .switch {
+    position: relative;
+    display: inline-block;
+    width: 30px;
+    height: 17px;
+}
+#mycred-login-reward .switch input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+}
+#mycred-login-reward .slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ccc;
+    -webkit-transition: 0.4s;
+    transition: 0.4s;
+}
+#mycred-login-reward .slider:before {
+    position: absolute;
+    content: "";
+    height: 13px;
+    width: 13px;
+    left: 2px;
+    bottom: 2px;
+    background-color: #fff;
+    -webkit-transition: 0.4s;
+    transition: 0.4s;
+}
+#mycred-login-reward input:checked + .slider {
+    background-color: #2196f3;
+}
+#mycred-login-reward input:focus + .slider {
+    box-shadow: 0 0 1px #2196f3;
+}
+#mycred-login-reward input:checked + .slider:before {
+    -webkit-transform: translateX(13px);
+    -ms-transform: translateX(13px);
+    transform: translateX(13px);
+}
+#mycred-login-reward .slider.round {
+    border-radius: 34px;
+}
+#mycred-login-reward .slider.round:before {
+    border-radius: 50%;
+}
+#mycred-login-reward .mycred-rc-left {
+    width: 18%;
+}
+#mycred-login-reward .mycred-rc-right {
+    width: 82%;
+}
+.mycred-rc-calender-tab,
+.mycred-rc-limited-tab,
+.mycred-rc-penalty-tab,
+.mycred-rc-repeatable-tab {
+    display: none;
+}
+#mycred-login-reward-shortcode input {
+    width: 100%;
+}
+#mycred-login-reward-shortcode p {
+    margin: 10px;
+}
+#mycred-login-reward-shortcode .inside {
+    padding: 20px;
+}
+.mycred-daily-login-rewards-rewards-list {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    width: 100%;
+}
+.mycred-daily-login-rewards-rewards-list .mycred-daily-login-rewards-add-new-reward {
+    background-color: #f1f1f1;
+    text-align: center;
+    cursor: pointer;
+}
+.mycred-daily-login-rewards-rewards-list .mycred-daily-login-rewards-add-new-reward {
+    min-height: 300px;
+}
+.mycred-daily-login-rewards-rewards-list .mycred-daily-login-rewards-add-new-reward,
+.mycred-daily-login-rewards-rewards-list .reward-row {
+    width: 100%;
+    padding: 1em;
+    margin: 4px;
+    border: 1px solid #eee;
+}
+.mycred-daily-login-rewards-rewards-list .mycred-daily-login-rewards-add-new-reward .dashicons {
+    background: #e5e5e5;
+    color: #999;
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+    font-size: 60px;
+    line-height: 91px;
+    margin-top: 45%;
+}
+.mycred-daily-login-rewards-rewards-list .mycred-daily-login-rewards-add-new-reward span:not(.dashicons) {
+    display: block;
+    width: 100%;
+    margin-top: 2em;
+}
+.mycred-daily-login-rewards-rewards-list .mycred-daily-login-rewards-add-new-reward:hover {
+    background: #0073aa;
+}
+@media screen and (min-width: 1600px) {
+    .mycred-daily-login-rewards-rewards-list .mycred-daily-login-rewards-add-new-reward,
+    .mycred-daily-login-rewards-rewards-list .reward-row {
+        width: 17%;
+    }
+}
+@media screen and (min-width: 1400px) {
+    .mycred-daily-login-rewards-rewards-list .mycred-daily-login-rewards-add-new-reward,
+    .mycred-daily-login-rewards-rewards-list .reward-row {
+        width: 15%;
+    }
+}
+@media screen and (min-width: 1200px) {
+    .mycred-daily-login-rewards-rewards-list .mycred-daily-login-rewards-add-new-reward,
+    .mycred-daily-login-rewards-rewards-list .reward-row {
+        width: 27%;
+    }
+}
+@media screen and (min-width: 992px) {
+    .mycred-daily-login-rewards-rewards-list .mycred-daily-login-rewards-add-new-reward,
+    .mycred-daily-login-rewards-rewards-list .reward-row {
+        width: 15%;
+    }
+}
+.mycred-daily-login-rewards-rewards-list {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    width: 100%;
+}
+.mycred-daily-login-rewards-rewards-list .mycred-daily-login-rewards-add-new-reward,
+.mycred-daily-login-rewards-rewards-list .reward-row {
+    width: 100%;
+    padding: 1em;
+    margin: 4px;
+    border: 1px solid #eee;
+}
+.mycred-daily-login-rewards-rewards-list .mycred-daily-login-rewards-add-new-reward {
+    min-height: 300px;
+}
+.mycred-daily-login-rewards-rewards-list .reward-row {
+    background-color: #fff;
+}
+.mycred-daily-login-rewards-rewards-list .mycred-daily-login-rewards-add-new-reward {
+    background-color: #f1f1f1;
+    text-align: center;
+    cursor: pointer;
+}
+.mycred-daily-login-rewards-rewards-list .mycred-daily-login-rewards-add-new-reward .dashicons {
+    background: #e5e5e5;
+    color: #999;
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+    font-size: 60px;
+    line-height: 1;
+    margin-top: 45%;
+}
+.mycred-daily-login-rewards-rewards-list .mycred-daily-login-rewards-add-new-reward .dashicons:before {
+    vertical-align: middle;
+}
+.mycred-daily-login-rewards-rewards-list .mycred-daily-login-rewards-add-new-reward span:not(.dashicons) {
+    display: block;
+    width: 100%;
+    margin-top: 2em;
+}
+.mycred-daily-login-rewards-rewards-list .mycred-daily-login-rewards-add-new-reward:hover {
+    background: #0073aa;
+}
+.mycred-daily-login-rewards-rewards-list .mycred-daily-login-rewards-add-new-reward:hover .dashicons {
+    background: #fff;
+    color: #0073aa;
+}
+.mycred-daily-login-rewards-rewards-list .mycred-daily-login-rewards-add-new-reward:hover span:not(.dashicons) {
+    color: #fff;
+}
+@media screen and (min-width: 992px) {
+    .mycred-daily-login-rewards-rewards-list .mycred-daily-login-rewards-add-new-reward,
+    .mycred-daily-login-rewards-rewards-list .reward-row {
+        width: 43%;
+    }
+}
+@media screen and (min-width: 1200px) {
+    .mycred-daily-login-rewards-rewards-list .mycred-daily-login-rewards-add-new-reward,
+    .mycred-daily-login-rewards-rewards-list .reward-row {
+        width: 27%;
+    }
+}
+@media screen and (min-width: 1400px) {
+    .mycred-daily-login-rewards-rewards-list .mycred-daily-login-rewards-add-new-reward,
+    .mycred-daily-login-rewards-rewards-list .reward-row {
+        width: 20%;
+    }
+}
+@media screen and (min-width: 1600px) {
+    .mycred-daily-login-rewards-rewards-list .mycred-daily-login-rewards-add-new-reward,
+    .mycred-daily-login-rewards-rewards-list .reward-row {
+        width: 17%;
+    }
+}
+.mycred-daily-login-rewards-rewards-list .reward-row .reward-header {
+    margin: -1em -1em 1em -1em;
+    border-bottom: 1px solid #eee;
+    cursor: move;
+}
+.mycred-daily-login-rewards-rewards-list .reward-row .reward-header h3 {
+    display: inline-block;
+    margin: 8px;
+    font-size: 14px;
+}
+.mycred-daily-login-rewards-rewards-list .reward-row .reward-header .delete-reward {
+    display: inline-block;
+    color: #72777c;
+    padding: 7px;
+    vertical-align: top;
+    float: right;
+    cursor: pointer;
+}
+.mycred-daily-login-rewards-rewards-list .reward-row .reward-header .delete-reward:hover {
+    color: #23282d;
+}
+.mycred-daily-login-rewards-rewards-list .reward-row .reward-field-desc {
+    color: #aaa;
+    margin: 2px 0 8px 0;
+    display: inline-block;
+}
+.mycred-daily-login-rewards-rewards-list .reward-row .mycred-reward-thumbnail {
+    position: relative;
+    margin: 0 auto;
+    cursor: pointer;
+    text-align: center;
+}
+.mycred-daily-login-rewards-rewards-list .reward-row .mycred-reward-thumbnail:not(.has-thumbnail),
+.completed-image .mycred-complete-thumbnail:not(.has-thumbnail) {
+    width: 80px;
+    height: 80px;
+    background-color: #f1f1f1;
+    border: 3px dashed #e5e5e5;
+}
+.mycred-daily-login-rewards-rewards-list .reward-row .mycred-reward-thumbnail.has-thumbnail, 
+.completed-image .mycred-complete-thumbnail.has-thumbnail {
+    width: 86px;
+    height: 86px;
+}
+.mycred-daily-login-rewards-rewards-list .reward-row .mycred-reward-thumbnail .dashicons-camera,
+.completed-image .mycred-complete-thumbnail .dashicons-camera {
+    color: #999;
+    width: 60px;
+    height: 60px;
+    font-size: 40px;
+    line-height: 42px;
+    margin-top: 23px;
+}
+.mycred-daily-login-rewards-rewards-list .reward-row .mycred-reward-thumbnail.has-thumbnail .dashicons-camera,
+.completed-image .mycred-complete-thumbnail.has-thumbnail .dashicons-camera{
+    display: none;
+}
+.mycred-daily-login-rewards-rewards-list .reward-row .mycred-reward-thumbnail .mycred-remove-reward-thumbnail,
+.completed-image .mycred-complete-thumbnail .mycred-remove-reward-thumbnail {
+    position: absolute;
+    right: -20px;
+    top: 0;
+    z-index: 1;
+    color: #72777c;
+}
+.mycred-daily-login-rewards-rewards-list .reward-row .mycred-reward-thumbnail .mycred-remove-reward-thumbnail:hover,
+.completed-image .mycred-complete-thumbnail .mycred-remove-reward-thumbnail:hover {
+    color: #23282d;
+}
+.mycred-daily-login-rewards-rewards-list .reward-row .mycred-reward-thumbnail img {
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+.mycred-daily-login-rewards-rewards-list .reward-row .mycred-reward-thumbnail-desc {
+    display: block;
+    text-align: center;
+    margin: 6px 0 8px 0;
+}
+.mycred-daily-login-rewards-rewards-list .reward-row .reward-label {
+    width: 100%;
+    margin-bottom: 8px;
+}
+.mycred-daily-login-rewards-rewards-list .reward-row .reward-types-list label {
+    display: block;
+    padding: 3px 0;
+}
+.mycred-daily-login-rewards-rewards-list .reward-row .reward-types-list label .dashicons {
+    color: #aaa;
+}
+.mycred-daily-login-rewards-rewards-list .reward-row .reward-types-list .reward-type-form {
+    padding: 4px 0 8px 0;
+}
+.mycred-daily-login-rewards-rewards-list .reward-row .reward-types-list .reward-type-form select {
+    vertical-align: baseline;
+}
+.mycred-show {
+    display: table-row;
+}
+.mycred-rc-calender-tab select {
+    width: 168px;
+}
+.mycred-animate-switch {
+    vertical-align: middle;
+    display: none;
+}
+.mycred-animate-switch {
+    -webkit-animation: spin 2s linear infinite;
+    animation: spin 2s linear infinite;
+}
+@-webkit-keyframes spin {
+    0% {
+        -webkit-transform: rotate(0);
+    }
+    100% {
+        -webkit-transform: rotate(360deg);
+    }
+}
+@keyframes spin {
+    0% {
+        transform: rotate(0);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
+.mycred-reward-calender-table .completed-image {
+    text-align: center;
+}

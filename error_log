@@ -1,0 +1,880 @@
+[25-Oct-2021 08:04:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/dr6wz5k775ei/public_html/PMnotebooks/deleteme.wps6hx.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dr6wz5k775ei/public_html/PMnotebooks/deleteme.wps6hx.php on line 16
+[25-Oct-2021 08:04:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/dr6wz5k775ei/public_html/PMnotebooks/deleteme.wpvnl7.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dr6wz5k775ei/public_html/PMnotebooks/deleteme.wpvnl7.php on line 16
+[25-Oct-2021 08:04:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/dr6wz5k775ei/public_html/PMnotebooks/deleteme.wpkszv.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dr6wz5k775ei/public_html/PMnotebooks/deleteme.wpkszv.php on line 16
+[25-Oct-2021 08:15:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function remove_cap() on null in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/themes/buddyboss-theme-child/functions.php:445
+Stack trace:
+#0 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-includes/class-wp-hook.php(303): wpcodex_set_capabilities('')
+#1 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-settings.php(578): do_action('init')
+#4 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-config.php(112): require_once('/home/dr6wz5k77...')
+#5 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-load.php(50): require_once('/home/dr6wz5k77...')
+#6 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-blog-header.php(13): require_once('/home/dr6wz5k77...')
+#7 /home/dr6wz5k775ei/public_html/PMnotebooks/index.php(17): require('/home/dr6wz5k77...')
+#8 {main}
+  thrown in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/themes/buddyboss-theme-child/functions.php on line 445
+[01-Nov-2021 10:28:38 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/mplugin.php on line 94
+[01-Nov-2021 10:28:44 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/mplugin.php on line 94
+[01-Nov-2021 10:28:54 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/mplugin.php on line 94
+[01-Nov-2021 10:29:05 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/mplugin.php on line 94
+[01-Nov-2021 10:32:02 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/mplugin.php on line 94
+[01-Nov-2021 10:33:04 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/mplugin.php on line 94
+[01-Nov-2021 10:33:32 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/mplugin.php on line 94
+[01-Nov-2021 10:52:37 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/mplugin.php on line 94
+[01-Nov-2021 10:53:26 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/mplugin.php on line 94
+[01-Nov-2021 10:54:01 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/themes/educavo/inc/header/header-style6.php on line 7
+[01-Nov-2021 13:04:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function educavo_custom_excerpt() in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php:1407
+Stack trace:
+#0 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/controls-stack.php(2154): Rsaddon_Elementor_Pro_Learndash_Course_Grid_Widget->render()
+#1 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(581): Elementor\Controls_Stack->render_by_mode()
+#2 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(722): Elementor\Widget_Base->render_content()
+#3 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(450): Elementor\Widget_Base->print_content()
+#4 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(744): Elementor\Element_Base->print_element()
+#5 /home/dr6wz5k775ei/public_htm in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php on line 1407
+[02-Nov-2021 06:31:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function educavo_custom_excerpt() in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php:1407
+Stack trace:
+#0 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/controls-stack.php(2154): Rsaddon_Elementor_Pro_Learndash_Course_Grid_Widget->render()
+#1 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(581): Elementor\Controls_Stack->render_by_mode()
+#2 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(722): Elementor\Widget_Base->render_content()
+#3 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(450): Elementor\Widget_Base->print_content()
+#4 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(744): Elementor\Element_Base->print_element()
+#5 /home/dr6wz5k775ei/public_htm in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php on line 1407
+[02-Nov-2021 06:32:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function educavo_custom_excerpt() in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php:1407
+Stack trace:
+#0 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/controls-stack.php(2154): Rsaddon_Elementor_Pro_Learndash_Course_Grid_Widget->render()
+#1 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(581): Elementor\Controls_Stack->render_by_mode()
+#2 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(722): Elementor\Widget_Base->render_content()
+#3 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(450): Elementor\Widget_Base->print_content()
+#4 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(744): Elementor\Element_Base->print_element()
+#5 /home/dr6wz5k775ei/public_htm in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php on line 1407
+[02-Nov-2021 06:54:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function educavo_custom_excerpt() in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php:1407
+Stack trace:
+#0 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/controls-stack.php(2154): Rsaddon_Elementor_Pro_Learndash_Course_Grid_Widget->render()
+#1 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(581): Elementor\Controls_Stack->render_by_mode()
+#2 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(722): Elementor\Widget_Base->render_content()
+#3 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(450): Elementor\Widget_Base->print_content()
+#4 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(744): Elementor\Element_Base->print_element()
+#5 /home/dr6wz5k775ei/public_htm in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php on line 1407
+[02-Nov-2021 06:55:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function educavo_custom_excerpt() in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php:1407
+Stack trace:
+#0 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/controls-stack.php(2154): Rsaddon_Elementor_Pro_Learndash_Course_Grid_Widget->render()
+#1 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(581): Elementor\Controls_Stack->render_by_mode()
+#2 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(722): Elementor\Widget_Base->render_content()
+#3 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(450): Elementor\Widget_Base->print_content()
+#4 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(744): Elementor\Element_Base->print_element()
+#5 /home/dr6wz5k775ei/public_htm in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php on line 1407
+[02-Nov-2021 06:57:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function educavo_custom_excerpt() in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php:1407
+Stack trace:
+#0 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/controls-stack.php(2154): Rsaddon_Elementor_Pro_Learndash_Course_Grid_Widget->render()
+#1 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(581): Elementor\Controls_Stack->render_by_mode()
+#2 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(722): Elementor\Widget_Base->render_content()
+#3 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(450): Elementor\Widget_Base->print_content()
+#4 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(744): Elementor\Element_Base->print_element()
+#5 /home/dr6wz5k775ei/public_htm in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php on line 1407
+[02-Nov-2021 06:57:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function educavo_custom_excerpt() in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php:1407
+Stack trace:
+#0 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/controls-stack.php(2154): Rsaddon_Elementor_Pro_Learndash_Course_Grid_Widget->render()
+#1 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(581): Elementor\Controls_Stack->render_by_mode()
+#2 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(722): Elementor\Widget_Base->render_content()
+#3 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(450): Elementor\Widget_Base->print_content()
+#4 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(744): Elementor\Element_Base->print_element()
+#5 /home/dr6wz5k775ei/public_htm in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php on line 1407
+[02-Nov-2021 06:58:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function educavo_custom_excerpt() in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php:1407
+Stack trace:
+#0 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/controls-stack.php(2154): Rsaddon_Elementor_Pro_Learndash_Course_Grid_Widget->render()
+#1 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(581): Elementor\Controls_Stack->render_by_mode()
+#2 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(722): Elementor\Widget_Base->render_content()
+#3 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(450): Elementor\Widget_Base->print_content()
+#4 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(744): Elementor\Element_Base->print_element()
+#5 /home/dr6wz5k775ei/public_htm in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php on line 1407
+[02-Nov-2021 06:58:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function educavo_custom_excerpt() in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php:1407
+Stack trace:
+#0 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/controls-stack.php(2154): Rsaddon_Elementor_Pro_Learndash_Course_Grid_Widget->render()
+#1 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(581): Elementor\Controls_Stack->render_by_mode()
+#2 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(722): Elementor\Widget_Base->render_content()
+#3 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(450): Elementor\Widget_Base->print_content()
+#4 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(744): Elementor\Element_Base->print_element()
+#5 /home/dr6wz5k775ei/public_htm in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php on line 1407
+[02-Nov-2021 06:58:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function educavo_custom_excerpt() in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php:1407
+Stack trace:
+#0 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/controls-stack.php(2154): Rsaddon_Elementor_Pro_Learndash_Course_Grid_Widget->render()
+#1 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(581): Elementor\Controls_Stack->render_by_mode()
+#2 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(722): Elementor\Widget_Base->render_content()
+#3 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(450): Elementor\Widget_Base->print_content()
+#4 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(744): Elementor\Element_Base->print_element()
+#5 /home/dr6wz5k775ei/public_htm in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php on line 1407
+[02-Nov-2021 06:58:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function educavo_custom_excerpt() in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php:1407
+Stack trace:
+#0 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/controls-stack.php(2154): Rsaddon_Elementor_Pro_Learndash_Course_Grid_Widget->render()
+#1 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(581): Elementor\Controls_Stack->render_by_mode()
+#2 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(722): Elementor\Widget_Base->render_content()
+#3 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(450): Elementor\Widget_Base->print_content()
+#4 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(744): Elementor\Element_Base->print_element()
+#5 /home/dr6wz5k775ei/public_htm in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php on line 1407
+[02-Nov-2021 06:58:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function educavo_custom_excerpt() in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php:1407
+Stack trace:
+#0 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/controls-stack.php(2154): Rsaddon_Elementor_Pro_Learndash_Course_Grid_Widget->render()
+#1 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(581): Elementor\Controls_Stack->render_by_mode()
+#2 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(722): Elementor\Widget_Base->render_content()
+#3 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(450): Elementor\Widget_Base->print_content()
+#4 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(744): Elementor\Element_Base->print_element()
+#5 /home/dr6wz5k775ei/public_htm in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php on line 1407
+[02-Nov-2021 06:58:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function educavo_custom_excerpt() in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php:1407
+Stack trace:
+#0 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/controls-stack.php(2154): Rsaddon_Elementor_Pro_Learndash_Course_Grid_Widget->render()
+#1 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(581): Elementor\Controls_Stack->render_by_mode()
+#2 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(722): Elementor\Widget_Base->render_content()
+#3 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(450): Elementor\Widget_Base->print_content()
+#4 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(744): Elementor\Element_Base->print_element()
+#5 /home/dr6wz5k775ei/public_htm in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php on line 1407
+[02-Nov-2021 06:58:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function educavo_custom_excerpt() in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php:1407
+Stack trace:
+#0 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/controls-stack.php(2154): Rsaddon_Elementor_Pro_Learndash_Course_Grid_Widget->render()
+#1 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(581): Elementor\Controls_Stack->render_by_mode()
+#2 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(722): Elementor\Widget_Base->render_content()
+#3 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(450): Elementor\Widget_Base->print_content()
+#4 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(744): Elementor\Element_Base->print_element()
+#5 /home/dr6wz5k775ei/public_htm in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php on line 1407
+[02-Nov-2021 06:58:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function educavo_custom_excerpt() in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php:1407
+Stack trace:
+#0 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/controls-stack.php(2154): Rsaddon_Elementor_Pro_Learndash_Course_Grid_Widget->render()
+#1 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(581): Elementor\Controls_Stack->render_by_mode()
+#2 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(722): Elementor\Widget_Base->render_content()
+#3 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(450): Elementor\Widget_Base->print_content()
+#4 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(744): Elementor\Element_Base->print_element()
+#5 /home/dr6wz5k775ei/public_htm in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php on line 1407
+[02-Nov-2021 06:59:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function educavo_custom_excerpt() in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php:1407
+Stack trace:
+#0 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/controls-stack.php(2154): Rsaddon_Elementor_Pro_Learndash_Course_Grid_Widget->render()
+#1 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(581): Elementor\Controls_Stack->render_by_mode()
+#2 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(722): Elementor\Widget_Base->render_content()
+#3 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(450): Elementor\Widget_Base->print_content()
+#4 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(744): Elementor\Element_Base->print_element()
+#5 /home/dr6wz5k775ei/public_htm in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php on line 1407
+[02-Nov-2021 06:59:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function educavo_custom_excerpt() in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php:1407
+Stack trace:
+#0 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/controls-stack.php(2154): Rsaddon_Elementor_Pro_Learndash_Course_Grid_Widget->render()
+#1 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(581): Elementor\Controls_Stack->render_by_mode()
+#2 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(722): Elementor\Widget_Base->render_content()
+#3 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(450): Elementor\Widget_Base->print_content()
+#4 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(744): Elementor\Element_Base->print_element()
+#5 /home/dr6wz5k775ei/public_htm in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php on line 1407
+[02-Nov-2021 06:59:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function educavo_custom_excerpt() in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php:1407
+Stack trace:
+#0 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/controls-stack.php(2154): Rsaddon_Elementor_Pro_Learndash_Course_Grid_Widget->render()
+#1 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(581): Elementor\Controls_Stack->render_by_mode()
+#2 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(722): Elementor\Widget_Base->render_content()
+#3 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(450): Elementor\Widget_Base->print_content()
+#4 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(744): Elementor\Element_Base->print_element()
+#5 /home/dr6wz5k775ei/public_htm in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php on line 1407
+[02-Nov-2021 06:59:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function educavo_custom_excerpt() in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php:1407
+Stack trace:
+#0 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/controls-stack.php(2154): Rsaddon_Elementor_Pro_Learndash_Course_Grid_Widget->render()
+#1 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(581): Elementor\Controls_Stack->render_by_mode()
+#2 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(722): Elementor\Widget_Base->render_content()
+#3 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(450): Elementor\Widget_Base->print_content()
+#4 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(744): Elementor\Element_Base->print_element()
+#5 /home/dr6wz5k775ei/public_htm in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php on line 1407
+[02-Nov-2021 06:59:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function educavo_custom_excerpt() in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php:1407
+Stack trace:
+#0 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/controls-stack.php(2154): Rsaddon_Elementor_Pro_Learndash_Course_Grid_Widget->render()
+#1 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(581): Elementor\Controls_Stack->render_by_mode()
+#2 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(722): Elementor\Widget_Base->render_content()
+#3 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(450): Elementor\Widget_Base->print_content()
+#4 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(744): Elementor\Element_Base->print_element()
+#5 /home/dr6wz5k775ei/public_htm in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php on line 1407
+[02-Nov-2021 06:59:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function educavo_custom_excerpt() in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php:1407
+Stack trace:
+#0 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/controls-stack.php(2154): Rsaddon_Elementor_Pro_Learndash_Course_Grid_Widget->render()
+#1 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(581): Elementor\Controls_Stack->render_by_mode()
+#2 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(722): Elementor\Widget_Base->render_content()
+#3 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(450): Elementor\Widget_Base->print_content()
+#4 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(744): Elementor\Element_Base->print_element()
+#5 /home/dr6wz5k775ei/public_htm in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php on line 1407
+[02-Nov-2021 07:00:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function educavo_custom_excerpt() in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php:1407
+Stack trace:
+#0 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/controls-stack.php(2154): Rsaddon_Elementor_Pro_Learndash_Course_Grid_Widget->render()
+#1 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(581): Elementor\Controls_Stack->render_by_mode()
+#2 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(722): Elementor\Widget_Base->render_content()
+#3 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(450): Elementor\Widget_Base->print_content()
+#4 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(744): Elementor\Element_Base->print_element()
+#5 /home/dr6wz5k775ei/public_htm in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php on line 1407
+[02-Nov-2021 07:00:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function educavo_custom_excerpt() in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php:1407
+Stack trace:
+#0 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/controls-stack.php(2154): Rsaddon_Elementor_Pro_Learndash_Course_Grid_Widget->render()
+#1 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(581): Elementor\Controls_Stack->render_by_mode()
+#2 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(722): Elementor\Widget_Base->render_content()
+#3 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(450): Elementor\Widget_Base->print_content()
+#4 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(744): Elementor\Element_Base->print_element()
+#5 /home/dr6wz5k775ei/public_htm in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php on line 1407
+[02-Nov-2021 07:00:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function educavo_custom_excerpt() in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php:1407
+Stack trace:
+#0 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/controls-stack.php(2154): Rsaddon_Elementor_Pro_Learndash_Course_Grid_Widget->render()
+#1 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(581): Elementor\Controls_Stack->render_by_mode()
+#2 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(722): Elementor\Widget_Base->render_content()
+#3 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(450): Elementor\Widget_Base->print_content()
+#4 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(744): Elementor\Element_Base->print_element()
+#5 /home/dr6wz5k775ei/public_htm in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php on line 1407
+[02-Nov-2021 07:01:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function educavo_custom_excerpt() in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php:1407
+Stack trace:
+#0 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/controls-stack.php(2154): Rsaddon_Elementor_Pro_Learndash_Course_Grid_Widget->render()
+#1 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(581): Elementor\Controls_Stack->render_by_mode()
+#2 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(722): Elementor\Widget_Base->render_content()
+#3 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(450): Elementor\Widget_Base->print_content()
+#4 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(744): Elementor\Element_Base->print_element()
+#5 /home/dr6wz5k775ei/public_htm in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php on line 1407
+[02-Nov-2021 07:01:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function educavo_custom_excerpt() in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php:1407
+Stack trace:
+#0 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/controls-stack.php(2154): Rsaddon_Elementor_Pro_Learndash_Course_Grid_Widget->render()
+#1 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(581): Elementor\Controls_Stack->render_by_mode()
+#2 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(722): Elementor\Widget_Base->render_content()
+#3 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(450): Elementor\Widget_Base->print_content()
+#4 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(744): Elementor\Element_Base->print_element()
+#5 /home/dr6wz5k775ei/public_htm in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php on line 1407
+[02-Nov-2021 07:13:51 UTC] attributes<pre>Array
+(
+    [course_id] => 
+    [user_id] => 
+    [preview_show] => 1
+    [example_show] => 1
+)
+</pre>
+[02-Nov-2021 07:21:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function educavo_custom_excerpt() in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php:1407
+Stack trace:
+#0 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/controls-stack.php(2154): Rsaddon_Elementor_Pro_Learndash_Course_Grid_Widget->render()
+#1 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(581): Elementor\Controls_Stack->render_by_mode()
+#2 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(722): Elementor\Widget_Base->render_content()
+#3 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(450): Elementor\Widget_Base->print_content()
+#4 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(744): Elementor\Element_Base->print_element()
+#5 /home/dr6wz5k775ei/public_htm in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php on line 1407
+[02-Nov-2021 07:23:46 UTC] PHP Warning:  array_merge(): Expected parameter 1 to be an array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[02-Nov-2021 07:23:46 UTC] PHP Warning:  array_map(): Expected parameter 2 to be an array, null given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[02-Nov-2021 07:23:46 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 94
+[02-Nov-2021 07:23:46 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 117
+[02-Nov-2021 07:23:47 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[02-Nov-2021 07:23:47 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[02-Nov-2021 07:23:47 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[02-Nov-2021 07:23:47 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[02-Nov-2021 07:23:47 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[02-Nov-2021 07:23:47 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[02-Nov-2021 07:23:47 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[02-Nov-2021 07:23:49 UTC] PHP Warning:  array_merge(): Expected parameter 1 to be an array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[02-Nov-2021 07:23:49 UTC] PHP Warning:  array_map(): Expected parameter 2 to be an array, null given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[02-Nov-2021 07:23:49 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 94
+[02-Nov-2021 07:23:49 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 117
+[02-Nov-2021 07:23:49 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[02-Nov-2021 07:23:49 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[02-Nov-2021 07:23:49 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[02-Nov-2021 07:23:49 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[02-Nov-2021 07:23:49 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[02-Nov-2021 07:23:53 UTC] PHP Warning:  array_merge(): Expected parameter 1 to be an array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[02-Nov-2021 07:23:53 UTC] PHP Warning:  array_map(): Expected parameter 2 to be an array, null given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[02-Nov-2021 07:23:53 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 94
+[02-Nov-2021 07:23:53 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 117
+[02-Nov-2021 07:25:57 UTC] PHP Warning:  array_merge(): Expected parameter 1 to be an array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[02-Nov-2021 07:25:57 UTC] PHP Warning:  array_map(): Expected parameter 2 to be an array, null given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[02-Nov-2021 07:25:57 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 94
+[02-Nov-2021 07:25:57 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 117
+[02-Nov-2021 07:25:57 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[02-Nov-2021 07:25:57 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[02-Nov-2021 07:25:57 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[02-Nov-2021 07:25:57 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[02-Nov-2021 07:25:57 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[02-Nov-2021 07:25:57 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[02-Nov-2021 07:25:57 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[02-Nov-2021 07:26:00 UTC] PHP Warning:  array_merge(): Expected parameter 1 to be an array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[02-Nov-2021 07:26:00 UTC] PHP Warning:  array_map(): Expected parameter 2 to be an array, null given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[02-Nov-2021 07:26:00 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 94
+[02-Nov-2021 07:26:00 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 117
+[02-Nov-2021 07:26:00 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[02-Nov-2021 07:26:00 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[02-Nov-2021 07:26:00 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[02-Nov-2021 07:26:00 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[02-Nov-2021 07:26:00 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[02-Nov-2021 07:26:29 UTC] PHP Warning:  array_merge(): Expected parameter 1 to be an array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[02-Nov-2021 07:26:29 UTC] PHP Warning:  array_map(): Expected parameter 2 to be an array, null given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[02-Nov-2021 07:26:29 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 94
+[02-Nov-2021 07:26:29 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 117
+[02-Nov-2021 07:28:01 UTC] PHP Warning:  array_merge(): Expected parameter 1 to be an array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[02-Nov-2021 07:28:01 UTC] PHP Warning:  array_map(): Expected parameter 2 to be an array, null given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[02-Nov-2021 07:28:01 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 94
+[02-Nov-2021 07:28:01 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 117
+[02-Nov-2021 07:29:07 UTC] PHP Warning:  array_merge(): Expected parameter 1 to be an array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[02-Nov-2021 07:29:07 UTC] PHP Warning:  array_map(): Expected parameter 2 to be an array, null given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[02-Nov-2021 07:29:07 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 94
+[02-Nov-2021 07:29:07 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 117
+[02-Nov-2021 07:31:00 UTC] PHP Warning:  array_merge(): Expected parameter 1 to be an array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[02-Nov-2021 07:31:00 UTC] PHP Warning:  array_map(): Expected parameter 2 to be an array, null given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[02-Nov-2021 07:31:00 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 94
+[02-Nov-2021 07:31:00 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 117
+[02-Nov-2021 07:31:00 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[02-Nov-2021 07:31:00 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[02-Nov-2021 07:31:00 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[02-Nov-2021 07:31:00 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[02-Nov-2021 07:31:00 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[02-Nov-2021 07:31:00 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[02-Nov-2021 07:31:00 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[02-Nov-2021 07:31:02 UTC] PHP Warning:  array_merge(): Expected parameter 1 to be an array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[02-Nov-2021 07:31:03 UTC] PHP Warning:  array_map(): Expected parameter 2 to be an array, null given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[02-Nov-2021 07:31:03 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 94
+[02-Nov-2021 07:31:03 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 117
+[02-Nov-2021 07:31:03 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[02-Nov-2021 07:31:03 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[02-Nov-2021 07:31:03 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[02-Nov-2021 07:31:03 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[02-Nov-2021 07:31:03 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[02-Nov-2021 07:31:09 UTC] PHP Warning:  array_merge(): Expected parameter 1 to be an array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[02-Nov-2021 07:31:09 UTC] PHP Warning:  array_map(): Expected parameter 2 to be an array, null given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[02-Nov-2021 07:31:09 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 94
+[02-Nov-2021 07:31:09 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 117
+[02-Nov-2021 07:31:09 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[02-Nov-2021 07:31:09 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[02-Nov-2021 07:31:09 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[02-Nov-2021 07:31:09 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[02-Nov-2021 07:31:09 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[02-Nov-2021 07:31:54 UTC] PHP Warning:  array_merge(): Expected parameter 1 to be an array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[02-Nov-2021 07:31:54 UTC] PHP Warning:  array_map(): Expected parameter 2 to be an array, null given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[02-Nov-2021 07:31:54 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 94
+[02-Nov-2021 07:31:54 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 117
+[02-Nov-2021 07:31:54 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[02-Nov-2021 07:31:54 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[02-Nov-2021 07:31:54 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[02-Nov-2021 07:31:54 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[02-Nov-2021 07:31:54 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[02-Nov-2021 07:34:21 UTC] PHP Warning:  array_merge(): Expected parameter 1 to be an array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[02-Nov-2021 07:34:21 UTC] PHP Warning:  array_map(): Expected parameter 2 to be an array, null given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[02-Nov-2021 07:34:21 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 94
+[02-Nov-2021 07:34:21 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 117
+[02-Nov-2021 07:34:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[02-Nov-2021 07:34:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[02-Nov-2021 07:34:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[02-Nov-2021 07:34:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[02-Nov-2021 07:34:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[02-Nov-2021 07:34:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[02-Nov-2021 07:34:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[02-Nov-2021 07:34:24 UTC] PHP Warning:  array_merge(): Expected parameter 1 to be an array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[02-Nov-2021 07:34:24 UTC] PHP Warning:  array_map(): Expected parameter 2 to be an array, null given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[02-Nov-2021 07:34:24 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 94
+[02-Nov-2021 07:34:24 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 117
+[02-Nov-2021 07:34:24 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[02-Nov-2021 07:34:24 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[02-Nov-2021 07:34:24 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[02-Nov-2021 07:34:24 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[02-Nov-2021 07:34:24 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[02-Nov-2021 07:34:24 UTC] PHP Warning:  array_merge(): Expected parameter 1 to be an array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[02-Nov-2021 07:34:24 UTC] PHP Warning:  array_map(): Expected parameter 2 to be an array, null given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[02-Nov-2021 07:34:24 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 94
+[02-Nov-2021 07:34:24 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 117
+[02-Nov-2021 07:34:24 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[02-Nov-2021 07:34:24 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[02-Nov-2021 07:34:24 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[02-Nov-2021 07:34:24 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[02-Nov-2021 07:34:24 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[02-Nov-2021 07:34:33 UTC] PHP Warning:  array_merge(): Expected parameter 1 to be an array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[02-Nov-2021 07:34:33 UTC] PHP Warning:  array_map(): Expected parameter 2 to be an array, null given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[02-Nov-2021 07:34:33 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 94
+[02-Nov-2021 07:34:33 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 117
+[02-Nov-2021 07:34:33 UTC] PHP Warning:  array_merge(): Expected parameter 1 to be an array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[02-Nov-2021 07:34:33 UTC] PHP Warning:  array_map(): Expected parameter 2 to be an array, null given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[02-Nov-2021 07:34:33 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 94
+[02-Nov-2021 07:34:33 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 117
+[02-Nov-2021 07:34:37 UTC] PHP Warning:  array_merge(): Expected parameter 1 to be an array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[02-Nov-2021 07:34:37 UTC] PHP Warning:  array_map(): Expected parameter 2 to be an array, null given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[02-Nov-2021 07:34:37 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 94
+[02-Nov-2021 07:34:37 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 117
+[02-Nov-2021 07:34:37 UTC] PHP Warning:  array_merge(): Expected parameter 1 to be an array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[02-Nov-2021 07:34:37 UTC] PHP Warning:  array_map(): Expected parameter 2 to be an array, null given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[02-Nov-2021 07:34:37 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 94
+[02-Nov-2021 07:34:37 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 117
+[02-Nov-2021 07:35:04 UTC] PHP Warning:  array_merge(): Expected parameter 1 to be an array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[02-Nov-2021 07:35:04 UTC] PHP Warning:  array_map(): Expected parameter 2 to be an array, null given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[02-Nov-2021 07:35:04 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 94
+[02-Nov-2021 07:35:04 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 117
+[02-Nov-2021 07:35:04 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[02-Nov-2021 07:35:04 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[02-Nov-2021 07:35:04 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[02-Nov-2021 07:35:04 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[02-Nov-2021 07:35:04 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[02-Nov-2021 07:35:04 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[02-Nov-2021 07:35:04 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[02-Nov-2021 07:35:06 UTC] PHP Warning:  array_merge(): Expected parameter 1 to be an array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[02-Nov-2021 07:35:06 UTC] PHP Warning:  array_map(): Expected parameter 2 to be an array, null given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[02-Nov-2021 07:35:06 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 94
+[02-Nov-2021 07:35:06 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 117
+[02-Nov-2021 07:35:06 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[02-Nov-2021 07:35:06 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[02-Nov-2021 07:35:06 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[02-Nov-2021 07:35:06 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[02-Nov-2021 07:35:06 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[02-Nov-2021 07:49:50 UTC] PHP Warning:  array_merge(): Expected parameter 1 to be an array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[02-Nov-2021 07:49:50 UTC] PHP Warning:  array_map(): Expected parameter 2 to be an array, null given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[02-Nov-2021 07:49:50 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 94
+[02-Nov-2021 07:49:50 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 117
+[02-Nov-2021 07:53:36 UTC] PHP Warning:  array_merge(): Expected parameter 1 to be an array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[02-Nov-2021 07:53:36 UTC] PHP Warning:  array_map(): Expected parameter 2 to be an array, null given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[02-Nov-2021 07:53:36 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 94
+[02-Nov-2021 07:53:36 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 117
+[02-Nov-2021 07:59:34 UTC] PHP Warning:  array_merge(): Expected parameter 1 to be an array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[02-Nov-2021 07:59:34 UTC] PHP Warning:  array_map(): Expected parameter 2 to be an array, null given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[02-Nov-2021 07:59:34 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 94
+[02-Nov-2021 07:59:34 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 117
+[02-Nov-2021 08:00:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function educavo_custom_excerpt() in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php:1407
+Stack trace:
+#0 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/controls-stack.php(2154): Rsaddon_Elementor_Pro_Learndash_Course_Grid_Widget->render()
+#1 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(581): Elementor\Controls_Stack->render_by_mode()
+#2 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(722): Elementor\Widget_Base->render_content()
+#3 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(450): Elementor\Widget_Base->print_content()
+#4 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(744): Elementor\Element_Base->print_element()
+#5 /home/dr6wz5k775ei/public_htm in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php on line 1407
+[02-Nov-2021 08:05:04 UTC] PHP Warning:  array_merge(): Expected parameter 1 to be an array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[02-Nov-2021 08:05:04 UTC] PHP Warning:  array_map(): Expected parameter 2 to be an array, null given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[02-Nov-2021 08:05:04 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 94
+[02-Nov-2021 08:05:04 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 117
+[02-Nov-2021 08:05:13 UTC] PHP Warning:  array_merge(): Expected parameter 1 to be an array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[02-Nov-2021 08:05:13 UTC] PHP Warning:  array_map(): Expected parameter 2 to be an array, null given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[02-Nov-2021 08:05:13 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 94
+[02-Nov-2021 08:05:13 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 117
+[02-Nov-2021 08:05:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function educavo_custom_excerpt() in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php:1407
+Stack trace:
+#0 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/controls-stack.php(2154): Rsaddon_Elementor_Pro_Learndash_Course_Grid_Widget->render()
+#1 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(581): Elementor\Controls_Stack->render_by_mode()
+#2 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(722): Elementor\Widget_Base->render_content()
+#3 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(450): Elementor\Widget_Base->print_content()
+#4 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(744): Elementor\Element_Base->print_element()
+#5 /home/dr6wz5k775ei/public_htm in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php on line 1407
+[02-Nov-2021 08:05:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function educavo_custom_excerpt() in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php:1407
+Stack trace:
+#0 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/controls-stack.php(2154): Rsaddon_Elementor_Pro_Learndash_Course_Grid_Widget->render()
+#1 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(581): Elementor\Controls_Stack->render_by_mode()
+#2 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(722): Elementor\Widget_Base->render_content()
+#3 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(450): Elementor\Widget_Base->print_content()
+#4 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(744): Elementor\Element_Base->print_element()
+#5 /home/dr6wz5k775ei/public_htm in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php on line 1407
+[02-Nov-2021 08:07:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function educavo_custom_excerpt() in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php:1407
+Stack trace:
+#0 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/controls-stack.php(2154): Rsaddon_Elementor_Pro_Learndash_Course_Grid_Widget->render()
+#1 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(581): Elementor\Controls_Stack->render_by_mode()
+#2 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(722): Elementor\Widget_Base->render_content()
+#3 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(450): Elementor\Widget_Base->print_content()
+#4 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(744): Elementor\Element_Base->print_element()
+#5 /home/dr6wz5k775ei/public_htm in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php on line 1407
+[02-Nov-2021 09:53:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function educavo_custom_excerpt() in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php:1407
+Stack trace:
+#0 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/controls-stack.php(2154): Rsaddon_Elementor_Pro_Learndash_Course_Grid_Widget->render()
+#1 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(581): Elementor\Controls_Stack->render_by_mode()
+#2 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(722): Elementor\Widget_Base->render_content()
+#3 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(450): Elementor\Widget_Base->print_content()
+#4 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(744): Elementor\Element_Base->print_element()
+#5 /home/dr6wz5k775ei/public_htm in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php on line 1407
+[02-Nov-2021 10:23:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function educavo_custom_excerpt() in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php:1407
+Stack trace:
+#0 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/controls-stack.php(2154): Rsaddon_Elementor_Pro_Learndash_Course_Grid_Widget->render()
+#1 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(581): Elementor\Controls_Stack->render_by_mode()
+#2 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(722): Elementor\Widget_Base->render_content()
+#3 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(450): Elementor\Widget_Base->print_content()
+#4 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(744): Elementor\Element_Base->print_element()
+#5 /home/dr6wz5k775ei/public_htm in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php on line 1407
+[02-Nov-2021 10:25:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function educavo_custom_excerpt() in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php:1407
+Stack trace:
+#0 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/controls-stack.php(2154): Rsaddon_Elementor_Pro_Learndash_Course_Grid_Widget->render()
+#1 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(581): Elementor\Controls_Stack->render_by_mode()
+#2 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(722): Elementor\Widget_Base->render_content()
+#3 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(450): Elementor\Widget_Base->print_content()
+#4 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(744): Elementor\Element_Base->print_element()
+#5 /home/dr6wz5k775ei/public_htm in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php on line 1407
+[02-Nov-2021 11:52:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function educavo_custom_excerpt() in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php:1407
+Stack trace:
+#0 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/controls-stack.php(2154): Rsaddon_Elementor_Pro_Learndash_Course_Grid_Widget->render()
+#1 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(581): Elementor\Controls_Stack->render_by_mode()
+#2 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(722): Elementor\Widget_Base->render_content()
+#3 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(450): Elementor\Widget_Base->print_content()
+#4 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(744): Elementor\Element_Base->print_element()
+#5 /home/dr6wz5k775ei/public_htm in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php on line 1407
+[02-Nov-2021 11:54:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function educavo_custom_excerpt() in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php:1407
+Stack trace:
+#0 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/controls-stack.php(2154): Rsaddon_Elementor_Pro_Learndash_Course_Grid_Widget->render()
+#1 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(581): Elementor\Controls_Stack->render_by_mode()
+#2 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(722): Elementor\Widget_Base->render_content()
+#3 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(450): Elementor\Widget_Base->print_content()
+#4 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(744): Elementor\Element_Base->print_element()
+#5 /home/dr6wz5k775ei/public_htm in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php on line 1407
+[02-Nov-2021 16:45:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function educavo_custom_excerpt() in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php:1407
+Stack trace:
+#0 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/controls-stack.php(2154): Rsaddon_Elementor_Pro_Learndash_Course_Grid_Widget->render()
+#1 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(581): Elementor\Controls_Stack->render_by_mode()
+#2 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(722): Elementor\Widget_Base->render_content()
+#3 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(450): Elementor\Widget_Base->print_content()
+#4 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(744): Elementor\Element_Base->print_element()
+#5 /home/dr6wz5k775ei/public_htm in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php on line 1407
+[02-Nov-2021 16:53:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function educavo_custom_excerpt() in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php:1407
+Stack trace:
+#0 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/controls-stack.php(2154): Rsaddon_Elementor_Pro_Learndash_Course_Grid_Widget->render()
+#1 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(581): Elementor\Controls_Stack->render_by_mode()
+#2 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(722): Elementor\Widget_Base->render_content()
+#3 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(450): Elementor\Widget_Base->print_content()
+#4 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(744): Elementor\Element_Base->print_element()
+#5 /home/dr6wz5k775ei/public_htm in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php on line 1407
+[03-Nov-2021 04:12:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function educavo_custom_excerpt() in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php:1407
+Stack trace:
+#0 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/controls-stack.php(2154): Rsaddon_Elementor_Pro_Learndash_Course_Grid_Widget->render()
+#1 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(581): Elementor\Controls_Stack->render_by_mode()
+#2 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(722): Elementor\Widget_Base->render_content()
+#3 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(450): Elementor\Widget_Base->print_content()
+#4 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(744): Elementor\Element_Base->print_element()
+#5 /home/dr6wz5k775ei/public_htm in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php on line 1407
+[03-Nov-2021 04:12:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function educavo_custom_excerpt() in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php:1407
+Stack trace:
+#0 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/controls-stack.php(2154): Rsaddon_Elementor_Pro_Learndash_Course_Grid_Widget->render()
+#1 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(581): Elementor\Controls_Stack->render_by_mode()
+#2 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(722): Elementor\Widget_Base->render_content()
+#3 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(450): Elementor\Widget_Base->print_content()
+#4 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(744): Elementor\Element_Base->print_element()
+#5 /home/dr6wz5k775ei/public_htm in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php on line 1407
+[03-Nov-2021 04:48:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function educavo_custom_excerpt() in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php:1407
+Stack trace:
+#0 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/controls-stack.php(2154): Rsaddon_Elementor_Pro_Learndash_Course_Grid_Widget->render()
+#1 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(581): Elementor\Controls_Stack->render_by_mode()
+#2 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(722): Elementor\Widget_Base->render_content()
+#3 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(450): Elementor\Widget_Base->print_content()
+#4 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(744): Elementor\Element_Base->print_element()
+#5 /home/dr6wz5k775ei/public_htm in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php on line 1407
+[03-Nov-2021 04:51:08 UTC] PHP Warning:  array_merge(): Expected parameter 1 to be an array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[03-Nov-2021 04:51:08 UTC] PHP Warning:  array_map(): Expected parameter 2 to be an array, null given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[03-Nov-2021 04:51:08 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 94
+[03-Nov-2021 04:51:08 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 117
+[03-Nov-2021 05:07:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function educavo_custom_excerpt() in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php:1407
+Stack trace:
+#0 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/controls-stack.php(2154): Rsaddon_Elementor_Pro_Learndash_Course_Grid_Widget->render()
+#1 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(581): Elementor\Controls_Stack->render_by_mode()
+#2 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(722): Elementor\Widget_Base->render_content()
+#3 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(450): Elementor\Widget_Base->print_content()
+#4 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(744): Elementor\Element_Base->print_element()
+#5 /home/dr6wz5k775ei/public_htm in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php on line 1407
+[03-Nov-2021 05:27:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function educavo_custom_excerpt() in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php:1407
+Stack trace:
+#0 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/controls-stack.php(2154): Rsaddon_Elementor_Pro_Learndash_Course_Grid_Widget->render()
+#1 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(581): Elementor\Controls_Stack->render_by_mode()
+#2 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(722): Elementor\Widget_Base->render_content()
+#3 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(450): Elementor\Widget_Base->print_content()
+#4 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(744): Elementor\Element_Base->print_element()
+#5 /home/dr6wz5k775ei/public_htm in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php on line 1407
+[03-Nov-2021 05:29:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function educavo_custom_excerpt() in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php:1407
+Stack trace:
+#0 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/controls-stack.php(2154): Rsaddon_Elementor_Pro_Learndash_Course_Grid_Widget->render()
+#1 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(581): Elementor\Controls_Stack->render_by_mode()
+#2 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(722): Elementor\Widget_Base->render_content()
+#3 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(450): Elementor\Widget_Base->print_content()
+#4 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(744): Elementor\Element_Base->print_element()
+#5 /home/dr6wz5k775ei/public_htm in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php on line 1407
+[03-Nov-2021 05:46:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function educavo_custom_excerpt() in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php:1407
+Stack trace:
+#0 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/controls-stack.php(2154): Rsaddon_Elementor_Pro_Learndash_Course_Grid_Widget->render()
+#1 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(581): Elementor\Controls_Stack->render_by_mode()
+#2 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(722): Elementor\Widget_Base->render_content()
+#3 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(450): Elementor\Widget_Base->print_content()
+#4 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(744): Elementor\Element_Base->print_element()
+#5 /home/dr6wz5k775ei/public_htm in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php on line 1407
+[03-Nov-2021 05:47:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function educavo_custom_excerpt() in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php:1407
+Stack trace:
+#0 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/controls-stack.php(2154): Rsaddon_Elementor_Pro_Learndash_Course_Grid_Widget->render()
+#1 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(581): Elementor\Controls_Stack->render_by_mode()
+#2 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(722): Elementor\Widget_Base->render_content()
+#3 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(450): Elementor\Widget_Base->print_content()
+#4 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(744): Elementor\Element_Base->print_element()
+#5 /home/dr6wz5k775ei/public_htm in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php on line 1407
+[03-Nov-2021 05:48:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function educavo_custom_excerpt() in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php:1407
+Stack trace:
+#0 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/controls-stack.php(2154): Rsaddon_Elementor_Pro_Learndash_Course_Grid_Widget->render()
+#1 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(581): Elementor\Controls_Stack->render_by_mode()
+#2 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(722): Elementor\Widget_Base->render_content()
+#3 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(450): Elementor\Widget_Base->print_content()
+#4 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(744): Elementor\Element_Base->print_element()
+#5 /home/dr6wz5k775ei/public_htm in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php on line 1407
+[03-Nov-2021 06:08:57 UTC] PHP Warning:  array_merge(): Expected parameter 1 to be an array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[03-Nov-2021 06:08:57 UTC] PHP Warning:  array_map(): Expected parameter 2 to be an array, null given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[03-Nov-2021 06:08:57 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 94
+[03-Nov-2021 06:08:57 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 117
+[03-Nov-2021 06:12:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function educavo_custom_excerpt() in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php:1407
+Stack trace:
+#0 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/controls-stack.php(2154): Rsaddon_Elementor_Pro_Learndash_Course_Grid_Widget->render()
+#1 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(581): Elementor\Controls_Stack->render_by_mode()
+#2 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(722): Elementor\Widget_Base->render_content()
+#3 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(450): Elementor\Widget_Base->print_content()
+#4 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(744): Elementor\Element_Base->print_element()
+#5 /home/dr6wz5k775ei/public_htm in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php on line 1407
+[03-Nov-2021 06:12:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function educavo_custom_excerpt() in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php:1407
+Stack trace:
+#0 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/controls-stack.php(2154): Rsaddon_Elementor_Pro_Learndash_Course_Grid_Widget->render()
+#1 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(581): Elementor\Controls_Stack->render_by_mode()
+#2 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/widget-base.php(722): Elementor\Widget_Base->render_content()
+#3 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(450): Elementor\Widget_Base->print_content()
+#4 /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor/includes/base/element-base.php(744): Elementor\Element_Base->print_element()
+#5 /home/dr6wz5k775ei/public_htm in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/rselements/widgets/course-grid/learndash-course-grid.php on line 1407
+[03-Nov-2021 07:41:40 UTC] PHP Warning:  array_merge(): Expected parameter 1 to be an array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[03-Nov-2021 07:41:40 UTC] PHP Warning:  array_map(): Expected parameter 2 to be an array, null given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[03-Nov-2021 07:41:40 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 94
+[03-Nov-2021 07:41:40 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 117
+[03-Nov-2021 08:32:31 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[03-Nov-2021 08:32:31 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[03-Nov-2021 08:32:31 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[03-Nov-2021 08:32:31 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[03-Nov-2021 08:32:31 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[03-Nov-2021 08:32:31 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[03-Nov-2021 08:32:31 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[03-Nov-2021 08:32:31 UTC] PHP Warning:  array_merge(): Expected parameter 1 to be an array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[03-Nov-2021 08:32:31 UTC] PHP Warning:  array_map(): Expected parameter 2 to be an array, null given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[03-Nov-2021 08:32:31 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 94
+[03-Nov-2021 08:32:31 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 117
+[03-Nov-2021 08:32:56 UTC] PHP Warning:  array_merge(): Expected parameter 1 to be an array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[03-Nov-2021 08:32:56 UTC] PHP Warning:  array_map(): Expected parameter 2 to be an array, null given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[03-Nov-2021 08:32:56 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 94
+[03-Nov-2021 08:32:56 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 117
+[03-Nov-2021 08:32:56 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[03-Nov-2021 08:32:56 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[03-Nov-2021 08:32:56 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[03-Nov-2021 08:32:56 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[03-Nov-2021 08:32:56 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[03-Nov-2021 08:33:56 UTC] PHP Warning:  array_merge(): Expected parameter 1 to be an array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[03-Nov-2021 08:33:56 UTC] PHP Warning:  array_map(): Expected parameter 2 to be an array, null given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[03-Nov-2021 08:33:56 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 94
+[03-Nov-2021 08:33:56 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 117
+[03-Nov-2021 08:33:57 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[03-Nov-2021 08:33:57 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[03-Nov-2021 08:33:57 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[03-Nov-2021 08:33:57 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[03-Nov-2021 08:33:57 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[03-Nov-2021 08:33:59 UTC] PHP Warning:  array_merge(): Expected parameter 1 to be an array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[03-Nov-2021 08:33:59 UTC] PHP Warning:  array_map(): Expected parameter 2 to be an array, null given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[03-Nov-2021 08:33:59 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 94
+[03-Nov-2021 08:33:59 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 117
+[03-Nov-2021 08:33:59 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[03-Nov-2021 08:33:59 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[03-Nov-2021 08:33:59 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[03-Nov-2021 08:33:59 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[03-Nov-2021 08:33:59 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[03-Nov-2021 08:34:21 UTC] PHP Warning:  array_merge(): Expected parameter 1 to be an array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[03-Nov-2021 08:34:21 UTC] PHP Warning:  array_map(): Expected parameter 2 to be an array, null given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[03-Nov-2021 08:34:21 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 94
+[03-Nov-2021 08:34:21 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 117
+[03-Nov-2021 08:34:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[03-Nov-2021 08:34:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[03-Nov-2021 08:34:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[03-Nov-2021 08:34:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[03-Nov-2021 08:34:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[03-Nov-2021 11:34:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[03-Nov-2021 11:34:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[03-Nov-2021 11:34:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[03-Nov-2021 11:34:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[03-Nov-2021 11:34:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[03-Nov-2021 11:34:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[03-Nov-2021 11:34:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[03-Nov-2021 11:34:22 UTC] PHP Warning:  array_merge(): Expected parameter 1 to be an array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[03-Nov-2021 11:34:22 UTC] PHP Warning:  array_map(): Expected parameter 2 to be an array, null given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[03-Nov-2021 11:34:22 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 94
+[03-Nov-2021 11:34:22 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 117
+[03-Nov-2021 11:47:14 UTC] PHP Warning:  array_merge(): Expected parameter 1 to be an array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[03-Nov-2021 11:47:14 UTC] PHP Warning:  array_map(): Expected parameter 2 to be an array, null given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[03-Nov-2021 11:47:14 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 94
+[03-Nov-2021 11:47:14 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 117
+[03-Nov-2021 11:47:14 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[03-Nov-2021 11:47:14 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[03-Nov-2021 11:47:14 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[03-Nov-2021 11:47:14 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[03-Nov-2021 11:47:14 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[03-Nov-2021 11:47:18 UTC] PHP Warning:  array_merge(): Expected parameter 1 to be an array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[03-Nov-2021 11:47:18 UTC] PHP Warning:  array_map(): Expected parameter 2 to be an array, null given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[03-Nov-2021 11:47:18 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 94
+[03-Nov-2021 11:47:18 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 117
+[03-Nov-2021 11:47:18 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[03-Nov-2021 11:47:18 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[03-Nov-2021 11:47:18 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[03-Nov-2021 11:47:18 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[03-Nov-2021 11:47:18 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[03-Nov-2021 11:47:53 UTC] PHP Warning:  array_merge(): Expected parameter 1 to be an array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[03-Nov-2021 11:47:53 UTC] PHP Warning:  array_map(): Expected parameter 2 to be an array, null given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[03-Nov-2021 11:47:53 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 94
+[03-Nov-2021 11:47:53 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 117
+[03-Nov-2021 11:47:53 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[03-Nov-2021 11:47:53 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[03-Nov-2021 11:47:53 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[03-Nov-2021 11:47:53 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[03-Nov-2021 11:47:53 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[03-Nov-2021 11:47:53 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[03-Nov-2021 11:47:53 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[03-Nov-2021 11:47:57 UTC] PHP Warning:  array_merge(): Expected parameter 1 to be an array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[03-Nov-2021 11:47:57 UTC] PHP Warning:  array_map(): Expected parameter 2 to be an array, null given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[03-Nov-2021 11:47:57 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 94
+[03-Nov-2021 11:47:57 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 117
+[03-Nov-2021 11:47:57 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[03-Nov-2021 11:47:57 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[03-Nov-2021 11:47:57 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[03-Nov-2021 11:47:57 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[03-Nov-2021 11:47:57 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[03-Nov-2021 11:47:57 UTC] PHP Warning:  array_merge(): Expected parameter 1 to be an array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[03-Nov-2021 11:47:57 UTC] PHP Warning:  array_map(): Expected parameter 2 to be an array, null given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[03-Nov-2021 11:47:57 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 94
+[03-Nov-2021 11:47:57 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 117
+[03-Nov-2021 11:47:57 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[03-Nov-2021 11:47:57 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[03-Nov-2021 11:47:57 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[03-Nov-2021 11:47:57 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[03-Nov-2021 11:47:57 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[03-Nov-2021 11:48:19 UTC] PHP Warning:  array_merge(): Expected parameter 1 to be an array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[03-Nov-2021 11:48:19 UTC] PHP Warning:  array_map(): Expected parameter 2 to be an array, null given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[03-Nov-2021 11:48:19 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 94
+[03-Nov-2021 11:48:19 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 117
+[03-Nov-2021 11:48:19 UTC] PHP Warning:  array_merge(): Expected parameter 1 to be an array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[03-Nov-2021 11:48:19 UTC] PHP Warning:  array_map(): Expected parameter 2 to be an array, null given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[03-Nov-2021 11:48:19 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 94
+[03-Nov-2021 11:48:19 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 117
+[03-Nov-2021 11:48:23 UTC] PHP Warning:  array_merge(): Expected parameter 1 to be an array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[03-Nov-2021 11:48:23 UTC] PHP Warning:  array_map(): Expected parameter 2 to be an array, null given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[03-Nov-2021 11:48:23 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 94
+[03-Nov-2021 11:48:23 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 117
+[03-Nov-2021 11:48:23 UTC] PHP Warning:  array_merge(): Expected parameter 1 to be an array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[03-Nov-2021 11:48:23 UTC] PHP Warning:  array_map(): Expected parameter 2 to be an array, null given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[03-Nov-2021 11:48:23 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 94
+[03-Nov-2021 11:48:23 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 117
+[03-Nov-2021 11:48:40 UTC] PHP Warning:  array_merge(): Expected parameter 1 to be an array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[03-Nov-2021 11:48:40 UTC] PHP Warning:  array_map(): Expected parameter 2 to be an array, null given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[03-Nov-2021 11:48:40 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 94
+[03-Nov-2021 11:48:40 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 117
+[03-Nov-2021 11:48:40 UTC] PHP Warning:  array_merge(): Expected parameter 1 to be an array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[03-Nov-2021 11:48:40 UTC] PHP Warning:  array_map(): Expected parameter 2 to be an array, null given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[03-Nov-2021 11:48:40 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 94
+[03-Nov-2021 11:48:40 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 117
+[03-Nov-2021 11:48:49 UTC] PHP Warning:  array_merge(): Expected parameter 1 to be an array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[03-Nov-2021 11:48:49 UTC] PHP Warning:  array_map(): Expected parameter 2 to be an array, null given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[03-Nov-2021 11:48:49 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 94
+[03-Nov-2021 11:48:49 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 117
+[03-Nov-2021 11:48:49 UTC] PHP Warning:  array_merge(): Expected parameter 1 to be an array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[03-Nov-2021 11:48:49 UTC] PHP Warning:  array_map(): Expected parameter 2 to be an array, null given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[03-Nov-2021 11:48:49 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 94
+[03-Nov-2021 11:48:49 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 117
+[03-Nov-2021 11:49:35 UTC] PHP Warning:  array_merge(): Expected parameter 1 to be an array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[03-Nov-2021 11:49:35 UTC] PHP Warning:  array_map(): Expected parameter 2 to be an array, null given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[03-Nov-2021 11:49:35 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 94
+[03-Nov-2021 11:49:35 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 117
+[03-Nov-2021 11:49:35 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[03-Nov-2021 11:49:35 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[03-Nov-2021 11:49:35 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[03-Nov-2021 11:49:35 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[03-Nov-2021 11:49:35 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[03-Nov-2021 11:49:35 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[03-Nov-2021 11:49:35 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[03-Nov-2021 11:49:37 UTC] PHP Warning:  array_merge(): Expected parameter 1 to be an array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[03-Nov-2021 11:49:37 UTC] PHP Warning:  array_map(): Expected parameter 2 to be an array, null given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[03-Nov-2021 11:49:37 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 94
+[03-Nov-2021 11:49:37 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 117
+[03-Nov-2021 11:49:37 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[03-Nov-2021 11:49:37 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[03-Nov-2021 11:49:37 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[03-Nov-2021 11:49:37 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[03-Nov-2021 11:49:37 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[03-Nov-2021 11:49:50 UTC] PHP Warning:  array_merge(): Expected parameter 1 to be an array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[03-Nov-2021 11:49:50 UTC] PHP Warning:  array_map(): Expected parameter 2 to be an array, null given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[03-Nov-2021 11:49:50 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 94
+[03-Nov-2021 11:49:50 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 117
+[03-Nov-2021 11:54:02 UTC] PHP Warning:  array_merge(): Expected parameter 1 to be an array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[03-Nov-2021 11:54:02 UTC] PHP Warning:  array_map(): Expected parameter 2 to be an array, null given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[03-Nov-2021 11:54:02 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 94
+[03-Nov-2021 11:54:02 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 117
+[03-Nov-2021 11:57:11 UTC] PHP Warning:  array_merge(): Expected parameter 1 to be an array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[03-Nov-2021 11:57:11 UTC] PHP Warning:  array_map(): Expected parameter 2 to be an array, null given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[03-Nov-2021 11:57:11 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 94
+[03-Nov-2021 11:57:11 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 117
+[03-Nov-2021 11:59:17 UTC] PHP Warning:  array_merge(): Expected parameter 1 to be an array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[03-Nov-2021 11:59:17 UTC] PHP Warning:  array_map(): Expected parameter 2 to be an array, null given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[03-Nov-2021 11:59:17 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 94
+[03-Nov-2021 11:59:17 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 117
+[03-Nov-2021 11:59:17 UTC] PHP Warning:  array_merge(): Expected parameter 1 to be an array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[03-Nov-2021 11:59:17 UTC] PHP Warning:  array_map(): Expected parameter 2 to be an array, null given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[03-Nov-2021 11:59:17 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 94
+[03-Nov-2021 11:59:18 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 117
+[03-Nov-2021 13:08:57 UTC] PHP Warning:  array_merge(): Expected parameter 1 to be an array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[03-Nov-2021 13:08:57 UTC] PHP Warning:  array_map(): Expected parameter 2 to be an array, null given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[03-Nov-2021 13:08:57 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 94
+[03-Nov-2021 13:08:57 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 117
+[09-Nov-2021 02:08:42 UTC] PHP Warning:  array_merge(): Expected parameter 1 to be an array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[09-Nov-2021 02:08:42 UTC] PHP Warning:  array_map(): Expected parameter 2 to be an array, null given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[09-Nov-2021 02:08:42 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 94
+[09-Nov-2021 02:08:42 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 117
+[09-Nov-2021 02:08:59 UTC] PHP Warning:  array_merge(): Expected parameter 1 to be an array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[09-Nov-2021 02:08:59 UTC] PHP Warning:  array_map(): Expected parameter 2 to be an array, null given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[09-Nov-2021 02:08:59 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 94
+[09-Nov-2021 02:08:59 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 117
+[10-Nov-2021 14:38:16 UTC] PHP Warning:  array_merge(): Expected parameter 1 to be an array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[10-Nov-2021 14:38:16 UTC] PHP Warning:  array_map(): Expected parameter 2 to be an array, null given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[10-Nov-2021 14:38:16 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 94
+[10-Nov-2021 14:38:16 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 117
+[11-Nov-2021 06:08:01 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[11-Nov-2021 06:08:01 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[11-Nov-2021 06:08:01 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[11-Nov-2021 06:08:01 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[11-Nov-2021 06:08:01 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[11-Nov-2021 06:08:01 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[11-Nov-2021 06:08:01 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[11-Nov-2021 06:08:01 UTC] PHP Warning:  array_merge(): Expected parameter 1 to be an array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[11-Nov-2021 06:08:01 UTC] PHP Warning:  array_map(): Expected parameter 2 to be an array, null given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[11-Nov-2021 06:08:01 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 94
+[11-Nov-2021 06:08:01 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 117
+[11-Nov-2021 06:08:13 UTC] PHP Warning:  array_merge(): Expected parameter 1 to be an array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[11-Nov-2021 06:08:13 UTC] PHP Warning:  array_map(): Expected parameter 2 to be an array, null given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[11-Nov-2021 06:08:13 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 94
+[11-Nov-2021 06:08:13 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 117
+[11-Nov-2021 06:08:13 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[11-Nov-2021 06:08:13 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[11-Nov-2021 06:08:13 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[11-Nov-2021 06:08:13 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[11-Nov-2021 06:08:13 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[11-Nov-2021 06:12:03 UTC] PHP Warning:  array_merge(): Expected parameter 1 to be an array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[11-Nov-2021 06:12:03 UTC] PHP Warning:  array_map(): Expected parameter 2 to be an array, null given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[11-Nov-2021 06:12:03 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 94
+[11-Nov-2021 06:12:03 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 117
+[11-Nov-2021 06:12:03 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[11-Nov-2021 06:12:03 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[11-Nov-2021 06:12:03 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[11-Nov-2021 06:12:03 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[11-Nov-2021 06:12:03 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 195
+[11-Nov-2021 06:21:23 UTC] PHP Warning:  array_merge(): Expected parameter 1 to be an array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[11-Nov-2021 06:21:23 UTC] PHP Warning:  array_map(): Expected parameter 2 to be an array, null given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[11-Nov-2021 06:21:23 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 94
+[11-Nov-2021 06:21:23 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 117
+[11-Nov-2021 06:44:01 UTC] PHP Warning:  array_merge(): Expected parameter 1 to be an array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[11-Nov-2021 06:44:01 UTC] PHP Warning:  array_map(): Expected parameter 2 to be an array, null given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[11-Nov-2021 06:44:01 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 94
+[11-Nov-2021 06:44:01 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 117
+[11-Nov-2021 08:01:19 UTC] PHP Warning:  array_merge(): Expected parameter 1 to be an array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[11-Nov-2021 08:01:19 UTC] PHP Warning:  array_map(): Expected parameter 2 to be an array, null given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[11-Nov-2021 08:01:19 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 94
+[11-Nov-2021 08:01:19 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 117
+[11-Nov-2021 09:34:19 UTC] PHP Warning:  Declaration of ElementorPro\Modules\Posts\Skins\Skin_Content_Base::register_controls(Elementor\Widget_Base $widget) should be compatible with Elementor\Controls_Stack::register_controls() in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor-pro/modules/theme-builder/widgets/post-content.php on line 30
+[11-Nov-2021 09:34:50 UTC] PHP Warning:  Declaration of ElementorPro\Modules\Posts\Skins\Skin_Content_Base::register_controls(Elementor\Widget_Base $widget) should be compatible with Elementor\Controls_Stack::register_controls() in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor-pro/modules/theme-builder/widgets/post-content.php on line 30
+[11-Nov-2021 09:35:28 UTC] PHP Warning:  Declaration of ElementorPro\Modules\Posts\Skins\Skin_Content_Base::register_controls(Elementor\Widget_Base $widget) should be compatible with Elementor\Controls_Stack::register_controls() in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor-pro/modules/theme-builder/widgets/post-content.php on line 30
+[11-Nov-2021 09:35:52 UTC] PHP Warning:  Declaration of ElementorPro\Modules\Posts\Skins\Skin_Content_Base::register_controls(Elementor\Widget_Base $widget) should be compatible with Elementor\Controls_Stack::register_controls() in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor-pro/modules/theme-builder/widgets/post-content.php on line 30
+[11-Nov-2021 09:58:29 UTC] PHP Warning:  Declaration of ElementorPro\Modules\Posts\Skins\Skin_Content_Base::register_controls(Elementor\Widget_Base $widget) should be compatible with Elementor\Controls_Stack::register_controls() in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor-pro/modules/theme-builder/widgets/post-content.php on line 30
+[11-Nov-2021 09:58:54 UTC] PHP Warning:  Declaration of ElementorPro\Modules\Posts\Skins\Skin_Content_Base::register_controls(Elementor\Widget_Base $widget) should be compatible with Elementor\Controls_Stack::register_controls() in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor-pro/modules/theme-builder/widgets/post-content.php on line 30
+[11-Nov-2021 09:58:55 UTC] PHP Warning:  Declaration of ElementorPro\Modules\Posts\Skins\Skin_Content_Base::register_controls(Elementor\Widget_Base $widget) should be compatible with Elementor\Controls_Stack::register_controls() in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor-pro/modules/theme-builder/widgets/post-content.php on line 30
+[11-Nov-2021 09:59:21 UTC] PHP Warning:  Declaration of ElementorPro\Modules\Posts\Skins\Skin_Content_Base::register_controls(Elementor\Widget_Base $widget) should be compatible with Elementor\Controls_Stack::register_controls() in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor-pro/modules/theme-builder/widgets/post-content.php on line 30
+[11-Nov-2021 10:00:27 UTC] PHP Warning:  Declaration of ElementorPro\Modules\Posts\Skins\Skin_Content_Base::register_controls(Elementor\Widget_Base $widget) should be compatible with Elementor\Controls_Stack::register_controls() in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/elementor-pro/modules/theme-builder/widgets/post-content.php on line 30
+[12-Nov-2021 05:36:35 UTC] PHP Warning:  array_merge(): Expected parameter 1 to be an array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[12-Nov-2021 05:36:35 UTC] PHP Warning:  array_map(): Expected parameter 2 to be an array, null given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[12-Nov-2021 05:36:35 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 94
+[12-Nov-2021 05:36:35 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 117
+[12-Nov-2021 20:34:00 UTC] PHP Warning:  array_merge(): Expected parameter 1 to be an array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[12-Nov-2021 20:34:00 UTC] PHP Warning:  array_map(): Expected parameter 2 to be an array, null given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[12-Nov-2021 20:34:00 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 94
+[12-Nov-2021 20:34:00 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 117
+[16-Nov-2021 04:16:04 UTC] PHP Warning:  array_merge(): Expected parameter 1 to be an array, string given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[16-Nov-2021 04:16:04 UTC] PHP Warning:  array_map(): Expected parameter 2 to be an array, null given in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 91
+[16-Nov-2021 04:16:04 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 94
+[16-Nov-2021 04:16:04 UTC] PHP Warning:  join(): Invalid arguments passed in /home/dr6wz5k775ei/public_html/PMnotebooks/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/includes/activity/widgets.php on line 117

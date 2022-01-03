@@ -1,0 +1,282 @@
+#pacman_home h1 { 
+	text-align: center;
+	font-size: 48px;
+}
+#pacman_home h3 { 
+	position: absolute;
+	margin: auto;
+	left: 0px;
+	right: 0px;
+	bottom: 15px;
+	text-align: center;
+}
+#pacman_home h3 em { 
+	font-size: inherit;
+	font-style: inherit;
+	color: #fff200;
+}
+#canvas-home-title-pacman { 
+	background-color: #000;
+	position: absolute;
+	top: 10px;
+	left: 182px;
+	height: 100px;
+	width: 118px;
+}
+#canvas-panel-title-pacman { 
+	background-color: #000;
+	position: absolute;
+	top: 6px;
+	left: 47px;
+	height: 32px;
+	width: 38px;
+}
+
+#pacman_presentation  { 
+	position: absolute;
+	margin: auto;
+	padding: 0px;
+	left: 0px;
+	right: 0px;
+	top: 200px;
+	width: 500px;
+	height: 250px;
+}
+#presentation-titles { 
+	position: absolute;
+	width: 100%;
+	line-height: 35px;
+	letter-spacing: 2px;
+	font-size: 20px;
+	text-transform: uppercase;
+	color: #fff;
+	text-align:center;
+}
+#canvas-presentation-blinky, #canvas-presentation-pinky, #canvas-presentation-inky, #canvas-presentation-clyde { 
+	position: absolute;
+	width: 50px;
+	height: 50px;
+	left: 35px;
+}
+#canvas-presentation-blinky { 
+	top: 40px;
+}
+#canvas-presentation-pinky { 
+	top: 90px;
+}
+#canvas-presentation-inky { 
+	top: 140px;
+}
+#canvas-presentation-clyde { 
+	top: 190px;
+}
+#presentation-character-blinky, #presentation-character-pinky, #presentation-character-inky, #presentation-character-clyde, 
+#presentation-name-blinky, #presentation-name-pinky, #presentation-name-inky, #presentation-name-clyde { 
+	position: absolute;
+	width: 180px;
+	height: 28px;
+	left: 120px;
+	letter-spacing: 2px;
+	font-size: 20px;
+	text-transform: uppercase;
+}
+#presentation-name-blinky, #presentation-name-pinky, #presentation-name-inky, #presentation-name-clyde { 
+	left: 310px;
+	width: 180px;
+}
+#presentation-character-blinky, #presentation-name-blinky { 
+	top: 50px;
+	color: #ed1b24;
+}
+#presentation-character-pinky, #presentation-name-pinky { 
+	top: 100px;
+	color: #feaec9;
+}
+#presentation-character-inky, #presentation-name-inky { 
+	top: 150px;
+	color: #4adecb;
+}
+#presentation-character-clyde, #presentation-name-clyde { 
+	top: 200px;
+	color: #f99c00;
+}
+
+#pacman_trailer { 
+	position: absolute;
+	margin: auto;
+	padding: 0px;
+	left: 0px;
+	right: 0px;
+	bottom: 50px;
+	width: 500px;
+	height: 50px;
+}
+
+@media screen and (min-height:1200px), screen and (min-device-height : 1200px) { 
+
+}
+
+@media screen and (max-width:1024px), screen and (min-device-width : 768px) and (max-device-width : 1024px) { 
+
+	
+	#canvas-panel-title-pacman { 
+		left: 49px;
+		width: 42px;
+	}
+	#canvas-lifes, #canvas-level-fruits { 
+		 bottom:.5%;
+	}
+}
+
+@media screen and (max-height:640px), screen and (min-device-height : 480px) and (max-device-height : 640px) and (-webkit-device-pixel-ratio: 3) { 
+
+}
+@media screen and (max-height:480px), screen and (min-device-height : 320px) and (max-device-height : 480px) { 
+
+}
+/* custom css */
+
+
+#pacman_toolbar{
+		position: absolute;
+		top: 0;
+		left: 20px;
+		right: 20px;
+}
+#pacman_board {
+    margin-top: 50px;
+}
+
+#pacman_panel #pacman_toolbar .pacman_sound {
+float:left;
+}
+#pacman_panel #pacman_toolbar .pacman_sound img{
+margin-left:10px;
+margin-top:10px;
+}
+.pacman_title {
+    font-size: 30px;
+	background-color:#000;
+	text-align:center;
+	margin-bottom: 0px;
+}
+#pacman_score{
+float:left;
+}
+.help-button{
+	float:left;
+	margin-top:10px;
+}
+
+#mypacman_page{
+background-color: transparent;
+border:none;
+/* min-width:590px; */
+height: 560px;
+	margin: 10% auto; 
+	width: 30%; 
+	position: relative;
+	-webkit-animation-name: animatetop;
+  -webkit-animation-duration: 0.4s;
+}
+
+@-webkit-keyframes animatetop {
+	from {top:-300px; opacity:0} 
+	to {top:0; opacity:1}
+  }
+  
+  @keyframes animatetop {
+	from {top:-300px; opacity:0}
+	to {top:0; opacity:1}
+  }
+
+
+.help-sound{
+	width:90px;
+	float:right;
+	margin-right: 5px;
+}
+
+#mypacman_page {
+	/*display: none; 
+	position: fixed; 
+	z-index: 1; 
+	left: 0;
+	top: 0;*/
+	width: 100%; 
+	max-width:500px;
+	/*height: 100%; 
+	overflow-y: hidden;
+	background-color: rgb(0,0,0); 
+	background-color: rgba(0,0,0,0.4); 
+	min-width: 100%;
+	*/
+  }
+  
+  .pacman_close {
+	color: #aaa;
+	float: right;
+	font-size: 28px;
+	font-weight: bold;
+  }
+  
+  .pacman_close:hover,
+  .pacman_close:focus {
+	color: black;
+	text-decoration: none;
+	cursor: pointer;
+  }
+
+.pacman_characters{
+	display:block !important;
+}
+
+#mypacman_page table {
+    border: 0.1rem solid #dcd7ca;
+    border-collapse: collapse;
+    border-spacing: 0;
+    empty-cells: show;
+    font-size: 1.6rem;
+    margin: 2rem 0;
+    max-width: 100%;
+    overflow: hidden;
+    width: 100%;
+}
+
+#mypacman_page th, #mypacman_page td {
+    border: 0.1rem solid #dcd7ca;
+    line-height: 1.4;
+    margin: 0;
+    overflow: visible;
+    padding: 0.5em;
+}
+/* custom css ends */
+
+
+@media only screen and (max-width: 600px) {
+	#mypacman_page{				
+		width:80%;
+		margin-bottom: 25%;
+	}
+	#mypacman_page .help-sound{
+		width: 120px;
+	}
+  }
+
+@media only screen and (min-width: 501px)and (max-width: 700px) {
+	#mypacman_page{				
+		width:70%;
+	}
+	#mypacman_page .help-sound{
+		width: 120px;
+	}
+  }
+
+  @media only screen and (min-width: 701px)and (max-width: 900px) {
+	#mypacman_page{				
+		width:60%;
+	}
+	#mypacman_page .help-sound{
+		width: 120px;
+	}
+  }
